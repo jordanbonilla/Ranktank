@@ -5,7 +5,7 @@ import signal
 import os
 
 prof_id = -1
-SLEEP_INTERVAL = 1
+SLEEP_INTERVAL = .4
 CACHE_FILE_NAME = "highest_explored_index.txt"
 
 def signal_handler(signal, frame):
@@ -15,12 +15,10 @@ def signal_handler(signal, frame):
 		print('You pressed Ctrl+C!')
 		print('updating and closing index cache file')
 		index_cache_file = open(CACHE_FILE_NAME,"w")
-		index_cache_file.write(str(prof_id))
+		index_cache_file.write(str(prof_id - 1))
 		index_cache_file.flush()
 		index_cache_file.close()
 		quit()
-
-
 
 def update_cache(prof_id):
 	index_cache_file = open(CACHE_FILE_NAME,"w")
@@ -39,10 +37,12 @@ def store_data(this_result):
 	# Don't double count
 	for line in data_file:
 		if name in line:
+			sys.stdout.write("PROFESSOR: " + str(this_result) + ", ID: " + str(prof_id) + " ALREADY ENCOUNTERED, ")
+			data_file.close()
 			return
 	data_file.write(name + '\n')
 	data_file.close()
-	print this_result, prof_id
+	sys.stdout.write(str(this_result) + ", Prof ID: " + str(prof_id) + ", ")
 
 def get_professor_info(url):
 	response = urllib2.urlopen(url)
@@ -80,9 +80,6 @@ def get_professor_info(url):
 	info.append(department)
 	info.append(host_uni)
 	return info
-	print "Curr Department: ", department
-	print "Current Uni: ", host_uni
-	print "Name: ", phd_uni
 
 if __name__ == "__main__":
 	signal.signal(signal.SIGINT, signal_handler)
@@ -91,13 +88,13 @@ if __name__ == "__main__":
 	if(os.path.getsize(CACHE_FILE_NAME) is 0):
 		prof_id = 1
 	else:
-		#prof_id = int(index_cache_file.readlines()[0])
-		prof_id = 1
-	print "Beginning from index", prof_id
+		prof_id = int((index_cache_file.readlines())[0])
+	print("Beginning from index", prof_id)
 	index_cache_file.close()
 
 	base_url = "http://www.ratemyprofessors.com/ShowRatings.jsp?tid="
 	for i in range(prof_id, 200000):
+		start_time = time.time()
 		next_url = base_url + str(prof_id)
 		this_result = get_professor_info(next_url)
 		if len(this_result) is 3:
@@ -105,3 +102,4 @@ if __name__ == "__main__":
 		time.sleep(SLEEP_INTERVAL)
 		prof_id += 1
 		update_cache(prof_id)
+		sys.stdout.write("Iteration duration (s): " + str(time.time() - start_time) + '\n')
