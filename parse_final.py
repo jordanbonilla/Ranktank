@@ -35,7 +35,7 @@ def store_data(this_result):
 	folder = host_uni + '/' + department
 	if not os.path.exists(folder):
 		os.makedirs(folder)
-	data_file = open("data.txt","a+")
+	data_file = open(folder + '/' + "data.txt","a+")
 	# Don't double count
 	for line in data_file:
 		if name in line:
@@ -61,19 +61,19 @@ def get_professor_info(url):
 	i = department_start
 	while(html[i] is not '"'):
 		i += 1
-	department = html[department_start: i]
+	department = html[department_start: i].strip()
 
 	host_uni_start = prop6_start + 10
 	i = host_uni_start
 	while(html[i] is not '"'):
 		i += 1
-	host_uni = html[host_uni_start: i]
+	host_uni = html[host_uni_start: i].strip()
 
 	name_start = prop7_start + 10
 	i = name_start
 	while(html[i] is not '"'):
 		i += 1
-	name = html[name_start: i]
+	name = html[name_start: i].strip()
 
 	info = []
 	info.append(name)
@@ -91,7 +91,8 @@ if __name__ == "__main__":
 	if(os.path.getsize(CACHE_FILE_NAME) is 0):
 		prof_id = 1
 	else:
-		prof_id = int(index_cache_file.readlines()[0])
+		#prof_id = int(index_cache_file.readlines()[0])
+		prof_id = 1
 	print "Beginning from index", prof_id
 	index_cache_file.close()
 
