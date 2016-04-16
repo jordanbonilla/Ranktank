@@ -3,6 +3,7 @@ import time
 import sys
 import signal
 import os
+import cookielib
 
 prof_id = -1
 SLEEP_INTERVAL = .4
@@ -45,9 +46,17 @@ def store_data(this_result):
 	sys.stdout.write(str(this_result) + ", Prof ID: " + str(prof_id) + ", ")
 
 def get_professor_info(url):
-	response = urllib2.urlopen(url)
-	html = response.read()
-	# Ensure valid RMP url
+	try:
+		response = urllib2.urlopen(url)
+		html = response.read()
+	except urllib2.URLError, e:
+		error_text = e.reason
+		if "infinite loop" in error_text and "30x" in error_text: # RPM has some messed up pages
+			return []
+		else:
+			print e.reason
+			quit()
+	# Check for deleted page
 	if "Page Not Found" in html:
 		return []
 
