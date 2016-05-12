@@ -102,7 +102,8 @@ if __name__ == "__main__":
 	index_cache_file.close()
 
 	base_url = "http://www.ratemyprofessors.com/ShowRatings.jsp?tid="
-	for i in range(prof_id, 200000):
+	prof_id = 2189513
+	for i in range(prof_id ,21895130 ): # Finished 1  - 2189513
 		start_time = time.time()
 		next_url = base_url + str(prof_id)
 		this_result = get_professor_info(next_url)
