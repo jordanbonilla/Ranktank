@@ -216,48 +216,112 @@ def find_phd_institution(websites):
 	return "failure"
 
 def readDict(filename):
-    with open(filename, "r") as f:
-        dict = {}
-        content = f.readlines()
-        for line in content:
-            values = line.split("@")
-            dict[values[0].lower()] = values[1].lower().replace("\n", "")
-        return(dict)
+	with open(filename, "r") as f:
+		dict = {}
+		content = f.readlines()
+		for line in content:
+			values = line.split("@")
+			dict[values[0].lower()] = values[1].lower().replace("\n", "")
+		return(dict)
+
+import shutil
+def cleanup:
+	curfile = None
+	parents = readDict("pseudonyms.txt")
+	all_pseudos = parents.keys()
+	file = None
+	unis_visited = {}
+	for name in os.listdir("."):
+		if name in unis_visited or name == ".git" or name == "":
+			continue
+		else:
+			unis_visited[name] = True
+		if os.path.isdir(name):
+			os.chdir(name)
+			for folder in os.listdir("."):
+				while True:
+					try:
+						file = open(folder + "/data.txt", "r")
+					except Exception as e:
+						print e
+						e = str(e)
+						print name, folder
+
+						rootDir = folder
+						data_files_seen = 0
+						for dirName, subdirList, fileList in os.walk(rootDir):
+							print('Found directory: %s' % dirName)
+							for fname in fileList:
+								if fname == "data.txt":
+									if(data_files_seen > 0):
+										print "2 DATA FILES???"
+										quit()
+									source = dirName + '/data.txt'
+									shutil.copy2(source, rootDir)
+									data_files_seen +=1
+						filelist = [ f for f in os.listdir(folder) if os.path.isdir(folder + "/" + f) ]
+						for f in filelist:
+							print "removing " + folder + "/" + f + " from " + name
+							shutil.rmtree(folder + "/" + f)
+					break
+				print "boop"
+				#a = file.readlines()
+				#print a
+				file.close()
+			os.chdir("../")
+
+
+def get_phd(line, school):
+	prof_name = line
+	current_institute = school
+	pages = get_phd_pages(prof_name, current_institute)
+	institute = find_phd_institution(pages)
+	if (institute == "failure"):
+		return "UNKNWON"
+	else:
+		return institute
+
 
 if __name__ == "__main__":
 	curfile = None
 	parents = readDict("pseudonyms.txt")
 	all_pseudos = parents.keys()
-
-
+	file = None
 	unis_visited = {}
 	for name in os.listdir("."):
 		if name in unis_visited or name == ".git" or name == "":
-			itr +=1
 			continue
 		else:
 			unis_visited[name] = True
-
 		if os.path.isdir(name):
-			for folder in os.listdir("./" + '"' + name + '"'):
-				print name
-		quit()
+			os.chdir(name)
+			for folder in os.listdir("."):
+				while True:
+					try:
+						file = open(folder + "/data.txt", "r")
+					except Exception as e:
+						print e
+						e = str(e)
+						print name, folder
+					break
+				new_data = ""
+				a = file.readlines()
+				lines = a.split('\n')
+				for line in lines:
+					division = line.split('@')
+					if len(devision) is 1:
+						line+="@"+get_phd(line, name)
+					else:
+						line = line # Don't redo work
+					new_data += line + '\n'
+				file.seek(0)
+				file.truncate()
+				file.write(new_data)
+				file.close()
+			os.chdir("../")
 
 
-		all_data+='\n'
-		itr += 1	
 
-
-
-	prof_name = "Bob Buchanan"
-	current_institute = "University of California Berkeley"
-	pages = get_phd_pages(prof_name, current_institute)
-	#pages = ["https://www.linkedin.com/in/adamch"]
-	institute = find_phd_institution(pages)
-	if (institute == "failure"):
-		print "fail"
-	else:
-		print "@", institute, "@"
 	#rip_text_from_url("http://www.eas.caltech.edu/people/3336/profile")
 
 
