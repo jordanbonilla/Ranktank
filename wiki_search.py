@@ -15,16 +15,17 @@ import time
 import sys
 from nltk import tokenize
 import signal
+import pickle
 
 SLEEP_DURATION = 0
 
 all_encountered_names = {}
-ignore = {"colloquially", 'state-assisted', "La","informally","Cal",'United', "State","sometimes","sic","officially", 'B.S./M.D.',"US","Upstate",'collectively,', "widely",'The', 'Colleges','depending', 'on', 'degree', 'plan', 'disambiguation','States', 'Air', 'Force', "Law","", 'French,', 'National', 'Institute', "Florida","Poly","ha","called","Jay", "John", "Anaheim","Philadelphia","BC", "often", "law","State","nicknamed","MCC", "PCC","Wisconsin","OBU", "University","of","New", "College", "USU", "NLU","MSU", "UT", "st.", "St.","HCC","(formerly,", "renamed", "abbreviated", "originally", "formerly", "commonly", "referred", "to", "and", "Tech", "more", "or", "also", "known", "as", "km", "etc", "accents,", "umlauts,", "etc.", "co-op", 'U', 'FSU'}
+ignore = {"colloquially", 'near', "in","Studio", "California","for",'state-assisted',"de","India", "WEZ-lee-in","militaire",'officially,',"Howard",'nationale',"County","La","informally","Cal",'United', "State","sometimes","sic","officially", 'B.S./M.D.',"US","Upstate",'collectively,', "widely",'The', 'Colleges','depending', 'on', 'degree', 'plan', 'disambiguation','States', 'Air', 'Force', "Law","", 'French,', 'National', 'Institute', "Florida","Poly","ha","called","Jay", "John", "Anaheim","Philadelphia","BC", "often", "law","State","nicknamed","MCC", "PCC","Wisconsin","OBU", "University","of","New", "College", "USU", "NLU","MSU", "UT", "st.", "St.","HCC","(formerly,", "renamed", "abbreviated", "originally", "formerly", "commonly", "referred", "to", "and", "Tech", "more", "or", "also", "known", "as", "km", "etc", "accents,", "umlauts,", "etc.", "co-op", 'U', 'FSU'}
 all_data = ""
 outfilename = ""
-
-def print_dict():
-	parent_nodes = {}
+parent_nodes = {}
+def populate_dict():
+	global parent_nodes
 	data_lines = all_data.split('\n')
 	for line in data_lines:
 		phrases = line.split(',')
@@ -33,19 +34,30 @@ def print_dict():
 		phrases.remove(phrases[0])
 		for phrase in phrases:
 			parent_nodes[phrase] = parent
-	print parent_nodes
+
+def writeDict(dict, filename):
+    with open(filename, "w") as f:
+        for i in dict.keys():            
+            f.write(i + "@" + dict[i] + '\n')
+
+def readDict(filename):
+    with open(filename, "r") as f:
+        dict = {}
+        content = f.readlines()
+        for line in content:
+            values = line.split("@")
+            dict[values[0]] = values[1].replace("\n", "")
+        return(dict)
 
 def write_data():
-	f = open(outfilename, 'w+')
-	f.write(all_data)
-	f.close()
+	populate_dict()
+	writeDict(parent_nodes, "pseudonyms.txt")
 
 def signal_handler(signal, frame):
 	global outfilename
 	global all_data
 	print('You pressed Ctrl+C!')
 	write_data()
-	print_dict()
 	quit()
 
 #Fetch an HTML file, return the real (redirected) URL and the content.
@@ -241,7 +253,7 @@ def record_names():
 	itr = 1
 	unis_visited = {}
 	for name in os.listdir("."):
-		if name in unis_visited:
+		if name in unis_visited or name == ".git" or name == "":
 			itr +=1
 			continue
 		else:
@@ -278,7 +290,6 @@ def record_names():
 		sys.stdout.write("Uni #" + str(itr) + ", Iteration duration (s): " + str(total_time) + ", " + str(pseudonyms) + '\n')
 		itr += 1	
 
-	print_dict()
 	write_data()
 
 if __name__ == "__main__":

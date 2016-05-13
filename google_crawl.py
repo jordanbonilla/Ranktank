@@ -1,3 +1,4 @@
+# encoding=utf8 
 from bs4 import BeautifulSoup
 import sys
 import signal
@@ -7,6 +8,7 @@ import time
 import nltk.data
 import mechanize
 import re
+import os
 from html2text import html2text 
 sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
 
@@ -32,7 +34,7 @@ def populate_uni_names():
 
 
 def get_phd_pages(name, university):
-	search_term = name + ' ' + university
+	search_term = name + ' ' + university + ' phd'
 	base_url = "https://www.google.com/search?q="
 	search_url = base_url
 	words_in_seach_term = search_term.split(' ')
@@ -103,7 +105,6 @@ def rip_text_from_url(url):
 		for line in text:
 			naturally_spaced += line + ' '
 		organized = sent_detector.tokenize(naturally_spaced)
-		print organized
 		return organized
 	except:
 		print "Could not tokenize:", url
@@ -128,16 +129,66 @@ def consecutive_subsequences(words):
 				break
 	return output
 
+def in_parens(line, index_of_phd_term, len_phd_word):
+	start = index_of_phd_term - 1
+	end = index_of_phd_term + len_phd_word
+	paren_start = max(0, start)
+	paren_end = min(len(line) - 1, end)
+	if(line[paren_start] == '(' and line[paren_end] == ')'):
+		return True
+	else:
+		return False
+
 # Get the institution this prof went to school from the text in line
 def parse_institution_name(line, phd_word):
 	global UNI_NAMES
+	global parents
+	global all_pseudos
+	if("apply" in line):
+		return "failure"
+
 	index_of_phd_term = line.index(phd_word)
 	print "index of phd term:", index_of_phd_term
+	if in_parens(line, index_of_phd_term, len(phd_word)): # if enclosed in parens, we are confident that the uni lies to the left 
+		line = line.split("(" + phd_word + ")")[0]
+	confounded = False
+	confounding = ["b.s.", "bachelors", "masters", "m.s.", "b.a"]
+	for c in confounding:
+		if c in line:
+			confounded = True
+			break
+
+	if confounded is False:
+		for phrase in all_pseudos:
+			varients = [' ' + phrase + '.', ' ' + phrase + ',', ' ' + phrase + ' ']
+			for variant in varients:
+				if variant.decode('utf-8') in line:
+					return phrase
+		return "failure"
+
+	pre = -1
+	post = -1
+	for i in range(index_of_phd_term, 0, -1):
+		char = line[i]
+		if (char == ',') or (char == '.'):
+			pre = i + 1
+			break
+	for i in range(index_of_phd_term + len(phd_word), len(line), 1):
+		char = line[i]
+		if (char == ',') or (char == '.'):
+			post = i
+			break
+
+	if(pre is not -1 and post is not -1):
+		line = line[pre:post]
+
+	print line
 	indicies_of_universities = []
-	phrases = consecutive_subsequences((line.lower()).split(' '))
-	for phrase in phrases:
-		if phrase in UNI_NAMES:
-			print phrase
+	for phrase in all_pseudos:
+		varients = [' ' + phrase + '.', ' ' + phrase + ',', ' ' + phrase + ' ']
+		for variant in varients:
+			if variant.decode('utf-8') in line:
+				return phrase
 	return "failure"
 
 
@@ -145,6 +196,7 @@ def parse_institution_name(line, phd_word):
 def find_phd_institution(websites):
 	search_words = set(["PhD","Ph.D","Ph.D."])
 	for website in websites:
+		print website
 		if not website.startswith('http'):
 			website = '%s%s' % ('http://', website)
 		if(website.endswith(".pdf") or website.endswith(".doc") or website.endswith(".ppt") or website.endswith(".docx")):
@@ -158,17 +210,54 @@ def find_phd_institution(websites):
 					word = word.lower()
 					line = line.lower()
 					if word in line:
-						result = parse_institution_name(line, word)
-						if result is not "failure":
-							print result
-							return
+						return parse_institution_name(line, word) #only care about first occurance to prevent caes like in berkeley where they list phd students
+						#if result is not "failure":
+						#	return result
+	return "failure"
 
+def readDict(filename):
+    with open(filename, "r") as f:
+        dict = {}
+        content = f.readlines()
+        for line in content:
+            values = line.split("@")
+            dict[values[0].lower()] = values[1].lower().replace("\n", "")
+        return(dict)
 
 if __name__ == "__main__":
-	#populate_uni_names()
-	#pages = get_phd_pages("Adam Chlipala", "Massachusetts Institute of Technology")
-	pages = ["https://www.linkedin.com/in/adamch"]
-	find_phd_institution(pages)
+	curfile = None
+	parents = readDict("pseudonyms.txt")
+	all_pseudos = parents.keys()
+
+
+	unis_visited = {}
+	for name in os.listdir("."):
+		if name in unis_visited or name == ".git" or name == "":
+			itr +=1
+			continue
+		else:
+			unis_visited[name] = True
+
+		if os.path.isdir(name):
+			for folder in os.listdir("./" + '"' + name + '"'):
+				print name
+		quit()
+
+
+		all_data+='\n'
+		itr += 1	
+
+
+
+	prof_name = "Bob Buchanan"
+	current_institute = "University of California Berkeley"
+	pages = get_phd_pages(prof_name, current_institute)
+	#pages = ["https://www.linkedin.com/in/adamch"]
+	institute = find_phd_institution(pages)
+	if (institute == "failure"):
+		print "fail"
+	else:
+		print "@", institute, "@"
 	#rip_text_from_url("http://www.eas.caltech.edu/people/3336/profile")
 
 

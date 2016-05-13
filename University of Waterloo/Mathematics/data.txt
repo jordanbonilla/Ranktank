@@ -1,0 +1,397 @@
+Marek Stastna
+Kevin Lamb
+H.H. Panjer
+Conrad Hewitt
+Cyntha Struthers
+Chris Godsil
+R. P. J. André
+Che Tat Ng
+Peter Crippin
+Daniel Younger
+Serge D'Alessio
+Keith Freeland
+Stephen New
+David M R Jackson
+Bill Cunningham
+Ruth Malinowski
+Stanley Lipshitz
+Bruce Richter
+Zoran Miskovic
+Chrysanne Dimarco
+Mary Hardy
+Stefan Steiner
+Ian Vanderburgh
+Frank G. Reynolds
+Bev Marshman
+Chris Springer
+Kenneth Davidson
+Peter Hoffman
+Frank Zorzitto
+Steve Furino
+Brian Forrest
+Barry Ferguson
+William Gilbert
+Alexandru Nica
+Colleen Cutler
+R Scoins
+Palaniappan Kannappan
+Ross Willard
+Jim Geelen
+Winston Cherry
+Ian Goulden
+Jock MacKay
+John Wainwright
+Francis Tang
+Changbao Wu
+David Siegel
+Kathryn Hare
+David G. Wagner
+Alfred John Menezes
+John Lawrence
+Paul Schellenberg
+Peter Wood
+Edward Vrscay
+Henry Wolkowicz
+Giuseppe Tenti
+Edlyn Teske
+Achim Kempf
+Penny Haxell
+Bruce Richmond
+Dragomir Djokovic
+Laurent Marcoux
+Peter Balka
+Joseph Cheriyan
+Scott Vanstone
+Michael J. Best
+Stanley Burris
+Ken Seng Tan
+Don McLeish
+Steve Drekic
+Michele Mosca
+Rob Brown
+Sue Ann Campbell
+Corina Drapaca
+Aurelie Labbe
+David McKinnon
+Mu Zhu
+Grace Yun Yi
+Gary Petker
+Kirsten Morris
+Nathan Zehr
+Nico Spronk
+Jerry F. Lawless
+Adam Kolkiewicz
+Miron Shpigel
+Jiahua Chen
+Boza Tasic
+Brian Ingalls
+David Harmsworth
+Doug Park
+Jennifer McKinnon
+Bertrand Guenin
+Stephen Brown
+Bovas Abraham
+Ashwin Nayak
+Ken Giuliani
+Frank Goodman
+Leroy J. Dickey
+Cameron Stewart
+Bethany Giddings
+Jiri Cizek
+Michael Andrew La Croix
+Jochen Konemann
+Jason Lucier
+Francis Poulin
+Rahim Moosa
+Yulia Gel
+Aidan Roy
+Rupert Levene
+Barbara Forrest
+Guangzhe Fan
+Dilian Yang
+Mike Eden
+Mark Laidlaw
+James Muir
+Nathalie Lanson
+Hans De Sterck
+Laszlo Szego
+Petr Zima
+Hyun T. Kim
+Matt Scott
+Bill Zhang
+Peter Song
+David Saunders
+Catherine Donnelly
+Grace Chiu
+Fiona Dunbar
+Ali Ghodsi
+Barbara Csima
+Albert Chau
+Nick Wormald
+Bernhard Bodmann
+Andris Ambainis
+Anne-Marie Allison
+Dong Chang
+Uldis Celmins
+Reza Naserasr
+Joseph Emerson
+Lajmi Lakhal
+Gordon Willmot
+Pawel Pralat
+Rohit Khandekar
+Mehran Ebrahimi Kahrizsangi
+Douglas Stebila
+Anita Santin
+Eleanor Pullenayegum
+Mihail Neagu
+Sanjiv Gupta
+Debbie Leung
+Paul Wollan
+Serban Belinschi
+David Matthews
+Stephen Vavasis
+Iain Moffatt
+Ruxandra Moraru
+Christiane Lemieux
+Phelim Boyle
+David Jao
+Carlos Hoppen
+Ji Eun Choi
+Chaitanya Swamy
+Douglas William Andrews
+Johnny Li
+Nataliya Portman
+Shengli Wu
+Hun Hee Lee
+Lalit Jain
+Diana Chisholm
+Sang-Il Oum
+Qian &quot;Michelle&quot; Zhou
+Ilham Akhundov
+Andrew Childs
+Rishi Rishikesh
+Shanta Laishram
+Collin Roberts
+Paula Smith
+Siu Hang Li
+Ahmadi Darvishvand
+Simone Speziale
+Cedric Benny
+Omran Ahmadi Darvishvand
+Jimpeng An
+Jean Rayder
+Ebrahim Samei
+Patrice Camire
+Nathan Krislock
+Mitja Mastnak
+Carole Bernard
+Matthew Till
+Moshe Kamensky
+Michelle Ashburner
+Patrick Roh
+David Landriault
+Glencora Borradaile
+Matthew Calder
+Ali Ghodsi Boushehri
+Eric Cheung
+Lijun Wang
+Veronika Shelestunova
+Brent James Matheson
+Jason Zi Yang Sham
+Ziyang Sham
+Robert Andre
+Martin Pei
+Denglin Zhou
+Jean-Francois Renaud
+Katherine Wilkie
+Jean Roydor
+Kevin Purbhoo
+Paquita Freire
+Spiro Karigiannis
+Lilia Krivodonova
+Orr Shalit
+Nick Harvey
+Mirhamed Mirjalalieh Shirazi
+Diana K. Skrzydlo
+Jennifer Nissen
+Eddie Dupont
+Maria Wesslen
+Bill Zou
+Surya Banerjee
+Xiaorong Zou
+Shengda HU
+Andrew Beltaos
+Christian Boudreau
+Mathieu Guay-Paquet
+Michael Waite
+Cecilia Cotton
+Michael Alexander McIsaac
+Patrick Ingram
+Kamyar Moshksar
+Clinton Loo
+Zhen Yang
+Sean Speziale
+Chris Van Kooten
+Chengguo Weng
+Ryan Hamilton
+Olaf Dreyer
+Bernard Anderson
+Georges Djoumna
+Konstantinos Georgiou
+Chris Groendyke
+Elgun Elcim
+Scott Lennox
+Yin Hei Cheng
+Dina Dawoud
+Xiaomei Zhao
+Javid Ali
+James Adcock
+Evgenios Kakariadis
+Shanoja Naik
+Aaron Smith
+Lorenzo Fatibene
+Kristopher Rowe
+Javier Moreno Carmago
+Koray Karabina
+Jon Tyson
+Francine Vinette
+Lysa Porth
+Derek Steinmoeller
+Easwar Magesan
+Ilona Kowalik-Urbaniak
+Mukto Akash
+Matthias Schonlau
+Muhamad Rashid Ahmed
+David Kohler
+Jit Seng Chen
+Yin Kwan Chan
+Benoit Charbonneau
+Andrijana Burazin
+Michale Coons
+Tianxiang Shi
+Eric Katz
+Florian Girelli
+Pantelis Eleftheriou
+Ryan Freeland
+Janelle Resch
+Pengfei LI
+Pekka Salmi
+Rahim Rahim Moosa
+Mohamad Alwan
+József Vass
+Wilten Nicola
+Joshua Smith
+Hans Sterck
+Dale Brydon
+Lei Lei Zeng
+Amenda Chow
+Ashley Webster
+Hany Fahmy
+Vincent Sweeney
+Jonah Horowitz
+Zachary Friggstad
+Alejandra Colmenares
+Kai Cheong Chan
+Ruodu Wang
+Lucian Ivan
+Martin Lysy
+Dhanaraja Kasinathan
+Laura Sanità
+Nancy Soontiens
+Robert Koenig
+Taghreed Sugati
+Andreas Feldmann
+Anton Baglaenko
+Jon Walgate
+Alexey Popov
+Venkata Manem
+Peisong Han
+Aristide Baratin
+Amir Memartoluie
+Raphael Clouatre
+Shahin Kamali
+Killian Miller
+Maite Dupuis
+Carolyn Knoll
+William Billy Marshall
+Fernando Camacho
+Ghazal Geshnizjani
+Yeying Zhu
+Robert Garbary
+Gabriel de Morais Coutinho
+Luke Postle
+Yongqiang Zhao
+Junbo Huang
+Mahmood Alaghmandan
+Jordan Hamilton
+Chong Zhang
+Shahla Aliakbari
+Shuntaro Yamagishi
+Blake Madill
+Alan Thompson
+Nathaniel Stevens
+Stanley Xiao
+Owen Woody
+William Cook
+Sivabal Sivaloganathan
+Carmen Bruni
+Carrie Knoll
+Ryan Trelford
+Farinaz  Forouzannia
+Alexander  Howse
+Shane Bauman
+Wei Xu
+Liqun Diao
+Jen Nelson
+Paul McGrath
+Alain Gamache
+Matt Kloosterman
+Matthew Satriano
+Joslin Goh
+Ryan Browne
+Puneet Sharma
+Tristan Freiberg
+Yuchen Mei
+Gabriel Gauthier-Shalom
+Matthew Kennedy
+Matthew Wiersma
+Jimmy Lin
+Steven Gindi
+Timothy Rainone
+Giuseppe Sellaroli
+Thomas Coleman
+Nishad Kothari
+Yafim Spigel
+Wayne Oldford
+Cody Hyndman
+Adam Metzler
+Joe DiCesare
+Mohammad Kohandel
+Judith Koeller
+Michael Rubinstein
+Chek Beng Chua
+Mainak Poddar
+Martin Roetteler
+Wentang Kuo
+Yu-Ru Liu
+James Munroe
+Nicolas Petraco
+Ronald Green
+Yun Hee Choi
+Levent Tunçel
+Romy Shioda
+Cindy Fu
+Shoja'eddin Chenouri
+Jacques Verstraete
+Riley Metzger
+Hania Wormald
+Weidong Tian
+Jack Robinson
+Siva Sivaloganathan
+Dan Wolczuk
+Paul Marriott
+Xinzhi Liu
+Joseph J. West
+Kevin Hare
+Simon Alexander
+Andrei L. Badescu

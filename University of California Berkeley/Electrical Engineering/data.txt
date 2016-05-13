@@ -1,0 +1,35 @@
+Jan M. Rabaey
+David Tse
+Bharathwaj Muthuswamy
+Connie Chang - Hasnain
+Bernhard Boser
+Huma Dar
+Andrew Neureuther
+Babak Ayazifar
+Anant Sahai
+Jeffrey Bokor
+Ali Javey
+Chenming Hu
+Ming Wu
+Vivek Subramanian
+Venkat Anantharam
+Eli Yablonovitch
+Michel Maharbiz
+Avideh Zakhor
+Clark Nguyen
+Frank Liao
+Seth Sanders
+Ture Gustafson
+Nathan Cheung
+Ali Niknejad
+Borivoje Nikolic
+Ronald Fearing
+Sayeef Salahuddin
+Murat Arcak
+Alberto Sangiovanni-Vincentelli
+Michael (miki) Lustig
+Nuo XU
+Kristofer Pister
+Thomas Courtade
+Elad Alon
+Michael Franklin
