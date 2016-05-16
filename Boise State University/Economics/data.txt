@@ -1,25 +1,11 @@
-Allen Dalton
-John Church
-Geoff Black
-Larry Reynolds
-Christine Loucks
-Taylor Cox
-Samia Islam
-John Martin
-Sian Mooney
-Rodney Smith
-Bhaswati Ghosh
-Scott Lowe
-Richard Hart
-Zeynep Hansen
-Bhaswati Guha
-Duwayne Hammond
-Donald Holley
-Chris Olson
-Zena Cook
-Kelly Cobourn
-Bruce Strom
-Michail Fragkias
-Brian Greber
-Kelly Chen
-Charlotte Twight
+John Church@university of oregon
+Larry Reynolds@washington state university
+Samia Islam@boise state university
+Sian Mooney@oregon state university
+Rodney Smith@marquette university
+Bhaswati Ghosh@boise state university
+Duwayne Hammond@university of massachusetts
+Kelly Cobourn@virginia tech
+Michail Fragkias@boise state university
+Brian Greber@oregon state university
+Charlotte Twight@university of washington

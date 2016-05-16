@@ -1,27 +1,9 @@
-Amy Smith
-Gregg Camfield
-Bob Cox
-Camille Norton
-Eileen Camfield
-Courtney Lehmann
-Douglas Tedards
-Maria Garcia-Sheets
-Arthur Murrillo
-Xiaojing Zhou
-Jim Phillips
-Ludmilla Buettner
-Andreea Boboc
-John Lessard
-Lisa Jordon
-Jeffrey Hole
-John Cassell
-Michael Lukas
-Kristi Wyant
-Micheal Garbarini
-Roger Hacker
-Ann-Marie Cook
-Eda Mutua-Kumbo
-Cynthia Dobbs
-Marta Beckman
-Eric Sonstroem
-Scott Evans
+Amy Smith@stanford university
+Bob Cox@northern arizona university
+Camille Norton@harvard university
+Eileen Camfield@wit
+Jim Phillips@university of washington
+John Lessard@university of the pacific
+Jeffrey Hole@university of the pacific
+Micheal Garbarini@depaul university
+Scott Evans@new mexico state university

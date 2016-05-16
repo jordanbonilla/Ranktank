@@ -1,81 +1,51 @@
-Stephen Mandell
-Alan Gerstle
-Miriam Kotzin
-Scott Warnock
-Brad Windhauser
-Elaine DeLancey
-Rebecca Brown
-Vincent Williams
-Doc Martin
-Doreen Saar
-Gabriella Ibieta
-Kathleen Volk Miller
-Robert Watts
-Hazel Cooper-Watts
-Elizabeth Thorpe
-Henry Israeli
-Stephen McCormick
-Robin Fradkin
-Brian Sammons
-Diane Downs
-Kevin Cooney
-Shannon Dewitt-Mccormick
-Kathleen McNamee
-Valerie Fox
-Ted Fristrom
-Christopher McSween
-Judith E Franklin
-Mary Beth Keane
-Evelyn Reznak
-Elaine Johanson
-Joshua Isard
-Jennifer Yusin
-Michael Bradley
-Sheryl Simons
-Rebecca Ingalls
-Albert Dibartolomeo
-Ingrid G. Daemmrich
-Gail O. Rosen
-Jan Armon
-Larry Cionca
-Cassandra Hirsch
-Robert Wetherill
-Melinda Hollis
-Dierdre McMahon
-Valerie Booth
-Robert Finnegan
-Michael Leone
-Marianna Mendez
-Harriet Levin Millan
-Travis Harman
-Harriet Millan
-Valarie Arms
-Matthew Smith
-Timothy Fitts
-Emilie Passow
-Christopher Neilson
-Anne Erickson
-Gregory Cooke
-John Borczon
-John Andelfinger
-Steven Kleinman
-Caitlin McCormick
-Jill Moses
-Keunah Han
-Marianallet  Mendez
-Marshall Warfield
-Valerie Ellis
-Norman Roessler
-Sheila Sandapen
-Allison McNally
-Miyo Moriuchi
-Karen Nulton
-Errol Sull
-Kirsten Kaschock
-Nelly Toll
-Scott Stein
-Donald Riggs
-Derek Soles
-Eva Thury
-Christopher Nielson
-Raymond Brebach
+Alan Gerstle@massachusetts institute of technology
+Miriam Kotzin@drexel university
+Scott Warnock@drexel university
+Rebecca Brown@drexel university
+Gabriella Ibieta@drexel university
+Robert Watts@syracuse university
+Stephen McCormick@drexel university
+Brian Sammons@drexel university
+Kevin Cooney@drexel university
+Shannon Dewitt-Mccormick@drexel university
+Valerie Fox@drexel university
+Mary Beth Keane@drexel university
+Evelyn Reznak@drexel university
+Elaine Johanson@drexel university
+Jennifer Yusin@drexel university
+Michael Bradley@drexel university
+Sheryl Simons@drexel university
+Rebecca Ingalls@drexel university
+Albert Dibartolomeo@drexel university
+Ingrid G. Daemmrich@herbert
+Gail O. Rosen@georgia institute of technology
+Jan Armon@drexel university
+Larry Cionca@drexel university
+Cassandra Hirsch@university of texas health science center
+Melinda Hollis@drexel university
+Valerie Booth@drexel university
+Robert Finnegan@drexel university
+Michael Leone@drexel university
+Marianna Mendez@drexel university
+Travis Harman@drexel university
+Valarie Arms@drexel university
+Matthew Smith@drexel university
+Emilie Passow@drexel university
+Anne Erickson@drexel university
+John Borczon@drexel university
+John Andelfinger@drexel university
+Steven Kleinman@drexel university
+Caitlin McCormick@drexel university
+Jill Moses@temple university
+Marshall Warfield@university of massachusetts
+Valerie Ellis@drexel university
+Norman Roessler@temple university
+Sheila Sandapen@drexel university
+Miyo Moriuchi@drexel university
+Karen Nulton@drexel university
+Kirsten Kaschock@university of georgia
+Nelly Toll@drexel university
+Scott Stein@drexel university
+Donald Riggs@drexel university
+Derek Soles@drexel university
+Eva Thury@drexel university

@@ -1,98 +1,57 @@
-Ts Venkataraman
-Moshe Kam
-Oleh Tretiak
-Bill Goh
-Robin Carr
-Prawat Nagvajara
-Constantine Katsinis
-Harish Sethu
-Antonios Zavaliangos
-Ramesh Kajaria
-Albert Tonik
-Agaim Reddy
-Tein-Min Tan
-Charles Odgers
-Caroline Schauer
-James Mitchell
-Young I Cho
-Robin Czyzewicz
-Surya Kalidindi
-Bahram Nabet
-Anthony Lowman
-Christopher Crockett
-David Dorsey
-Kevin Ayers
-William Engle
-Ivan Felder
-Timothy Kurzweg
-Roberto Ramos
-Joseph Thompson
-Mary Ellen Taggart-Ford
-Thomas Chmielewski
-Samuel Ratnajeevan Hoole
-Vincent Zapisek
-Ryan Bellevou
-Yury Gogotsi
-Marilyn Huff
-John Walsh
-Richard Knight
-Charlie Haas
-Wei Sun
-Giuseppe Palmese
-Paul Kalata
-Roger Marino
-Vasileios Nasis
-Cameron Abrams
-Mira Olson
-B C Chang
-Christopher Peters
-Jonathan Awerbuch
-Harry Kwatny
-Paul Logan
-Lazar Trachtenberg
-Frank Ferreee
-Kevin Murphey
-Anthony Locicero
-Youngmoo Kim
-Baris Taskin
-Antonios Kontsos
-David Miller
-Stephen Wrenn
-Richard Primerano
-Vibha Kalra
-Kenneth Lau
-Kapil Dandekar
-Franklin Moon
-Stephen Smith
-John Fekete
-Jason Baxter
-Shrenik Vora
-James Shackleford
-Afshin Daryoush
-Hualou Liang
-Christopher Weinberger
-Aaron Fafarman
-Nagarajan Kandasamy
-Andrew Cohen
-Grace Hsuan
-Pramod Abichandani
-Ryan Bevan
-Sabrina Spatari
-Tiffani  Worthy
-Marcos Dearruda
-Steve Dicker
-Abieyuwa Aghayere
-Robert Swan
-Karen Miu
-Nicholas Alvarez
-Mohana Shankar
-Maureen Tang
-Ben Pelleg
-Andrei Jablokow
-Emin Aktan
-Sorin Siegler
-Hisham Abdel-Aal
-Dov Jaron
-Bakhtier Farouk
-Fernand Cohen
-Jonathan Spanier
+Ts Venkataraman@drexel university
+Moshe Kam@drexel university
+Oleh Tretiak@mit
+Bill Goh@drexel university
+Robin Carr@goodwin college
+Prawat Nagvajara@northeastern university
+Harish Sethu@lehigh university
+Antonios Zavaliangos@drexel university
+Ramesh Kajaria@drexel university
+Albert Tonik@drexel university
+Agaim Reddy@drexel university
+Caroline Schauer@tufts university
+Robin Czyzewicz@drexel university
+Bahram Nabet@university of washington
+Christopher Crockett@liu
+David Dorsey@drexel university
+William Engle@boston university
+Ivan Felder@drexel university
+Timothy Kurzweg@university of pittsburgh
+Joseph Thompson@drexel university
+Thomas Chmielewski@drexel university
+Samuel Ratnajeevan Hoole@carnegie mellon university
+Ryan Bellevou@drexel university
+Yury Gogotsi@drexel university
+John Walsh@cornell university
+Richard Knight@arc
+Charlie Haas@drexel university
+Giuseppe Palmese@university of delaware
+Paul Kalata@illinois institute of technology
+Vasileios Nasis@drexel university
+Cameron Abrams@north carolina state university
+Lazar Trachtenberg@northeastern university
+Frank Ferreee@drexel university
+Kevin Murphey@drexel university
+Youngmoo Kim@stanford university
+Baris Taskin@university of pittsburgh
+Stephen Wrenn@virginia tech
+Vibha Kalra@cornell university
+Kenneth Lau@national university
+Kapil Dandekar@university of texas at austin
+John Fekete@drexel university
+Jason Baxter@yale university
+James Shackleford@drexel university
+Afshin Daryoush@drexel university
+Hualou Liang@drexel university
+Nagarajan Kandasamy@university of connecticut
+Andrew Cohen@rensselaer polytechnic institute
+Pramod Abichandani@drexel university
+Ryan Bevan@drexel university
+Tiffani  Worthy@university of southern california
+Marcos Dearruda@drexel university
+Steve Dicker@virginia tech
+Karen Miu@cornell university
+Nicholas Alvarez@university of florida
+Maureen Tang@stanford university
+Dov Jaron@drexel university
+Jonathan Spanier@drexel university

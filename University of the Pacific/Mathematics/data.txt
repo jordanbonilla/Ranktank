@@ -1,26 +1,17 @@
-Mouchumi Bhattacharyya
-Yan Hong Wu
-Keith Whittington
-Larry Langley
-Valeriy Krepak
-Walter Zimmermann
-Aleksei Beltukov
-Matt Nelsanador
-Sarah Merz
-Jialing Dai
-N. Krepak Valeriy
-Mariya Sullivan
-Sebastian Marotta
-Coburn Ward
-David Sul
-Hebert Swartzer
-Alex Dugas
-John Mayberry
-Caroline Ramirez-Faghih
-Sara Malec
-Steven Gallo
-Dennis Parker
-Andrew Pitcher
-Christopher Goff
-Glen Cornett
-Meg Rosasco
+Mouchumi Bhattacharyya@university of the pacific
+Keith Whittington@princeton university
+Larry Langley@northern arizona university
+Aleksei Beltukov@tufts university
+Sarah Merz@university of the pacific
+Jialing Dai@university of arizona
+Mariya Sullivan@university of the pacific
+Sebastian Marotta@boston university
+Coburn Ward@university of the pacific
+David Sul@walden university
+John Mayberry@san diego state university
+Caroline Ramirez-Faghih@university of the pacific
+Sara Malec@hood college
+Dennis Parker@california institute of technology
+Andrew Pitcher@carroll
+Christopher Goff@mit
+Glen Cornett@mason

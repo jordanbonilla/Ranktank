@@ -1,66 +1,21 @@
-Warner Myntti
-Donald Jackson
-Bill Smith
-Elaine Kamptner
-Karen Nash
-James Lindsey
-Richard Hansen
-Leanne Briggs
-Michael Ropele
-Dick Labarre
-Trudy Borst
-Thomas Mehl
-Paul Jackson
-Susan Jones
-Alex Pomnichowski
-Dale Hobart
-Chester J Bolling
-Jay Hettiarachchy
-Jon Huhtala
-Ron Daenzer
-Vivian Nazar
-Linda Plank
-Nathaniel Tymes
-David Kelson
-Sid Sytsma
-Greg Gogolin
-Curt Ellis
-William Halm
-Beverly Demarr
-Doug Heeter
-Patricia Russell
-Mike Swearingen
-Jay Doda
-Ann Gilley
-Carl Wojcik
-D Woolen
-Spencer Tower
-Shawn Worden
-Jim Woolen
-Joe Re
-William Ward
-Dean Nichols Nichols
-Barbara Ciaramitaro
-Chet Trybus
-Ryan Skierra
-George Wolfe
-Van Edgerton
-David Steenstra
-David Brown
-Geri Markley
-Kate Stiltner
-John  Topping
-Denise Cosper
-Patrick Klarecki
-Melissa Nuckles
-Ted Mattis
-Levi Gardner
-Michael Sopko
-Joseph Sacco
-Aaron Madziar
-Steve Lyman
-Elies Kouider
-Mark Brandly
-David Miller
-Tom Daglis
-Dehlinger Jim
+Bill Smith@fsu
+Elaine Kamptner@fsu
+Dick Labarre@harvard university
+Thomas Mehl@texas state university
+Vivian Nazar@columbia university
+David Kelson@regent university
+Greg Gogolin@michigan state university
+Curt Ellis@university of michigan
+Beverly Demarr@eastern michigan university
+Mike Swearingen@berkeley
+Ann Gilley@university of nebraska-lincoln
+Carl Wojcik@louisiana state university
+D Woolen@michigan state university
+Jim Woolen@michigan state university
+William Ward@michigan state university
+David Steenstra@central michigan university
+Kate Stiltner@tennessee state university
+Melissa Nuckles@ferris state university
+Elies Kouider@ferris state university
+Mark Brandly@clemson university
+Tom Daglis@ferris state university

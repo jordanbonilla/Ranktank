@@ -1,61 +1,31 @@
-Patricia Boiling
-Nancy Mims
-Melinda Pell
-S. Chen
-Quan Zheng
-Brian muse
-Randall Casleton
-John Gillis
-Judy Tucker
-Justin Evilsizer
-Stephanie Gable
-Roy Gregory
-Paul Beyer
-Hongying Dai
-Lydia Britton
-Madhusudan Bhandary
-Carolyn Randolph
-Lewis Germann
-Alin Stancu
-Thomas Wentland
-Kenneth Jones
-Cathy Franklin
-Richard Stephens
-Kitt Lumley
-Rebertha Perkins
-Ben Kamau
-Gunhan Caglayan
-Nehal Shukla
-Jennifer Nobes
-Ishmail Gunham
-Karen Miller
-Inessa Levi
-Kevin People
-Kevin Peoples
-Yolanda Beckom
-Laura McCauley
-Mihn Nguyen
-Jungmin Yun
-Melina Saldana
-Randal Caselton
-Tim Howard
-Daniel Savu
-Garrick Church
-Harold McGinnis
-Guihong Fan
-Sarah Winchester
-Elizabeth McInnis
-Houbin Fang
-Eugen Ionascu
-Renjin Tu
-Cindy Henning
-Hassan Hassani
-James Special
-Lisa Peterson
-Carlos Almada
-Karen Waters
-Ron Linton
-Baiqiao Deng
-Albert Vancleave
-Ken Frerichs
-K Jain
+Nancy Mims@columbus state university
+Melinda Pell@university of georgia
+S. Chen@university of british columbia
+Quan Zheng@university of georgia
+Brian muse@university of massachusetts
+Randall Casleton@rider university
+Justin Evilsizer@university of georgia
+Roy Gregory@university of new mexico
+Paul Beyer@louisiana state university
+Lydia Britton@louisiana state university
+Carolyn Randolph@mohave community college
+Alin Stancu@university of georgia
+Cathy Franklin@university of georgia
+Nehal Shukla@rider university
+Kevin People@the ohio state university
+Laura McCauley@auburn university
+Mihn Nguyen@university of central florida
+Melina Saldana@luther college
+Randal Caselton@university of florida
+Tim Howard@georgia institute of technology
+Daniel Savu@university of southern california
+Harold McGinnis@university of southern california
+Elizabeth McInnis@university of pittsburgh
+Houbin Fang@university of southern mississippi
+Eugen Ionascu@columbus state university
+Renjin Tu@university of georgia
+James Special@university of pittsburgh
+Lisa Peterson@the ohio state university
+Carlos Almada@columbus state university
+Ron Linton@rice
+Ken Frerichs@university of georgia

@@ -1,58 +1,31 @@
-Harry White
-Gundars Kapupins
-Lyman Gallup
-Bill Lathen
-Kent Neupert
-Jan Centanni
-Tricia Burns
-Donna Orr
-A. Brent Belliston
-Emerson Maxson
-Patrick Delana
-Melissa Luke
-Roxanne Gunner
-Robert Henry
-Richard Johannsen
-Ernest Hoidal
-Patrick Shannon
-Matthew Wilkerson
-Wita Wojtkowski
-Lynette Adams
-Mark Buchanan
-Serena Bergonzi
-Tom Gattiker
-Mark Woychick
-Russell Doughty
-Joseph Zavaletta
-Linda Yordy
-Jared Everett
-Hall Jessi
-Shaun McMikle
-John McIntosh
-Regis Terpend
-Lisa Kleiman
-Donald McNatt
-John MacUlley
-Regis Terpin
-Ladawn Marsters
-Cheryl Larabee
-William Lathen
-Jay Kiiha
-Ronald Gambassi
-Steven Kipp
-Bastian Thomsen
-Chryssa Rich
-Kathie Bahnson
-Ladawn Schouten
-Shaunn Mattingly
-Mary  Olson
-Rick Murphree
-Brian McNatt
-Brady Lawrence
-Jim Wanek
-Trasi Mullin
-Nicholas Jones
-Thomas Old
-Thomas Atkins
-Nate Peterson
-Phillip Fry
+Harry White@washburn university
+Gundars Kapupins@wartburg college
+Lyman Gallup@university of oregon
+Kent Neupert@boise state university
+Jan Centanni@boise state university
+A. Brent Belliston@boise state university
+Ernest Hoidal@university of delaware
+Patrick Shannon@uh
+Wita Wojtkowski@boise state university
+Lynette Adams@mason
+Tom Gattiker@boise state university
+Russell Doughty@boise state university
+Linda Yordy@tu
+Shaun McMikle@boise state university
+John McIntosh@boise state university
+Regis Terpend@boise state university
+Lisa Kleiman@tu
+John MacUlley@ppa
+Regis Terpin@boise state university
+Ladawn Marsters@boise state university
+Ronald Gambassi@boise state university
+Chryssa Rich@boise state university
+Kathie Bahnson@boise state university
+Ladawn Schouten@boise state university
+Shaunn Mattingly@university of louisville
+Mary  Olson@tu
+Brady Lawrence@boise state university
+Trasi Mullin@tu
+Nicholas Jones@boise state university
+Nate Peterson@boise state university
+Phillip Fry@boise state university

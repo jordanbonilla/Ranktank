@@ -1,46 +1,23 @@
-Roger Mitchell
-Karen Strasser
-Phillip Watson
-Anna Rizzo
-Scott Herron
-Mary Murnik
-Jim Epperson
-Rainy Inman Shorey
-J Lipar
-P Klatt
-C Boogard
-O Fadayomi
-Bradly Isler
-Christopher Ward
-Gary T. Miller
-Clifton Franklund
-Prawee Sirithienthad
-Andrew Carl
-Admasu Gizachew
-Jenice Winowiecki
-Mary Zimmer
-James Hoerter
-Shawn MacAuley
-Christopher Westerkamp
-Shawn McCauley
-Robert Workman
-John Johnson
-Catherine Miller
-Kimberly Andrus
-Daisy Daubert
-Tim Hotchkiss
-Richard Carrillo
-Changqi Zhu
-Todd Stanislav
-Iyabode Fadayomi
-Anne Spain
-Chris DeFraia
-Karen  Barkel
-Crystal Austin
-Jaqueline Peacock
-John Vanderploeg
-Margaret Edwards-Wilson
-Cynthia Fitzwilliams-Heck
-James Scott
-David Griffith
-Frank Hartley
+Karen Strasser@university of louisiana at lafayette
+Phillip Watson@eastern michigan university
+Scott Herron@ferris state university
+Rainy Inman Shorey@montana
+J Lipar@baylor university
+O Fadayomi@stephen f. austin state university
+Christopher Ward@baylor college of medicine
+Andrew Carl@university of michigan
+Admasu Gizachew@pennsylvania
+James Hoerter@florida state university
+Shawn MacAuley@muskegon community college
+Christopher Westerkamp@ferris state university
+Shawn McCauley@muskegon community college
+Robert Workman@johns hopkins university
+Kimberly Andrus@university of massachusetts
+Daisy Daubert@university of florida
+Tim Hotchkiss@university of massachusetts
+Karen  Barkel@ferris state university
+Crystal Austin@southeastern university
+Jaqueline Peacock@university of miami miller school of medicine
+John Vanderploeg@um
+Cynthia Fitzwilliams-Heck@ferris state university
+David Griffith@ferris state university

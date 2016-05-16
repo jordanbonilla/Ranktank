@@ -1,166 +1,71 @@
-Mary Jarratt-Smith
-Jane Crane
-Steve Grantham
-Otis Kenny
-Joanna Guild
-Kendra Bridges
-Jen Stephenson
-Lawrence Gibbons
-Merla Lloyd
-Viola Bean
-Amalia Ciniglio
-Pam Howard
-Giles Maloof
-Mary Smith
-Mandy McDaniel
-Analee Reseigh
-Dave Murakami
-Tara Sheehan
-Alexander Felshtyn
-William Brubaker
-Thomas Kinzel
-Todd Fogdall
-Sharon Walsh
-Margaret Kinzel
-Brett Crow
-Doug Bullock
-Stephen Brill
-Uwe Kaiser
-Barbara Kenny
-Katherine Johnson
-Amanda Willoughby
-Russ Reimann
-Barbara Zubik-Kowal
-Joanna M Kania-Bartoszynska
-Jodi Mead
-Lisa Berry
-Alla Sapronova
-Henry Hou
-Trish Redgate
-Stefan Geschke
-Abraham Oros
-Jaechoul Lee
-Roger Parsons
-Cynthia Hernon
-Donald Parsons
-Marion Scheepers
-Douglas Smith
-Charles Kerr
-Jaimos Skriletz
-Elena Velasquez
-Neil McGrath
-Timothy Murdock
-Thomas Glass
-Jens Harlander
-Kimberly Classen-Wilson
-Leming Qu
-Billy Hudson
-Steve Chamberlain
-Grady Wright
-Colin Marcoux
-Renee Clemen
-Kevin Martinez
-Judy Wayne
-John Bailly
-Kathleen Rohrig
-Charles White
-Eric Knowles
-Colin McNamara
-Lisa Link
-Timothy Perry
-Mary Kersey
-Daniel Lamet
-Gary Hagerty
-Laurie Cavey
-Andres Caicedo
-Dale Williamson
-Verl Wadley
-Joe Lohmeier
-Nathan Bailey
-Robert Balmer
-Nick Davidson
-Jason Droesch
-Alan Hausrath
-Durga Kutal
-Kyungduk KO
-Wayne Fisher
-Fran Finkbeiner
-Andrew Misseldine
-Jodi Meade
-Rachel Byrd
-Matt O'Dell
-Jean Schneider
-Zach Teitler
-Jason Arnold
-Bailey Ross
-Rik Dummar
-James Hensley
-Janine Balfor
-Donna Calhoun
-Soheila Eghbali
-Thomas Chartier
-Shari Ultman
-Matto'Dell O'Dell
-Kimberly Wilson
-Kimberly Classen Wilson
-Diana Kruse
-Dale Mahoney
-Mary Young
-Kristin Cook
-Kathleen Hranac
-Anne Vanderveen
-Jesse Tillotson
-Byron Howells
-Shehzad Ahmed
-Gary Thomas
-Jason Smith
-Samuel Coskey
-Kenneth Hunter
-Kathleen Coskey
-Ryan Summers
-Erron Kearns
-Dorothee Berman
-Sam Coskey
-David Sanchez
-Robin Gates
-Dillon Wardwell
-Oday Waheeb
-Emory Christensen
-Annmanda Olson
-Michael Waddell
-Richard Boussatta
-Anna Megale
-Daniel Ingham
-Machelle Butts
-Joe Champion
-William Dallas
-Kat Isaacson
-Monica Agana
-Pamela Howard
-Carrie Martinez
-Laura Wagner
-Stuart  Nygard
-Kyle Beserra
-Tracy Lester
-Libo Wang
-Kathrine Johnson
-Patricia Redgate
-Robert Harryman
-Mintaek Lee
-Prasanna Bandara
-Stephanie Potter
-Sam Dworetzky
-Robin Williams
-Scott Andrews
-John Clemens
-Wendy Bleazard
-Matthew Greenbeck
-Phil Hart
-Partha Mukherjee
-Melvin Randal Holmes
-William Hudson
-Shari Dorsey
-Corvin Kuklinkski
-Liljana Babinkostova
-Janine Balfour
-Tom Conklin
+Mary Jarratt-Smith@uh
+Jane Crane@drew university
+Otis Kenny@university of kansas
+Lawrence Gibbons@boise state university
+Merla Lloyd@university of texas at austin
+Viola Bean@boise state university
+Mary Smith@montana
+Alexander Felshtyn@boise state university
+Thomas Kinzel@boise state university
+Sharon Walsh@whitworth university
+Doug Bullock@university of iowa
+Stephen Brill@university of vermont
+Uwe Kaiser@boise state university
+Amanda Willoughby@umr
+Joanna M Kania-Bartoszynska@boise state university
+Lisa Berry@boise state university
+Stefan Geschke@boise state university
+Jaechoul Lee@university of georgia
+Marion Scheepers@university of kansas
+Douglas Smith@mason
+Charles Kerr@columbia university
+Elena Velasquez@university of massachusetts
+Thomas Glass@boise state university
+Grady Wright@boise state university
+Colin Marcoux@boise state university
+John Bailly@university of oregon
+Colin McNamara@university of alaska fairbanks
+Daniel Lamet@university of oregon
+Gary Hagerty@vanderbilt university
+Andres Caicedo@berkeley
+Verl Wadley@boise state university
+Robert Balmer@stanford university
+Nick Davidson@boise state university
+Jason Droesch@cnm
+Alan Hausrath@washington state university
+Wayne Fisher@university of chicago
+Fran Finkbeiner@boise state university
+Andrew Misseldine@boise state university
+Rachel Byrd@boise state university
+Matt O'Dell@boise state university
+Zach Teitler@boise state university
+Soheila Eghbali@boise state university
+Shari Ultman@boise state university
+Diana Kruse@university of wyoming
+Kristin Cook@mason
+Anne Vanderveen@boise state university
+Jesse Tillotson@university of illinois at urbana-champaign
+Byron Howells@oklahoma state university
+Gary Thomas@boise state university
+Jason Smith@pennsylvania
+Kenneth Hunter@acp
+Kathleen Coskey@berkeley
+Dillon Wardwell@boise state university
+Oday Waheeb@boise state university
+Annmanda Olson@acp
+Michael Waddell@boise state university
+Monica Agana@boise state university
+Laura Wagner@kent state university
+Stuart  Nygard@boise state university
+Kyle Beserra@illinois state university
+Tracy Lester@university of illinois at urbana-champaign
+Mintaek Lee@boise state university
+Prasanna Bandara@boise state university
+Stephanie Potter@university of central florida
+Sam Dworetzky@boise state university
+Robin Williams@boise state university
+Scott Andrews@university of massachusetts
+Wendy Bleazard@university of central florida
+Corvin Kuklinkski@boise state university
+Liljana Babinkostova@boise state university
+Tom Conklin@boise state university

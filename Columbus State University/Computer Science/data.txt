@@ -1,36 +1,20 @@
-Rodrigo Obando
-Clyde Roberts
-Cheryl Swanier
-Angkul Kongmunvattana
-Rodney Clark
-Lydia Ray
-Shamim Khan
-Carlos Martin
-Stanely Jones
-Crystal Daughtery
-Kinnis Gosha
-Debra Sadler
-George Khouri
-Alan Hughes
-Radhouane Chouchane
-Jianhua Yang
-Cheryl Garvin
-John Hupp
-Yesem Peker
-Dana Eckart
-Rania Hodhod
-Shariar  Husainy
-Shahriar  Husainy
-Hoda Mehrpouyan
-James Bowman
-Alfredo Perez
-Edward Williams
-Benjamin DeLoach
-Arealia Smith
-Vladimir Zanev
-David Woolbright
-Ed Bosworth
-Tena McQueen
-Neal Rogers
-Wayne Summers
-Burley Wright
+Rodrigo Obando@old dominion university
+Angkul Kongmunvattana@university of louisiana at lafayette
+Rodney Clark@drexel university
+Lydia Ray@louisiana state university
+Shamim Khan@university of manchester
+Crystal Daughtery@california institute of technology
+George Khouri@university of georgia
+Radhouane Chouchane@university of louisiana at lafayette
+John Hupp@cleveland state university
+Rania Hodhod@university of york
+Hoda Mehrpouyan@oregon state university
+James Bowman@university of pittsburgh
+Alfredo Perez@university of pittsburgh
+Edward Williams@columbus state university
+Vladimir Zanev@columbus state university
+David Woolbright@clemson university
+Ed Bosworth@university of alabama
+Tena McQueen@university of south carolina
+Neal Rogers@auburn university
+Burley Wright@university of georgia

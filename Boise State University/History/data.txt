@@ -1,52 +1,23 @@
-Jeff Olson
-Jill Gill
-Shelton Woods
-Nikki Rutledge
-Todd Shallat
-Kate Baxter
-Blaine Davies
-Charles Odahl
-Nick Miller
-Thomas Ansbach
-Lisa Brady
-Errol Jones
-Lisa McClain
-Barton Barbour
-Chandra Silva
-John Bieter
-Kevin Marsh
-Heidi Miller
-Allan Fletcher
-Rosemary Wimberly
-Steven McNeel
-Ellis Knox
-Nicandor Dominguez
-Steve Clapier
-Suzanne Sermon
-Jim Frohock
-Elizabeth Ann Felton
-Eldon Hattervig
-Leslie Madson-Brooks
-Sarah Hoglund
-David Lachiondo
-Erik Hadley
-Nicanor Dominquez
-Robert Sims
-Tamara MacKenthun
-Raymond Krohn
-Katherine Huntley
-Jennifer Stevens
-Anna Bailey
-Stephen Allen
-Annal Frenz
-Karen Pinto
-Julie Okamura
-John Ysursa
-Jeffrey Neberman
-Michael Zirinsky
-Joanne Klein
-Carole Schroeder
-Sandra Schackel
-Lynn Lubamersky
-David Walker
-Peter Buhler
+Jill Gill@pennsylvania
+Shelton Woods@ucla
+Nikki Rutledge@temple university
+Lisa Brady@university of kansas
+Errol Jones@texas christian university
+Barton Barbour@university of new mexico
+John Bieter@boise state university
+Kevin Marsh@washington state university
+Allan Fletcher@rensselaer polytechnic institute
+Rosemary Wimberly@boise state university
+Ellis Knox@university of massachusetts
+Sarah Hoglund@boise state university
+David Lachiondo@university of idaho
+Katherine Huntley@university of leicester
+Anna Bailey@university of washington
+Annal Frenz@boise state university
+Julie Okamura@boise state university
+Jeffrey Neberman@university of idaho
+Michael Zirinsky@university of north carolina at chapel hill
+Joanne Klein@rice
+Carole Schroeder@albany law school
+Lynn Lubamersky@berkeley
+David Walker@george washington university

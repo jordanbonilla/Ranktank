@@ -1,35 +1,14 @@
-Andreas Franz
-Silvio Rodriguez
-Larry Spreer
-Elizabeth Day
-Rick Brown
-Sebastian Nohr
-Michelle Stone
-David Bookin
-Pat Jones
-John Tan
-Vishal Gandhi
-Frances Zhao
-Liang Xue
-Uta Hellmann-Blumberg
-Frank Axe
-Elfriede Cremer
-Hina Pandey
-Elfriede Kraka
-Balint Sztaray
-Dmitry Izotov
-Jerry Tsai
-Lorena Rios
-Dimitry Izotov
-Rajeev Pandey
-Ryan Moffet
-Qinliang Zhao
-Hyun Joo
-Anthony Dutoi
-Chrissa Mozaffari
-Hamid Khaledi
-Jian Hua Ren
-Vyacheslav Samoshin
-Harper Greg
-Charles McCallum
-Laura Hainsworth
+Andreas Franz@university of minnesota duluth
+Larry Spreer@pacific university
+Vishal Gandhi@university of the pacific
+Liang Xue@dartmouth
+Elfriede Kraka@ucla
+Balint Sztaray@university of the pacific
+Jerry Tsai@rice
+Dimitry Izotov@victoria university
+Ryan Moffet@university of washington
+Hyun Joo@university of the pacific
+Chrissa Mozaffari@university of the pacific
+Hamid Khaledi@california state university
+Jian Hua Ren@auburn university
+Laura Hainsworth@oklahoma state university

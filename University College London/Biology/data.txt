@@ -1,15 +1,11 @@
-Roger Wotton
-Terry Preston
-Steve Jones
-Chris Danpure
-Jeremy Field
-Kevin Fowler
-David Gems
-Duncan Greig
-Adrian Lister
-James Mallet
-John Pearson
-Saul Purton
-Susan Evans
-Robert Power
-Charalampos Rallis
+Roger Wotton@ucl
+Terry Preston@ucl
+Steve Jones@ucl
+Chris Danpure@ucl
+Jeremy Field@rice
+David Gems@ucl
+James Mallet@harvard university
+John Pearson@ucl
+Saul Purton@university of cambridge
+Susan Evans@ucl
+Robert Power@ucl

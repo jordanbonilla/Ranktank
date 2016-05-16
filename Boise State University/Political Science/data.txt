@@ -1,42 +1,20 @@
-Ross Burkhart
-Gregory Raymond
-Richard Kinney
-Gary Moncrief
-Steven Sallie
-Brian Wampler
-Susan Mason
-John Freemuth
-Matthew Christensen
-Bob Kustra
-Lori Hausegger
-Stephen Wilson
-John Keenan
-Robert Schneider
-Norm Weinstein
-Becky Miller
-Robert Ross
-David Dahle
-Leslie Alm
-Deniz Erkmen
-Carole Nemnich
-Mike Schumacher
-Stephen Hauge
-Brian Douglas
-Wendy Jaquet
-David Weaver
-George Stetson
-Robert Harbough
-Jared Hoskins
-Justin Vaughn
-Michael Allen
-Mike Touchton
-Gracie Bingham
-David Adler
-Jaclyn Kettler
-Isaac Castellano
-Scott Yenor
-Stephanie Witt
-William Overton
-Stephen Shaw
-Patricia Fredericksen
-Stewart Gardner
+Ross Burkhart@national university
+Gregory Raymond@harvard university
+Richard Kinney@university of notre dame
+Gary Moncrief@university of kentucky
+Steven Sallie@university of massachusetts
+Susan Mason@mason
+Bob Kustra@benedictine college
+Lori Hausegger@university of calgary
+Stephen Wilson@baylor university
+Robert Schneider@ppa
+Robert Ross@mason
+Deniz Erkmen@boise state university
+George Stetson@colorado state university
+Robert Harbough@missouri western state university
+Justin Vaughn@illinois state university
+David Adler@university of utah
+Jaclyn Kettler@rice
+Isaac Castellano@portland state university
+Scott Yenor@chicago
+William Overton@university of idaho

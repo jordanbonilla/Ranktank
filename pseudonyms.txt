@@ -435,8 +435,6 @@ Iowa Wesleyan College@Iowa Wesleyan College
 Holy Cross College@Holy Cross College
 Presbyterian College@Presbyterian College
 College of the Albemarle@College of the Albemarle
-MI@Musicians Institute
-MU@Multnomah University
 Benedictine University at Springfield@Benedictine University at Springfield
 University of Toledo College of Law@University of Toledo College of Law
 Morrisville State College@Morrisville State College
@@ -523,7 +521,6 @@ Santa Clara University@Santa Clara University
 University of Aberdeen@University of Aberdeen
 Roger Williams University@Roger Williams University
 Northern New Mexico College@Northern New Mexico College
-Michigan@University of Michigan Law School
 Westfield State University@Westfield State University
 National College: Charlottesville@National College: Charlottesville
 New England College of Business@New England College of Business
@@ -534,7 +531,6 @@ LTSS@Lutheran Theological Southern Seminary
 American InterContinental University - Los Angeles@American InterContinental University - Los Angeles
 Bank Street College of Education@Bank Street College of Education
 Sitting Bull College@Sitting Bull College
-Ontario@Assumption University
 Emmaus Bible College@Emmaus Bible College
 ATU@Arkansas Tech University
 ATS@Ashland Theological Seminary
@@ -770,7 +766,6 @@ Concorde Career Institute@Concorde Career Institute
 Nyack College@Nyack College
 J.P. Wynne@J.P. Wynne
 Athena Career Academy@Athena Career Academy
-Everest College (was National School of Tech)@Everest College (was National School of Tech)
 Washington State University - Vancouver@Washington State University - Vancouver
 Rockford University@Rockford University
 St. Luke's College of Health Sciences@St. Luke's College of Health Sciences
@@ -1077,7 +1072,6 @@ Central State University@Central State University
 University of Guelph: Kemptville Campus@University of Guelph: Kemptville Campus
 MGCCC@Mississippi Gulf Coast Community College
 Central Washington University- Des Moines@Central Washington University- Des Moines
-Hogwarts School of Witchcraft & Wizardry@Hogwarts School of Witchcraft & Wizardry
 UEI College - Phoenix@UEI College - Phoenix
 SUNY Ulster@SUNY Ulster
 Alaska Career College@Alaska Career College
@@ -1154,7 +1148,7 @@ University of Wisconsin - River Falls@University of Wisconsin - River Falls
 International College of Naturopathic Medicine@International College of Naturopathic Medicine
 Crichton University Campus [Dumfries]@Crichton University Campus [Dumfries]
 University of Winnipeg@University of Winnipeg
- Concord's Community College@NHTI
+Concord's Community College@NHTI
 Dickinson State University@Dickinson State University
 Edward Via College of Osteopathic Medicine@Edward Via College of Osteopathic Medicine
 Georgia Perimeter College - Alpharetta@Georgia Perimeter College - Alpharetta
@@ -1261,7 +1255,6 @@ Blue Ridge Community College@Blue Ridge Community College
 Herbert@HB Studio
 College Of Emergency Services@College Of Emergency Services
 St. Mary's University@St. Mary's University
-San@San Diego State University
 University of Oklahoma - Tulsa@University of Oklahoma - Tulsa
 Minnesota State College - Southeast Technical@Minnesota State College - Southeast Technical
 Texas Tech University@Texas Tech University
@@ -1300,7 +1293,6 @@ National College: Harrisonburg@National College: Harrisonburg
 Morton College@Morton College
 International American University@International American University
 Saint Louis University@Saint Louis University
-Eastern@Eastern Connecticut State University
 Bishop Strachan School@Bishop Strachan School
 Iliff School of Theology@Iliff School of Theology
 King's University at Gateway@King's University at Gateway
@@ -1353,7 +1345,6 @@ Bradley University@Bradley University
 Sweet Briar College@Sweet Briar College
 Galen College of Nursing -- Tampa Bay@Galen College of Nursing -- Tampa Bay
 McLaren-Oakland EMS@McLaren-Oakland EMS
-Minnesota@Bethel University
 Toronto School of Homeopathic Medicine@Toronto School of Homeopathic Medicine
 George Watson's College@George Watson's College
 University of Mississippi Medical Center@University of Mississippi Medical Center
@@ -1833,7 +1824,6 @@ Lincoln Technical Institute@Lincoln Technical Institute
 Lake Erie College of Osteopathic Medicine@Lake Erie College of Osteopathic Medicine
 Cape Cod Community College@Cape Cod Community College
 MacMurray College@MacMurray College
-Everest University@Everest University
 Prescott College@Prescott College
 Hawaii Tokai International College@Hawaii Tokai International College
 Central Connecticut State University@Central Connecticut State University
@@ -1846,7 +1836,6 @@ Florida Agricultural and Mechanical University@Florida Agricultural and Mechanic
 Newman University@Newman University
 Black Hawk College@Black Hawk College
 Wallace Community College@Wallace Community College
-Bangladesh@Eastern University
 Wingate University@Wingate University
 University of Connecticut Health Center@University of Connecticut Health Center
 Walden University: NTU School of Engineering@Walden University: NTU School of Engineering
@@ -1899,7 +1888,6 @@ University of North Carolina at Chapel Hill@University of North Carolina at Chap
 University of Hertfordshire@University of Hertfordshire
 Webster University - Charleston@Webster University - Charleston
 Welder Training and Testing Institute@Welder Training and Testing Institute
-Falls@Great Falls College - Montana State University
 Chemeketa - Yamhill Valley@Chemeketa - Yamhill Valley
 Cedar Valley College@Cedar Valley College
 Community College of Rhode Island@Community College of Rhode Island
@@ -1974,7 +1962,6 @@ Western Washington University@Western Washington University
 North Central College@North Central College
 Averett University@Averett University
 University of Wolverhampton@University of Wolverhampton
-CÃ©gep de Saint-Laurent@CÃ©gep de Saint-Laurent
 Fetropolitan@Cardiff Metropolitan University
 City College: Gainesville@City College: Gainesville
 Roosevelt University@Roosevelt University
@@ -1991,7 +1978,6 @@ Coleman University@Coleman University
 Patricia Stevens College@Patricia Stevens College
 Langston University - Tulsa@Langston University - Tulsa
 Cincinnati Christian University@Cincinnati Christian University
-BSC@Bluefield State College
 Florida SouthWestern State College - Charlotte@Florida SouthWestern State College - Charlotte
 Watson School of Biological Sciences@Watson School of Biological Sciences
 Construction Industry Academy@Construction Industry Academy
@@ -2118,7 +2104,6 @@ Tennessee Wesleyan College@Tennessee Wesleyan College
 University of Notre Dam@University of Notre Dam
 Southern West Virginia Community and Technical Col@Southern West Virginia Community and Technical Col
 Eastern Mennonite University@Eastern Mennonite University
-HSU@Humboldt State University
 Redlands@Redlands Community College
 North Iowa Area Community College@North Iowa Area Community College
 Augusta University@Augusta University
@@ -2168,7 +2153,6 @@ University of South Alabama@University of South Alabama
 PEI@Holland College
 Bow Valley College@Bow Valley College
 University of Texas at El Paso@University of Texas at El Paso
-COM@College of the Mainland
 Beloit College@Beloit College
 Camelot College@Camelot College
 SouthArk@South Arkansas Community College
@@ -2359,7 +2343,6 @@ Monterey College of Law@Monterey College of Law
 Methodist College@Methodist College
 City College: Fort Lauderdale@City College: Fort Lauderdale
 Maysville Community College@Maysville Community College
-SU@Seattle University
 University of Phoenix - Woodland Hills@University of Phoenix - Woodland Hills
 SI@Swedish Institute
 St. Francis Career College@St. Francis Career College
@@ -2412,7 +2395,6 @@ University of Lethbridge - Calgary@University of Lethbridge - Calgary
 Prince of Prestige Academy@Prince of Prestige Academy
 SFU@Saint Francis University
 Art Institute of Cincinnati College of Design@Art Institute of Cincinnati College of Design
- Baltimore County@University of Maryland
 Marist College@Marist College
 Oklahoma Technical College@Oklahoma Technical College
 KSU@Kennesaw State University
@@ -2493,7 +2475,6 @@ Atlantic Cape Community College@Atlantic Cape Community College
 Morgan Community College@Morgan Community College
 Orangeburg-Calhoun Technical College@Orangeburg-Calhoun Technical College
 Washington State University - Tri-Cities@Washington State University - Tri-Cities
-Kentucky@Nazareth College
 Medical University of South Carolina@Medical University of South Carolina
 Evergreen Valley College@Evergreen Valley College
 Chicago School of Professional Psychology@Chicago School of Professional Psychology
@@ -2510,7 +2491,6 @@ Hope College@Hope College
 Austin Presbyterian Theological Seminary@Austin Presbyterian Theological Seminary
 Fortis College Centerville@Fortis College Centerville
 De Anza College@De Anza College
-French@Le Cordon Bleu
 Harrington College of Design@Harrington College of Design
 Georgian College - Owen Sound@Georgian College - Owen Sound
 Eastern College@Eastern College
@@ -2628,7 +2608,6 @@ University of Wisconsin - Marathon County@University of Wisconsin - Marathon Cou
 Hunter College@Hunter College
 Devry University Online@Devry University Online
 New Mexico Tech@New Mexico Tech
-Massachusetts@Middlesex Community College
 University of Arizona South@University of Arizona South
 AMU@Ave Maria University
 Life Pacific College@Life Pacific College
@@ -2684,7 +2663,6 @@ Victoria University@Victoria University
 Concordia University - JMSB@Concordia University - JMSB
 Aberdeen College- Clinterty Centre@Aberdeen College- Clinterty Centre
 University of Birmingham@University of Birmingham
-AC@Amarillo College
 Owensboro Community & Technical College@Owensboro Community & Technical College
 Indiana Business College: Lafayette@Indiana Business College: Lafayette
 NCTC@North Central Texas College
@@ -2710,11 +2688,9 @@ Pennsylvania Highlands Community College@Pennsylvania Highlands Community Colleg
 NESCom@New England School of Communications
 Skagit Valley College - (ALL)@Skagit Valley College - (ALL)
 Sussex County Community College@Sussex County Community College
-Charlotte@Charlotte School of Law
 Bournemouth University@Bournemouth University
 Genesis Vocational Institute@Genesis Vocational Institute
 Harper Adams University College@Harper Adams University College
- Lincoln Campus@Flathead Valley Community College
 Johns Hopkins University Carey Business School@Johns Hopkins University Carey Business School
 Wabash Valley College@Wabash Valley College
 Hillsdale College@Hillsdale College
@@ -2995,7 +2971,6 @@ GSA@Glasgow School of Art
 BU@Bellarmine University
 GSC@Glenville State College
 Full Gospel Baptist Bible Institute@Full Gospel Baptist Bible Institute
-Texas@Trinity University
 GSM@UC Davis Graduate School of Management
 Marlboro College@Marlboro College
 University of the West@University of the West
@@ -3003,8 +2978,6 @@ NNU@Northwest Nazarene University
 University of New Mexico - Taos@University of New Mexico - Taos
 William Penn University@William Penn University
 Rio Salado College@Rio Salado College
-Jamaica@Clarendon College
-England@Newbury College
 Marywood University@Marywood University
 Pacific Lutheran University@Pacific Lutheran University
 Fisher College@Fisher College
@@ -3042,7 +3015,6 @@ ULM@University of Louisiana at Monroe
 Baptist Bible College@Baptist Bible College
 Edgecombe Community College@Edgecombe Community College
 Art Institute of Houston@Art Institute of Houston
-IDC@Institute of Design and Construction
 Rochester Community and Technical College@Rochester Community and Technical College
 CGI@California Graduate Institute
 Gastonia Bible College@Gastonia Bible College
@@ -3074,7 +3046,7 @@ Swainsboro Technical College@Swainsboro Technical College
 MSM@Manhattan School of Music
 Modern Technology School@Modern Technology School
 Western Kentucky University@Western Kentucky University
-MSC@Mt Sierra College
+Mt. Sierra College@Mt Sierra College
 Commonwealth Institute of Funeral Service@Commonwealth Institute of Funeral Service
 Cedar Crest College@Cedar Crest College
 Mississippi Valley State University@Mississippi Valley State University
@@ -3156,7 +3128,6 @@ Kansas State University@Kansas State University
 University of Maryland University College@University of Maryland University College
 School of Visual Arts@School of Visual Arts
 Institut national de la recherche scientifique@Institut national de la recherche scientifique
-Phoenix@Gateway Community College
 University of St. Augustine@University of St. Augustine
 MCTC@Minneapolis Community and Technical College
 University of Wisconsin - Fox Valley@University of Wisconsin - Fox Valley
@@ -3175,10 +3146,8 @@ Heald College: Honolulu@Heald College: Honolulu
 North Shore Community College@North Shore Community College
 Canadian College of Massage and Hydrotherapy@Canadian College of Massage and Hydrotherapy
 Arcadia University@Arcadia University
- University of London@School of Oriental and African Studies
 Central Oregon Community College - Cascade Culinary Institute@Central Oregon Community College - Cascade Culinary Institute
 New York College of Osteopathic Medicine@New York College of Osteopathic Medicine
-Blue@Le Cordon Bleu
 American InterContinental University Online@American InterContinental University Online
 Vatterott College@Vatterott College
 Prairie View A&M University@Prairie View A&M University
@@ -3292,9 +3261,7 @@ University of Manitoba@University of Manitoba
 Tele-universite@Tele-universite
 Cleveland Institute of Music@Cleveland Institute of Music
 Southwestern College@Southwestern College
-Southeastern@Southeastern Louisiana University
 Jacksonville State University@Jacksonville State University
-Washington@Washington and Lee University
 Grand Valley State University@Grand Valley State University
 University of Central Florida@University of Central Florida
 Lawson State Community College@Lawson State Community College
@@ -3317,7 +3284,6 @@ Cabrillo College - Watsonville@Cabrillo College - Watsonville
 ECSU@Elizabeth City State University
 University of Phoenix@University of Phoenix
 South Baylo University@South Baylo University
-Georgia@Gordon College
 St. Catharine College@St. Catharine College
 John Paul the Great Catholic University@John Paul the Great Catholic University
 Southeastern Business College@Southeastern Business College
@@ -3347,7 +3313,6 @@ Mountain State College@Mountain State College
 VI@Virginia Intermont College
 Frederick Community College@Frederick Community College
 Webster University Orlando@Webster University Orlando
-VU@Vincennes University
 Florida College@Florida College
 Ashland University@Ashland University
 ITT Technical Institute: Plymouth Meeting@ITT Technical Institute: Plymouth Meeting
@@ -3403,7 +3368,6 @@ VCFA@Vermont College of Fine Arts
 Eastern Idaho Technical College@Eastern Idaho Technical College
 Columbia College of Missouri@Columbia College of Missouri
 Cleveland Community College@Cleveland Community College
-Everest College (formerly@Everest College (formerly
 MATC@Mountainland Applied Technology College
 South Central College@South Central College
 United States Naval Academy@United States Naval Academy
@@ -3413,7 +3377,6 @@ Yo San University of Traditional Chinese Medicine@Yo San University of Tradition
 Midwestern Baptist Theological Seminary@Midwestern Baptist Theological Seminary
 The Jewish Spiritual Leaders Institute@The Jewish Spiritual Leaders Institute
 St. Thomas of Villanova@St. Thomas of Villanova
-NBC@Nazarene Bible College
 NSAC@Nova Scotia Agricultural College
 Heald College: Fresno@Heald College: Fresno
 UMBSM@University Marine Biological Station- Millport
@@ -3450,17 +3413,14 @@ Emmanuel College@Emmanuel College
 London Metropolitan University (North Campus)@London Metropolitan University (North Campus)
 Gallaudet University@Gallaudet University
 University of Northern Colorado@University of Northern Colorado
- Sacramento@California State University
 Lake Technical Center@Lake Technical Center
 Heritage Christian University@Heritage Christian University
-Louisiana@Jefferson College
 Ghlaschu@University of Glasgow
 Tufts University Cummings School of Verterinary Medecine@Tufts University Cummings School of Verterinary Medecine
 Harvey Mudd College@Harvey Mudd College
 Dong-Guk Royal University@Dong-Guk Royal University
 School of Continuing Education@School of Continuing Education
 University of Wisconsin - Whitewater@University of Wisconsin - Whitewater
-Atlanta@Atlanta Technical College
 University of Pittsburgh@University of Pittsburgh
 Thomas Goode Jones School of Law@Thomas Goode Jones School of Law
 CUNY York College@CUNY York College
@@ -3471,7 +3431,6 @@ Bethany College@Bethany College
 Trinity Valley Community College@Trinity Valley Community College
 United Education Institute - El Monte@United Education Institute - El Monte
 Birmingham-Southern College@Birmingham-Southern College
-WU@Washburn University
 Summit Career College@Summit Career College
 University of North Dakota@University of North Dakota
 Bay Path University@Bay Path University
@@ -3505,7 +3464,6 @@ Sanford-Brown College -- Vienna@Sanford-Brown College -- Vienna
 Kwantlen Polytechnic University-Surrey@Kwantlen Polytechnic University-Surrey
 McDowell Technical Community College@McDowell Technical Community College
 Winnipeg Technical College@Winnipeg Technical College
-Australia@University of New England
 Ivy Tech Community College - Valparaiso@Ivy Tech Community College - Valparaiso
 Wellness and Massage Training Institute@Wellness and Massage Training Institute
 Bronx Community College@Bronx Community College
@@ -3530,7 +3488,6 @@ VWCC@Virginia Western Community College
 Stony Brook University (SUNY)@Stony Brook University (SUNY)
 Illinois Wesleyan University@Illinois Wesleyan University
 Los Angeles Southwest College@Los Angeles Southwest College
-Everest College@Everest College
 Vancouver Career College - Registered Massage Therapy Program@Vancouver Career College - Registered Massage Therapy Program
 Western Career College: Pleasant Hill@Western Career College: Pleasant Hill
 Canterbury College@Canterbury College
@@ -3603,7 +3560,6 @@ Manhattan School of Music@Manhattan School of Music
 SDSU@San Diego State University
 Manhattan College@Manhattan College
 PCOM@Philadelphia College of Osteopathic Medicine
- Ayers Campus@Gadsden State Community College
 Drew University@Drew University
 Salmon P. Chase College of Law@Salmon P. Chase College of Law
 Montcalm Community College@Montcalm Community College
@@ -3632,7 +3588,6 @@ ITT Technical Institute: San Antonio@ITT Technical Institute: San Antonio
 California International University@California International University
 United Education Institute College - Chula Vista@United Education Institute College - Chula Vista
 Walden University@Walden University
-DU@University of Denver
 Axis Academy@Axis Academy
 Collins College@Collins College
 Greenville College@Greenville College
@@ -3823,10 +3778,8 @@ Hesser College - Nashua@Hesser College - Nashua
 Pennsylvania State University - World Campus@Pennsylvania State University - World Campus
 Ohio School of Phlebotomy@Ohio School of Phlebotomy
 University of Texas Rio Grande Valley (all campuses)@University of Texas Rio Grande Valley (all campuses)
-SIT@Stevens Institute of Technology
 Palmer College of Chiropractic@Palmer College of Chiropractic
 Argosy University Hawaii@Argosy University Hawaii
-Wayne@International Business College
 Walt Disney World College Program@Walt Disney World College Program
 Faulkner State Community College@Faulkner State Community College
 SAGU@Southwestern Assemblies of God University
@@ -4141,7 +4094,6 @@ Lakeland Community College@Lakeland Community College
 University of California Santa Barbara@University of California Santa Barbara
 Eastern Iowa Community Colleges@Eastern Iowa Community Colleges
 Florida Atlantic University@Florida Atlantic University
-pronounced@Shimer College
 LRCC@Lakes Region Community College
 Free Will Baptist Bible College@Free Will Baptist Bible College
 Upper Iowa University - Waterloo@Upper Iowa University - Waterloo
@@ -4231,7 +4183,6 @@ McCormick Theological Seminary@McCormick Theological Seminary
 Transylvania University@Transylvania University
 Drexel University Sacramento@Drexel University Sacramento
 Union Presbyterian Seminary@Union Presbyterian Seminary
-below@Bard College at Simon's Rock
 Rasmussen College-Minnetonka@Rasmussen College-Minnetonka
 Vermont Law School@Vermont Law School
 Guilford College@Guilford College
@@ -4294,7 +4245,6 @@ Sheffield Hallam University- City Campus@Sheffield Hallam University- City Campu
 Minot State University@Minot State University
 Kean University@Kean University
 Southern Arkansas University Tech@Southern Arkansas University Tech
-Tennessee@Tennessee State University
 Mount Saint Vincent University@Mount Saint Vincent University
 Marymount University@Marymount University
 AA School of Architecture- Bedford Square@AA School of Architecture- Bedford Square
@@ -4341,7 +4291,6 @@ Bradford School: Pittsburgh@Bradford School: Pittsburgh
 University of California Irvine Extension@University of California Irvine Extension
 Webster University@Webster University
 Edward Waters College@Edward Waters College
-China@Northwest University
 University of Pikeville@University of Pikeville
 Wallace State Community College at Hanceville@Wallace State Community College at Hanceville
 University of California Los Angeles Extension@University of California Los Angeles Extension
@@ -4523,7 +4472,6 @@ Weber State University@Weber State University
 Coleg@Deeside College
 Wilfrid Laurier University-Waterloo@Wilfrid Laurier University-Waterloo
 University of Michigan - Dearborn@University of Michigan - Dearborn
-Midwestern@Midwestern
 BVC@Bow Valley College
 Sacred Heart University@Sacred Heart University
 Eastern Connecticut State University@Eastern Connecticut State University
@@ -4577,7 +4525,6 @@ Capella University@Capella University
 Chippewa Valley Technical College@Chippewa Valley Technical College
 Massachusetts School of Law@Massachusetts School of Law
 Florida Gateway College@Florida Gateway College
- South Portland Campus@Kaplan University
 Southern Illinois University NS Mayport@Southern Illinois University NS Mayport
 Central Florida Institute@Central Florida Institute
 Pierpont Community & Technical College@Pierpont Community & Technical College
@@ -4603,7 +4550,6 @@ HB Studio@HB Studio
 Community College of Allegheny County@Community College of Allegheny County
 Pittsburgh Institute of Aeronautics@Pittsburgh Institute of Aeronautics
 Oakton Community College@Oakton Community College
-Canada@Huntington University
 Syracuse University@Syracuse University
 Southern Crescent Technical College@Southern Crescent Technical College
 University of Mississippi DeSoto@University of Mississippi DeSoto
@@ -4775,7 +4721,6 @@ Marion Technical College@Marion Technical College
 Florida Culinary Institute@Florida Culinary Institute
 Heartland Community College@Heartland Community College
 Wenatchee Valley College@Wenatchee Valley College
-Ferris@Ferris State University
 Donnelly College@Donnelly College
 Real Life Ministry Institute@Real Life Ministry Institute
 Trinity Life Bible College@Trinity Life Bible College
@@ -4897,7 +4842,6 @@ Oregon State University@Oregon State University
 EvCC@Everett Community College
 Sandhills Community College@Sandhills Community College
 Northern College@Northern College
-HU@Howard University
 Emory University@Emory University
 American University of Integrative Sciences- St. Maarten School of Medicine@American University of Integrative Sciences- St. Maarten School of Medicine
 John Wood Community College@John Wood Community College
@@ -5018,7 +4962,6 @@ Worcester Polytechnic Institute@Worcester Polytechnic Institute
 Crafton Hills College@Crafton Hills College
 Moreno Valley College - Riverside CCD@Moreno Valley College - Riverside CCD
 MCAD@Minneapolis College of Art and Design
-Madison@Madison Area Technical College
 Rutgers School of Law@Rutgers School of Law
 Philander Smith College@Philander Smith College
 University of Central Lancashire@University of Central Lancashire
@@ -5113,7 +5056,6 @@ University of Sunderland- Chester Road@University of Sunderland- Chester Road
 Nossi College of Art@Nossi College of Art
 Georgia State University Perimeter College - Newton@Georgia State University Perimeter College - Newton
 New York University College of Dentistry@New York University College of Dentistry
-Colorado@Platt College
 Loyalist College@Loyalist College
 UW La-Crosse@UW La-Crosse
 Kellogg Community College@Kellogg Community College
@@ -5273,15 +5215,14 @@ Pepperdine University's Graziadio School of Business@Pepperdine University's Gra
 Martin Luther College@Martin Luther College
 Cox College@Cox College
 UnReel Digital Film School@UnReel Digital Film School
-Arkansas@Shorter College
 Contra Costa College - San Pablo@Contra Costa College - San Pablo
 San Jose City College@San Jose City College
- Southern Christian)@Amridge University (formerly
+Southern Christian@Amridge University
 Allen College@Allen College
 Lackawanna College@Lackawanna College
 TECO@Technical Education Center Osceola
 Colorado Technical University@Colorado Technical University
-Hondros College (all campuses)@Hondros College (all campuses)
+Hondros College@Hondros College
 FVSU@Fort Valley State University
 University of Minnesota Rochester@University of Minnesota Rochester
 Fayetteville State University@Fayetteville State University
@@ -5593,7 +5534,6 @@ St. Louis Community College at Meramec@St. Louis Community College at Meramec
 Hamilton College@Hamilton College
 Rice University@Rice University
 Hobe Sound Bible College@Hobe Sound Bible College
-Virginia@Blue Ridge Community College
 Bucks County Community College@Bucks County Community College
 Richland Community College@Richland Community College
 University of Montana-Helena College of Technology@University of Montana-Helena College of Technology
@@ -5667,6 +5607,7 @@ St. Joseph College Seminary@St. Joseph College Seminary
 Cranfield University- Shrivenham@Cranfield University- Shrivenham
 CDI College - Burnaby@CDI College - Burnaby
 Yale University@Yale University
+Yale@Yale University
 Western International University@Western International University
 Millar College of the Bible@Millar College of the Bible
 Columbia International College@Columbia International College
@@ -5719,12 +5660,10 @@ Fresno City College@Fresno City College
 Christopher Newport University@Christopher Newport University
 University of Tulsa@University of Tulsa
 Lee University@Lee University
-Everest University (was Florida Metropolitan)@Everest University (was Florida Metropolitan)
 Medicine Hat College@Medicine Hat College
 University of London- London Business School@University of London- London Business School
 Maine Media Workshops + College@Maine Media Workshops + College
 Walla Walla Community College@Walla Walla Community College
-State@Sonoma State University
 Southern Technical College@Southern Technical College
 DTS@Dallas Theological Seminary
 Ecole Polytechnique de Montreal@Ecole Polytechnique de Montreal
@@ -5841,16 +5780,13 @@ University of the Pacific - Dentistry@University of the Pacific - Dentistry
 New Horizons@New Horizons
 Dechinta Centre for Research and Learning@Dechinta Centre for Research and Learning
 The Art Institute of Las Vegas@The Art Institute of Las Vegas
-University of Nevada Las Vegas (UNLV)@University of Nevada Las Vegas (UNLV)
+University of Nevada Las Vegas@University of Nevada Las Vegas
 Dyersburg State Community College@Dyersburg State Community College
 LRSC@Lake Region State College
 Heritage College and Seminary@Heritage College and Seminary
-KC@Kilgore College
 Seward County Community College@Seward County Community College
 Northeast Community College@Northeast Community College
 Crandall University@Crandall University
-see@Bard College at Simon's Rock
-Diego@San Diego State University
 Golden State Baptist College@Golden State Baptist College
 Ursuline College@Ursuline College
 Nova Scotia Community College: Cumberland Campus@Nova Scotia Community College: Cumberland Campus
@@ -6023,7 +5959,6 @@ ITT Technical Institute: Richmond@ITT Technical Institute: Richmond
 Bowdoin College@Bowdoin College
 Bridgerland Applied Technology College (BATC)@Bridgerland Applied Technology College (BATC)
 Nazarene Theological Seminary@Nazarene Theological Seminary
- Parks College)@Everest College (formerly
 Chelsea College of Art and Design@Chelsea College of Art and Design
 Southeast Missouri State University@Southeast Missouri State University
 Borough of Manhattan Community College@Borough of Manhattan Community College

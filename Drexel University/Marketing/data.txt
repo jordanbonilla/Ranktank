@@ -1,14 +1,12 @@
-Stanley Kligman
-David West
-Srini Srinivasan
-Mike Howley
-Rajneesh Suri
-Robert Baer
-Lei Song
-AN Tran
-Angela Thell
-Boryana  Dimitrova
-Michaela Draganska
-Yuli Zhang
-Jordan Schneider
-Burton Brodo
+Stanley Kligman@drexel university
+David West@drexel university
+Srini Srinivasan@drexel university
+Mike Howley@drexel university
+Rajneesh Suri@drexel university
+Robert Baer@drexel university
+Lei Song@drexel university
+Boryana  Dimitrova@drexel university
+Michaela Draganska@drexel university
+Yuli Zhang@drexel university
+Jordan Schneider@drexel university
+Burton Brodo@drexel university

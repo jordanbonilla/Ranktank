@@ -1,8 +1,5 @@
-Abdul Rao
-Alan Haroian
-Leonid Hrebien
-Frederic Hellman
-William Welsh
-Charles Stream
-Dennis Melamed
-Rose Giordano
+Abdul Rao@drexel university
+Leonid Hrebien@drexel university
+William Welsh@yale university
+Dennis Melamed@drexel university
+Rose Giordano@graduate school of biomedical sciences

@@ -1,12 +1,8 @@
-Richard Maundrell
-Richard Berg
-Tony Lariviere
-Todd Dufresne
-Jason Blahuta
-Christopher Wood
-Chris Wood
-David Wolfe
-John Xiaoqiang  Han
-John Han
-Dan Hansen
-Randy Boyd
+Richard Maundrell@university of waterloo
+Richard Berg@lafayette
+Tony Lariviere@mcgill university
+Christopher Wood@brock university
+Chris Wood@brock university
+John Xiaoqiang  Han@memorial university of newfoundland
+John Han@memorial university of newfoundland
+Randy Boyd@university of manitoba

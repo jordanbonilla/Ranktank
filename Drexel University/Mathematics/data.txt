@@ -1,86 +1,61 @@
-Thomas McWilliams
-Ewaugh Fields
-Robert Hicks
-Li Sheng
-Marna Mozeff
-Gregory Naber
-Kurt Loveland
-Harold Gilman
-Ron Perline
-Charles Schumann
-Herman Gollwitzer
-Jeanne Steuber
-June Gordon
-Douglas McLeod
-James Hamilton
-Judy Smith
-Adam C Rickert
-Dmytro Kaliuzhnyi-Verbovetskyi
-Daryl Falco
-Alexander Dolgopolsky
-Anatolii Grinshpan
-John Coppola
-Svitlana Zhuravytska
-Yun Yoo
-Jack Vogel
-Yixin Guo
-William O'Connor
-Michael Daniel
-Abed Elhashash
-Richard White
-Raymond Favocci
-William J. Keith
-Avinash Dalal
-Justin Smith
-Oksana Odintsova
-Robert Immordino
-Selcuk Koyuncu
-Elaine Kyriacou
-Martha Nelson
-Jason Aran
-Pavel Grinfeld
-Caroline Shapcott
-Doug Wright
-Timur Milgrom
-Boris Kheyfets
-Andrew Melnikov
-Gulnara Abduvalieva
-Vaishalee Wadke
-Ben Pittman-Polletta
-BO Dong
-Hui Lan LI
-Pok-Yin YU
-Dimitrios Papadopoulos
-Dimitri Papadopoulos
-Hazem Maragah
-Heather Richardson
-Pawel Hitzcenko
-Sergio Zefillipo
-David Scheinker
-Bruce Boylston
-Taylor Kingsbury
-Scott Rome
-Robert Boyer
-David Sulon
-David Ambrose
-Amanda Parshall
-Patrick Clarke
-Ryan Kalizewski
-Leo Lampone
-Christopher Carlo Fazioli
-Hwan Yong Lee
-Eric Schmutz
-Hugo Woerdeman
-Sarah Rody
-Timothy Hayes
-Ryan Kaliszewki
-Timothy  Faver
-Charles Burnett
-Taoufik Meklachi
-Guang Yang
-Xiaoming  Song
-Aleksandr Yaroslavskiy
-Daniel Summers
-James Muscatell
-Marci Ann Perlstadt
-James Donnelly
+Thomas McWilliams@sci
+Ewaugh Fields@boston university
+Robert Hicks@drexel university
+Li Sheng@drexel university
+Kurt Loveland@drexel university
+Harold Gilman@cornell university
+Ron Perline@pennsylvania
+Herman Gollwitzer@drexel university
+Jeanne Steuber@baylor college of medicine
+Douglas McLeod@drexel university
+James Hamilton@herbert
+Judy Smith@drexel university
+Dmytro Kaliuzhnyi-Verbovetskyi@pei
+Daryl Falco@university of cambridge
+Alexander Dolgopolsky@thomas jefferson university
+Anatolii Grinshpan@berkeley
+Svitlana Zhuravytska@temple university
+Yun Yoo@drexel university
+Jack Vogel@drexel university
+Yixin Guo@drexel university
+William O'Connor@california university
+Abed Elhashash@temple university
+William J. Keith@pennsylvania
+Avinash Dalal@drexel university
+Justin Smith@drexel university
+Martha Nelson@osu
+Jason Aran@sci
+Pavel Grinfeld@drexel university
+Caroline Shapcott@university of kansas
+Doug Wright@drexel university
+Timur Milgrom@drexel university
+Boris Kheyfets@drexel university
+Andrew Melnikov@drexel university
+Gulnara Abduvalieva@drexel university
+Ben Pittman-Polletta@drexel university
+Hui Lan LI@drexel university
+Pok-Yin YU@drexel university
+Dimitri Papadopoulos@drexel university
+Hazem Maragah@drexel university
+Heather Richardson@drexel university
+Sergio Zefillipo@drexel university
+David Scheinker@mit
+Taylor Kingsbury@drexel university
+Scott Rome@drexel university
+Robert Boyer@drexel university
+David Sulon@drexel university
+David Ambrose@drexel university
+Amanda Parshall@drexel university
+Patrick Clarke@drexel university
+Ryan Kalizewski@university of north carolina at chapel hill
+Leo Lampone@drexel university
+Christopher Carlo Fazioli@drexel university
+Hwan Yong Lee@drexel university
+Eric Schmutz@drexel university
+Ryan Kaliszewki@university of north carolina at chapel hill
+Timothy  Faver@temple university
+Charles Burnett@drexel university
+Guang Yang@drexel university
+Aleksandr Yaroslavskiy@drexel university
+Daniel Summers@temple university
+Marci Ann Perlstadt@drexel university

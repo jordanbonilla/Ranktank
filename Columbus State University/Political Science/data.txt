@@ -1,28 +1,16 @@
-Gwen Gibson
-Christine Jones
-Jefferson Heard
-John Doorn
-Masako (rachel) Okura
-Troy Vidal
-Meigan Fields
-J.R Stanton
-Joe Stanton
-Kevin Wright
-Kimberly Gill
-Kyle Christensen
-Kle Christensen
-David Lanoue
-Dolan Thomas
-Gregory Domin
-Brian Webb
-Frederick Gordon
-Sue Skipworth
-Thomas Simpson
-Nicholas Bolden
-Thomas Dolan
-Ted Penton
-Lorna Erixson
-Raymond Gonzalez
-Mario Mion
-Scott Buchanan
-John Van Doorn
+John Doorn@university of georgia
+Masako (rachel) Okura@ohio university
+Troy Vidal@university of north florida
+Meigan Fields@university of pittsburgh
+J.R Stanton@georgia institute of technology
+Kevin Wright@university of georgia
+Kimberly Gill@columbus state university
+Kyle Christensen@west virginia university
+Kle Christensen@west virginia university
+Dolan Thomas@naval postgraduate school
+Sue Skipworth@university of southern california
+Thomas Simpson@naval postgraduate school
+Nicholas Bolden@university of pittsburgh
+Thomas Dolan@naval postgraduate school
+Scott Buchanan@university of georgia
+John Van Doorn@university of georgia

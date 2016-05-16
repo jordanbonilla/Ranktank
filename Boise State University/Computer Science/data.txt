@@ -1,37 +1,17 @@
-Matthew Borge
-Kay Kirkendal
-K Kirkendall
-Glenn Pfautsch
-Terry Friend
-Timothy Andersen
-Jeff Line
-Mike Stark
-Jackie Jarboe
-Dave Venable
-Amit Jain
-Rphndtlty Ikninbwbwpfwj
-Shane Panter
-Alark Joshi
-Mason Vail
-Blaine Bergeson
-Conrad Kennington
-Gang-Ryung UH
-Elena Sherman
-James Conrad
-Michael Stuart
-Vijay Dialani
-Marissa Schmidt
-Robert Whiting
-Phillip Ray
-Yunpeng Zhang
-Steven Cutchin
-Izzat Alsmadi
-David Thompson
-Francesca Spezzano
-Patrick  La Fratta
-Brian Merrick
-Matthew Thomas
-Jidong Xiao
-Nathan Schmidt
-Teresa Cole
-Jim Buffenbarger
+Matthew Borge@university of denver
+Terry Friend@wayne state university
+Timothy Andersen@mason
+Jeff Line@university of idaho
+Amit Jain@university of central florida
+Shane Panter@rice
+Alark Joshi@yale university
+Mason Vail@baylor university
+Blaine Bergeson@boise state university
+Gang-Ryung UH@florida state university
+Phillip Ray@boise state university
+Yunpeng Zhang@mason
+Steven Cutchin@mason
+Izzat Alsmadi@dakota state university
+Francesca Spezzano@mason
+Jidong Xiao@mason
+Jim Buffenbarger@mason

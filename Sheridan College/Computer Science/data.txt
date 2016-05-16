@@ -1,103 +1,41 @@
-Norm Olsen
-Anna Wachholz
-Ted Bangay
-Ted Patminadis
-John Dafoe
-Stephanie Reid
-Ellen Bajcar
-Philip Stubbs
-Salima Musaji
-Ann Cadger
-Tawfik Kettanah
-Wendy Jollymore
-Ed Sykes
-Kersti Wain-Bantin
-Ove Andersen
-Elizabeth Wallace
-Paul Toms
-Jerry Kotuba
-Mark Orlando
-Basil Burgess
-Margo Martin
-Ken Sherman
-Abou El-Naga
-John Purcell
-Victor Ralevich
-Donna Finlayson
-Bob Moskal
-Satyendra Narayan
-Gert Kohler
-Nasim Mohammad
-Jim Hodges
-Mike Medeiros
-Lesley Giles
-Chrys De Almeida
-Sid Ansari
-Sudhir Kaicker
-Hoda Fahmy
-Shyni Jerru
-John Karolyi
-Magdin Stoica
-Nikolai Ivanov
-Nicoleta Zouri
-Sean Beacroft
-Asma Paracha
-Ken Isaacs
-Peter Wong
-Jawaad Sheikh
-Peter Ross
-Rahul Chaturvedi
-Martin Gerdzhev
-Narayan Vidya
-Pejman Salehi
-Salehi Pejman
-Rich Smith
-Melanie Veltman
-John Wang
-Alireza Kharazmi
-Kevin Haghighat
-Natalie Girard
-Avtar Brar
-Mark MacDonald
-El Sayed Mahmoud
-Wasim Singh
-Kevin McDowell
-Sasipriya Venkatesan
-Laura Franks
-Simon Hood
-Osama Rahmeh
-Andres Lombo
-Parul Kantaria
-Gursharan Tatla
-Nazrul Khan
-ben kem
-Michael Martin
-Vlad Voytenko
-Mikhail Vinogradov
-Joseph Jean-Charles
-Amandeep Patti
-Huy Pham
-Paym Bergson
-Ben Kam
-Peter Riis
-Jonathan  Penava
-Harsh Thakkar
-Benann Thiruthuvanathan
-Prem Parashar
-Michael Burrell
-Yuchong Jiang
-Omer Mohamed
-William Barry
-Joe Ganczarski
-Janice Holden
-Maninder Tatla
-Brian Pham
-Austin Tian
-Joe Varrasso
-George Feil
-Rainer Waseem
-Alex Babanski
-Harpreet Kainth
-Muhammad Mohiuddin
-Ried
-Chrys Almeida
+Norm Olsen@nctc
+Anna Wachholz@university of birmingham
+Ellen Bajcar@sheridan college
+Salima Musaji@sheridan college
+Elizabeth Wallace@regis college
+Jerry Kotuba@rowan university
+Ken Sherman@george washington university
+John Purcell@baylor university
+Victor Ralevich@sheridan college
+Donna Finlayson@university of british columbia
+Gert Kohler@university of south carolina
+Lesley Giles@baylor university
+Hoda Fahmy@sheridan college
+Shyni Jerru@boston university
+Magdin Stoica@university of guelph
+Ken Isaacs@tufts university
+Peter Ross@stanford university
+Rahul Chaturvedi@st. john's college
+Martin Gerdzhev@mcgill university
+Narayan Vidya@st. john's college
+Pejman Salehi@sheridan college
+Salehi Pejman@sheridan college
+Rich Smith@university of south florida
+Melanie Veltman@university of waterloo
+John Wang@the ohio state university
+Alireza Kharazmi@university of stirling
+Kevin Haghighat@athabasca university
+Mark MacDonald@lancaster university
+El Sayed Mahmoud@sheridan college
+Simon Hood@algoma
+Andres Lombo@university of south florida
+Nazrul Khan@university of waterloo
+Mikhail Vinogradov@boston university
+Amandeep Patti@amu
+Paym Bergson@emory university
+Ben Kam@university of windsor
+Prem Parashar@sheridan college
+Yuchong Jiang@sheridan college
+William Barry@notre dame de namur university
+Brian Pham@rice
+Ried@ucl

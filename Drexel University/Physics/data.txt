@@ -1,27 +1,16 @@
-Joseph Trout
-Frank Ferrone
-Teck-Kah Lim
-David M Goldberg
-Som Tyagi
-Tsvetelin Tsankov
-Richard Haracz
-Fredrick House
-Jelena Maricic
-Eric Scheidly
-James McCray
-Jian-Min Yuan
-Michael Billings
-Karsten Chu
-Jerry Steinberg
-Kent Lambert
-Matthew Mawhinney
-Nicole Digironimo
-Alexey Aprelev
-Kevin Olson
-Richard Steinberg
-Leonard Finegold
-Brigita Urbanc
-Suvranta Tripathy
-Goran Karapetrov
-Michel Vallieres
-Michael Carchidi
+Frank Ferrone@icahn school of medicine at mount sinai
+David M Goldberg@drexel university
+Som Tyagi@drexel university
+Tsvetelin Tsankov@temple university
+Richard Haracz@bucknell university
+Jelena Maricic@university of hawaii at manoa
+Michael Billings@drexel university
+Karsten Chu@dartmouth
+Jerry Steinberg@drexel university
+Kent Lambert@university of michigan
+Nicole Digironimo@university of delaware
+Leonard Finegold@drexel university
+Suvranta Tripathy@drexel university
+Goran Karapetrov@oregon state university
+Michel Vallieres@pennsylvania
+Michael Carchidi@graduate school of biomedical sciences

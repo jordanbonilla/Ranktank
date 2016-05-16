@@ -1,34 +1,17 @@
-Greg Anderson
-Eric Thomas
-Joan Lin-Cereghino
-Greg Jongeward
-Fuad Nahhas
-Kathy Schick
-Srinivas Venkatram
-Janet Koprivnikar
-Vladimir Kozina
-Darleen Karsting
-Lisa Wrischnik
-Stacy Luthy
-Leah Larkin
-Marcos Gridi-Papp
-Dale McNeal
-Doug Weiser
-Joanna Albala
-Ajna Rivera
-Ryan Hill
-Tara Thiemann
-Kristin Kohler
-Der Thor
-Santiago Salinas
-Douglas Risser
-Robert Rigor
-Deborah Walker
-Desmond Maxwell
-Craig Vierra
-Mark Brunell
-Kirkwood Land
-Richard Tenaza
-Geoff Lin-Cereghino
-Paul Richmond
-Anne Moore
+Eric Thomas@drew university
+Fuad Nahhas@university of the pacific
+Kathy Schick@berkeley
+Janet Koprivnikar@ryerson university
+Lisa Wrischnik@university of the pacific
+Dale McNeal@davenport university
+Doug Weiser@duke university
+Ajna Rivera@duke university
+Ryan Hill@boston university
+Kristin Kohler@university of the pacific
+Douglas Risser@uh
+Robert Rigor@university of the pacific
+Desmond Maxwell@york college
+Craig Vierra@university of the pacific
+Mark Brunell@boston university
+Paul Richmond@pacific university
+Anne Moore@university of kansas

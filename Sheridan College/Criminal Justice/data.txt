@@ -1,17 +1,5 @@
-Doug Bonesteel
-Walter Grecko
-Tim Onyuschuck
-Mike Lloyd
-Greg Chellew
-David Lang
-Lisa Baxter
-Peter Larsen
-Christine Ter-Steege
-Charles Lawrence
-Peter Ramsden
-Alex Williamson
-AJ Balasingham
-Arjun Balasingham
-David Marquith
-Daniel Bear
-Jessica McLean
+Walter Grecko@university of michigan
+Lisa Baxter@michigan state university
+David Marquith@mason
+Daniel Bear@sheridan college
+Jessica McLean@university of maryland

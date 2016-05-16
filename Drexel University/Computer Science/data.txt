@@ -1,33 +1,15 @@
-Edward O'Connor
-Paul Zoski
-Jeffrey Popyack
-Jeff Salvage
-Adelaida Medlock
-Krzysztof Nowak
-Timothy Souder
-Karen Girton-Snyder
-Tzipora Katz
-Olga Kerchentseva
-Nadezhda Belov
-Tom Swanson
-Igbeare Fredlintaz
-Walter Pehrsson
-Max Shevertalov
-Robert McKosky
-Bruce Char
-William Regli
-Gavin Harrison
-William Mongan
-James Kurack
-Werner Krandic
-David Breen
-Sharmi Sukhia
-Filippos Vokolos
-Richa Singhal
-Brian Stuart
-Thomas Smith
-Barry Meinster
-Kurt Schmidt
-John Moseley
-Irv Schlanger
-Stuart Napshin
+Edward O'Connor@university of massachusetts
+Timothy Souder@uconn
+Tzipora Katz@american intercontinental university
+Olga Kerchentseva@herbert
+Tom Swanson@drexel university
+Walter Pehrsson@drexel university
+Robert McKosky@drexel university
+Gavin Harrison@the ohio state university
+James Kurack@drexel university
+Sharmi Sukhia@drexel university
+Richa Singhal@niu
+Thomas Smith@wake
+John Moseley@drexel university
+Irv Schlanger@herbert
+Stuart Napshin@kennesaw state university

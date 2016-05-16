@@ -1,6 +1,3 @@
-S Daigle
-Larry Chaney
-Jennifer Turmel
-Martin Barron
-Wendy Ambrose
-David Bernstein
+S Daigle@indiana university east
+Martin Barron@university of waterloo
+David Bernstein@university of washington

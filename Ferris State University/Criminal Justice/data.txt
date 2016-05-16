@@ -1,71 +1,28 @@
-Mary Bacon
-Tom Sibley
-Terry Nerbonne
-David Steeno
-Eric Lambert
-Nancy Hogan
-Rhonda Delong
-Greg Vanderkooi
-Cecil Queen
-Russell Lewis
-Kevin Courtney
-Frank Elo
-Randall Jancek
-John Kennedy
-Timothy J. Cassady
-Sgt. Snyder
-Michael Kasher
-Steven Reifert
-James Bender
-Dawn Fox
-Katherine Barry
-Greg Teter
-Celeste Wright
-Jim Wing
-Lyle Dickson
-Joseph Wilson
-Anthony Dickson
-Eddie Harris
-James Armstrong
-Kristin Poleski
-Mischelle Stone
-Kimberly Ducat
-Margaret Edwards
-Shaun Porter
-Timothy Bourgeois
-Michael Bomay
-Maria Putt
-Steve Amey
-Michael Wiggins
-Jenna Yearkey
-Debra Bayer
-Michael Vasicek
-Cheryl Deschaine
-Chrystal Roach
-Michael McCaw
-Ryan Strong
-Beth Kirshner
-Raymond MacKsoud
-Joy Parquette
-Julius Moses
-Steven Siegrist
-Ronald Bullotta
-Scott Fischer
-Janella Robinson
-Amanda Perez
-Timothy Eklin
-Brian Miller
-Steven Hundersmarck
-Randall Haas
-Alan Lawson
-Phillip Green
-Michael Thomas
-Kenneth  Lord
-Mike Mendenhall
-Mark Shultz
-Samantha Bowlin
-Stephen Poland
-Marlene O'Hara
-Kimberly Bomar
-Jim Chapman
-Mike Klemp-North
+Mary Bacon@massachusetts institute of technology
+Tom Sibley@new york institute of technology
+David Steeno@centennial college
+Nancy Hogan@university of central florida
+Sgt. Snyder@georgia state university
+Steven Reifert@ferris state university
+James Bender@howard university
+Dawn Fox@central michigan university
+Katherine Barry@university of washington
+Lyle Dickson@wayne state university
+Anthony Dickson@university of michigan
+Shaun Porter@central michigan university
+Michael Bomay@minnesota state university moorhead
+Maria Putt@central michigan university
+Michael Wiggins@university of michigan
+Debra Bayer@henry ford college
+Michael Vasicek@michigan state university
+Ryan Strong@michigan state university
+Scott Fischer@university of mississippi
+Amanda Perez@central michigan university
+Timothy Eklin@antioch university
+Steven Hundersmarck@ferris state university
+Phillip Green@central michigan university
+Kenneth  Lord@university of scranton
+Mike Mendenhall@harvard university
+Mark Shultz@central michigan university
+Marlene O'Hara@baylor university
+Mike Klemp-North@western michigan university

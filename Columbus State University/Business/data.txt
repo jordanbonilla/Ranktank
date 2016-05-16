@@ -1,38 +1,21 @@
-John Finley
-Wesley Myrick
-Robert A. Fleck
-Eric Travis
-Yong Mi Kim
-Amer Quereshi
-Ron Self
-Jennifer Pitts
-Tom Tebeau
-Joel Cassman
-Rynetta Washington
-Lei Li
-Charles Aiken
-Jong W. Ha
-Lisa Shaw
-Brynn Dillion
-Gisung Moon
-John Kinnett
-Marsh Laurence
-Virajanand Varma
-Steven Brown
-Timothy Mescon
-Jenny Satterwhite
-Kevin Hurt
-Scott Larese
-Phil Bryant
-Rob Schwing
-Mehdi Tehrani
-Mark James
-Danielle Elizabeth
-Ken Preissler
-Johnny Ho
-Patrick Hogan
-John Hoft
-Frank Lazzara
-Olice Embry
-Thomas Loughman
-Karen Hamilton
+Robert A. Fleck@university of southern california
+Yong Mi Kim@uab
+Jennifer Pitts@columbus state university
+Joel Cassman@mason
+Rynetta Washington@university of georgia
+Lei Li@university of georgia
+Charles Aiken@university of georgia
+Brynn Dillion@the ohio state university
+Marsh Laurence@columbus state university
+Virajanand Varma@west virginia university
+Steven Brown@columbus state university
+Jenny Satterwhite@rice
+Rob Schwing@new mexico state university
+Mark James@university of pittsburgh
+Danielle Elizabeth@university of pittsburgh
+Ken Preissler@university of oregon
+Patrick Hogan@university of georgia
+John Hoft@university of georgia
+Frank Lazzara@columbus state university
+Thomas Loughman@university of georgia
+Karen Hamilton@university of rhode island

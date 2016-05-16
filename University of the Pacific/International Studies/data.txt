@@ -1,10 +1,6 @@
-Court Smith
-Susan Sample
-Jerry Hewitt
-Ramesh Krishnamurthy
-Suzanne Pasztor
-Gigi Gokcek
-Gene Bigler
-Nathan Batto
-Sarah Mathis
-Daniel O'Neill
+Court Smith@university of arizona
+Suzanne Pasztor@harvard university
+Gigi Gokcek@university of california santa barbara
+Nathan Batto@berkeley
+Sarah Mathis@university of the pacific
+Daniel O'Neill@stanford university

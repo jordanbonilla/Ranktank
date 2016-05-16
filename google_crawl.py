@@ -15,6 +15,44 @@ sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
 UNIVERSITY_LIST_NAME = "world-universities.txt"
 UNI_NAMES = {}
 MAX_WORDS_PER_UNI = -1
+VERBOSE = False
+
+
+
+
+from functools import wraps
+import errno
+import os
+import signal
+
+class TimeoutError(Exception):
+    pass
+
+def timeout(seconds=10, error_message=os.strerror(errno.ETIME)):
+    def decorator(func):
+        def _handle_timeout(signum, frame):
+            raise TimeoutError(error_message)
+
+        def wrapper(*args, **kwargs):
+            signal.signal(signal.SIGALRM, _handle_timeout)
+            signal.alarm(seconds)
+            try:
+                result = func(*args, **kwargs)
+            finally:
+                signal.alarm(0)
+            return result
+
+        return wraps(func)(wrapper)
+
+    return decorator
+
+
+
+
+
+
+
+
 
 def populate_uni_names():
 	global UNI_NAMES
@@ -32,8 +70,12 @@ def populate_uni_names():
 	print "Max words in a uni name:", max_words
 	MAX_WORDS_PER_UNI = max_words
 
-
 def get_phd_pages(name, university):
+	global VERBOSE
+	if VERBOSE is True:
+		print "get_phd_pages", name, university
+	name = str(name)
+	university = str(university)
 	search_term = name + ' ' + university + ' phd'
 	base_url = "https://www.google.com/search?q="
 	search_url = base_url
@@ -41,11 +83,12 @@ def get_phd_pages(name, university):
 	for word in words_in_seach_term:
 		search_url += word + "%20"
 	# get url's content
-	print("Processing %s" % search_url)
+	if VERBOSE is True:
+		print("Processing %s" % search_url)
+
 	### Create opener with Google-friendly user agent
 	opener = urllib2.build_opener()
 	opener.addheaders = [('User-agent', 'Mozilla/5.0')]
-
 	### Open page & generate soup
 	page = opener.open(search_url)
 	soup = BeautifulSoup(page)
@@ -55,10 +98,12 @@ def get_phd_pages(name, university):
 	### So for each cite tag on the first page, print its contents (url)
 	results = []
 	for cite in soup.findAll('cite'):
-			results.append(str(cite.text))
+			results.append((cite.text).encode('utf-8'))
 	return results
 
 def clean_html(html):
+	if VERBOSE is True:
+		print "clean_html"
 	"""
 	Copied from NLTK package.
 	Remove HTML markup from the given string.
@@ -81,18 +126,12 @@ def clean_html(html):
 	cleaned = re.sub(r"  ", " ", cleaned)
 	return cleaned.strip()
 
+@timeout(6)
 def rip_text_from_url(url):
-	timeout_duration=3
-	class TimeoutError(Exception):
-		pass
+	if VERBOSE is True:
+		print "rip text from url", url
 
-	def handler(signum, frame):
-		raise TimeoutError()
-
-	# set the timeout handler
-	signal.signal(signal.SIGALRM, handler) 
-	signal.alarm(timeout_duration)
-	opener = urllib2.build_opener()
+	global VERBSOE
 
 	try:
 		br = mechanize.Browser()
@@ -107,7 +146,8 @@ def rip_text_from_url(url):
 		organized = sent_detector.tokenize(naturally_spaced)
 		return organized
 	except:
-		print "Could not tokenize:", url
+		if VERBOSE is True:
+			print "Could not tokenize:", url
 		return []
 
 def consecutive_subsequences(words):
@@ -144,15 +184,17 @@ def parse_institution_name(line, phd_word):
 	global UNI_NAMES
 	global parents
 	global all_pseudos
+	global VERBOSE
 	if("apply" in line):
 		return "failure"
 
 	index_of_phd_term = line.index(phd_word)
-	print "index of phd term:", index_of_phd_term
+	if VERBOSE is True:
+		print "index of phd term:", index_of_phd_term
 	if in_parens(line, index_of_phd_term, len(phd_word)): # if enclosed in parens, we are confident that the uni lies to the left 
 		line = line.split("(" + phd_word + ")")[0]
 	confounded = False
-	confounding = ["b.s.", "bachelors", "masters", "m.s.", "b.a"]
+	confounding = ["b.s.", "bachelors", "masters", "m.s.", "b.a", "m.b.a"]
 	for c in confounding:
 		if c in line:
 			confounded = True
@@ -181,8 +223,8 @@ def parse_institution_name(line, phd_word):
 
 	if(pre is not -1 and post is not -1):
 		line = line[pre:post]
-
-	print line
+	if VERBOSE is True:
+		print line
 	indicies_of_universities = []
 	for phrase in all_pseudos:
 		varients = [' ' + phrase + '.', ' ' + phrase + ',', ' ' + phrase + ' ']
@@ -192,18 +234,22 @@ def parse_institution_name(line, phd_word):
 	return "failure"
 
 
-
 def find_phd_institution(websites):
+	global VERBOSE
 	search_words = set(["PhD","Ph.D","Ph.D."])
 	for website in websites:
-		print website
+		if VERBOSE is True:
+			print website
 		if not website.startswith('http'):
 			website = '%s%s' % ('http://', website)
 		if(website.endswith(".pdf") or website.endswith(".doc") or website.endswith(".ppt") or website.endswith(".docx")):
-			print "INVALID EXTENSION:", website
+			if VERBOSE is True:
+				print "INVALID EXTENSION:", website
 			continue
 		else:
-			print "OK:", website
+			if VERBOSE is True:
+				print "OK:", website
+
 			text = rip_text_from_url(website)
 			for line in text:
 				for word in search_words:
@@ -224,62 +270,114 @@ def readDict(filename):
 			dict[values[0].lower()] = values[1].lower().replace("\n", "")
 		return(dict)
 
-import shutil
-def cleanup:
-	curfile = None
-	parents = readDict("pseudonyms.txt")
-	all_pseudos = parents.keys()
-	file = None
-	unis_visited = {}
-	for name in os.listdir("."):
-		if name in unis_visited or name == ".git" or name == "":
-			continue
-		else:
-			unis_visited[name] = True
-		if os.path.isdir(name):
-			os.chdir(name)
-			for folder in os.listdir("."):
-				while True:
-					try:
-						file = open(folder + "/data.txt", "r")
-					except Exception as e:
-						print e
-						e = str(e)
-						print name, folder
+# import shutil
+# def cleanup():
+# 	curfile = None
+# 	parents = readDict("pseudonyms.txt")
+# 	all_pseudos = parents.keys()
+# 	file = None
+# 	unis_visited = {}
+# 	for name in os.listdir("."):
+# 		if name in unis_visited or name == ".git" or name == "":
+# 			continue
+# 		else:
+# 			unis_visited[name] = True
+# 		if os.path.isdir(name):
+# 			os.chdir(name)
+# 			for folder in os.listdir("."):
+# 				while True:
+# 					try:
+# 						file = open(folder + "/data.txt", "r")
+# 					except Exception as e:
+# 						print e
+# 						e = str(e)
+# 						print name, folder
 
-						rootDir = folder
-						data_files_seen = 0
-						for dirName, subdirList, fileList in os.walk(rootDir):
-							print('Found directory: %s' % dirName)
-							for fname in fileList:
-								if fname == "data.txt":
-									if(data_files_seen > 0):
-										print "2 DATA FILES???"
-										quit()
-									source = dirName + '/data.txt'
-									shutil.copy2(source, rootDir)
-									data_files_seen +=1
-						filelist = [ f for f in os.listdir(folder) if os.path.isdir(folder + "/" + f) ]
-						for f in filelist:
-							print "removing " + folder + "/" + f + " from " + name
-							shutil.rmtree(folder + "/" + f)
-					break
-				print "boop"
-				#a = file.readlines()
-				#print a
-				file.close()
-			os.chdir("../")
+# 						rootDir = folder
+# 						data_files_seen = 0
+# 						for dirName, subdirList, fileList in os.walk(rootDir):
+# 							print('Found directory: %s' % dirName)
+# 							for fname in fileList:
+# 								if fname == "data.txt":
+# 									if(data_files_seen > 0):
+# 										print "2 DATA FILES???"
+# 										quit()
+# 									source = dirName + '/data.txt'
+# 									shutil.copy2(source, rootDir)
+# 									data_files_seen +=1
+# 						filelist = [ f for f in os.listdir(folder) if os.path.isdir(folder + "/" + f) ]
+# 						for f in filelist:
+# 							print "removing " + folder + "/" + f + " from " + name
+# 							shutil.rmtree(folder + "/" + f)
+# 					break
+# 				print "boop"
+# 				#a = file.readlines()
+# 				#print a
+# 				file.close()
+# 			os.chdir("../")
 
 
 def get_phd(line, school):
-	prof_name = line
+	prof_name = line.replace('\n', '')
 	current_institute = school
-	pages = get_phd_pages(prof_name, current_institute)
-	institute = find_phd_institution(pages)
+
+	pages = []
+	while True:
+		try:
+			pages = get_phd_pages(prof_name, current_institute)
+		except Exception as e:
+			print line, school, e
+			time.sleep(10)
+			continue
+		break
+
+	institute = "failure"
+	while True:
+		try:
+			institute = find_phd_institution(pages)
+		except Exception as e:
+			print line, school, e
+			time.sleep(10)
+			continue
+		break
+
 	if (institute == "failure"):
 		return "UNKNWON"
 	else:
 		return institute
+	# while True:
+	# 	try:
+	# 		try:
+	# 			with time_limit(5):
+	# 				pages = get_phd_pages(prof_name, current_institute)
+	# 		except TimeoutException, msg:
+	# 			print "Timed out"
+	# 			break
+	# 	except Exception as e:
+	# 		print e
+	# 		time.sleep(10)
+	# 		continue
+	# 	break
+
+	# institute = "failure"
+	# while True:
+	# 	try:
+	# 		try:
+	# 			with time_limit(5):
+	# 				institute = find_phd_institution(pages)
+	# 		except TimeoutException, msg:
+	# 			print "Timed out"
+	# 			break
+	# 	except Exception as e:
+	# 		print e
+	# 		time.sleep(10)
+	# 		continue
+	# 	break
+
+	# if (institute == "failure"):
+	# 	return "UNKNWON"
+	# else:
+	# 	return institute
 
 
 if __name__ == "__main__":
@@ -296,24 +394,39 @@ if __name__ == "__main__":
 		if os.path.isdir(name):
 			os.chdir(name)
 			for folder in os.listdir("."):
-				while True:
-					try:
-						file = open(folder + "/data.txt", "r")
-					except Exception as e:
-						print e
-						e = str(e)
-						print name, folder
-					break
+				try:
+					file = open(folder + "/data.txt", "r+")
+				except Exception as e:
+					print e
+					e = str(e)
+					print name, folder
+					quit()
 				new_data = ""
 				a = file.readlines()
-				lines = a.split('\n')
-				for line in lines:
+				for line in a:
+					start_time = time.time()
 					division = line.split('@')
-					if len(devision) is 1:
-						line+="@"+get_phd(line, name)
+					if("@UNKNWON" in line or line == "\n" or line == "" or line == "@\n"):
+						continue
+					if len(division) is 1:
+						line = line.replace('\n', "")
+						line+="@"+str(get_phd(line, name))
+					elif len(division) is 2:
+						#line = line 
+						# REDO WORK (if invalid pseudonym)
+						if division[1].replace("\n", "") not in all_pseudos:
+							print "name of school that is no longer in all_pseudos:", division[1]
+							line = division[0]
+							line = line.replace('\n', "")
+							line+="@"+str(get_phd(line, name))
+						else: # Valid pseudonym. dont redo anything
+							line = line.replace('\n', "")
 					else:
-						line = line # Don't redo work
-					new_data += line + '\n'
+						print "len(Div) > 2? WTF"
+						quit()
+					if(division[0] is not ""):
+						print name, division, line, time.time() - start_time
+						new_data += line + '\n'
 				file.seek(0)
 				file.truncate()
 				file.write(new_data)

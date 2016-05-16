@@ -1,48 +1,21 @@
-Wintonyk
-Stephan Korol
-Tom King
-Graham Stratford
-Andrew Orton
-Dan Zen
-Brian Nicholson
-Michael Birch
-Ted Tracewicz
-Tom Pauk
-Paul Tom
-Gary Thompson
-Jimmy Craig
-Ashish Chaddha
-Nigel Johnson
-Petre Miu
-Mozammel Khan
-Pauline Dykes
-Imran Jatoi
-Patrick Keenan
-Amir Hossein Shabani
-Robert Kilby
-Lewis Mununga
-Cristian Trandafir
-James Forbes
-Aleksandar Vakanski
-Peter Wheeler
-Andy Alubaidy
-Alexander Tetervak
-Weijing  Ma
-Amir Alfalahi
-Hassan  Khassehkhan
-Sonia Gupta
-Saffa  Saleh
-A. Izadbakhsh
-Remy  Fernandes
-Vikas Vig
-Volodymyr  Voytenko
-Amin Ghobeity
-Konstantyn Kostowskyj
-George Feil
-Punam Parashar
-Nadia  De Sousa
-Safaa Saleh
-Ali Emamian
-Aravind Venkatapathy
-Srinivas Ganapathyraju
-Dragan Jovanov
+Stephan Korol@harvard medical school
+Tom King@university of california riverside
+Dan Zen@concordia university
+Michael Birch@university of calgary
+Ted Tracewicz@western university
+Paul Tom@mason
+Jimmy Craig@princeton university
+Nigel Johnson@university of victoria
+Mozammel Khan@sheridan college
+Pauline Dykes@jackson
+Amir Hossein Shabani@university of waterloo
+James Forbes@university of waterloo
+Aleksandar Vakanski@gaston college
+Peter Wheeler@rice
+Andy Alubaidy@ryerson university
+Saffa  Saleh@sheridan college
+Remy  Fernandes@oxford university
+Amin Ghobeity@sheridan college
+Nadia  De Sousa@university of guelph
+Safaa Saleh@sheridan college
+Srinivas Ganapathyraju@mason

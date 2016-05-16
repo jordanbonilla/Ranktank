@@ -1,11 +1,8 @@
-David Haws
-Mandar Khanal
-Sondra Miller
-Robert Hamilton
-George Murgel
-Bhaskar Chittoori
-Osama Al-Hamdan
-Arvin Farid
-Deb Mishra
-Jairo Hernandez
-Yang Lu
+Mandar Khanal@mason
+Sondra Miller@mason
+Robert Hamilton@mason
+Bhaskar Chittoori@mason
+Arvin Farid@mason
+Deb Mishra@boise state university
+Jairo Hernandez@mason
+Yang Lu@mason

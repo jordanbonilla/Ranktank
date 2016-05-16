@@ -1,22 +1,8 @@
-Tianxuan Miao
-Adam Van Tuyl
-Andrew Dean
-Liping Liu
-Deli Li
-Peter Mah
-Brian Whitfield
-Monica Ilie
-Razvan Anisca
-Sergey Ulanov
-Jennifer Beirmann
-Xuemao Zhang
-Eugeniu Spinu
-Elcim Elgun
-Maria Grazie Viola
-Christopher Chlebovic
-David Schelling
-Greg Lee
-Fridolin Ting
-Guy Davis
-Yin Chen
-Radcliff Siddo
+Andrew Dean@oxford university
+Liping Liu@liu
+Deli Li@university of regina
+Monica Ilie@university of alberta
+Jennifer Beirmann@university of victoria
+Maria Grazie Viola@university of iowa
+Greg Lee@university of alberta
+Guy Davis@simon fraser university

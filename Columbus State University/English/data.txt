@@ -1,106 +1,43 @@
-Clayton Henry
-Nick Norwood
-Tucker Hearn
-Nancy Moore
-Melody Shumaker
-Lynda Byrne
-Laurene Owens
-Martha Veteto
-Joseph McCallus
-Marrian Fletcher
-Jim Fletcher
-Jennifer Chase
-Rachel Williams
-Suzanne Previte
-Linda Willard
-Kathryn Hamilton
-Scott Cook
-Gail Powell
-Janice Rholetter
-Robert Cummings
-John Summerfield
-William Russell
-Stephen Levin
-Catrina Latimore
-Susan Hrach
-Gretchen Nevins
-Cynthia Laney
-Josh Eyler
-Tommie Delaney
-Annette Kocian
-Carmen Skaggs
-Carroll Taylor
-Carey Scott Wilkerson
-Patricia Ivey
-E. C. Spencer
-Anna Flournoy
-Patrick Jackson
-Aaron Sanders
-Jonathan Lewis
-Charles Nesbitt
-Michaela Barno
-Molly Wright
-William Collins
-Katherine Gray
-Christina McClung
-Luciana Herman
-Catherine Gray
-Noah Roderick
-M S Rose
-Courtney George
-Dianne Armstrong
-Deborah Bailey
-Elizabeth Culverson
-Linda Coleman
-Cayce Vanhorn
-Kristen Miller
-Cayce Horn
-Lorna Ivey
-Angela Green
-Patrick McGinn
-Nancy McLendon
-Judith Livingston
-Sundi Roseholt
-Whitney Hachinsky
-Eliot Rendlemen
-Joseph Miller
-Jeon Kyongseon
-Gaylene Heileman
-Eric Anderson
-Shannon Godlove
-Frieman Elaine
-Ashley Wolstein
-Meredith Polk
-Latasha Warner
-Sherry Tomblin
-David Matchen
-Katherine Brewer
-Russell Norris
-Robert  Norwood
-Nancy Blair
-Carolina Pelaez-Morales
-Aaliyah Lowe
-Leslie Haines
-Rachel Winkles
-Natasha David-Walker
-Barbara Hunt
-William Winn
-Sandra Coffey
-Crystal Woods
-Joeseph Higgins
-Sarah Atwood
-Tyrone Jones
-Greg Spence
-Joseph Francavilla
-Jim Owen
-Patrick McHenry
-Kyongseon Jeon
-Susan Georgecink
-Daniel Ross
-Noreen Lape
-Anita Dugat-Greene
-Cathy Fussell
-Carla Bryant
-Nemia Chai
-Roger Fontana
-Michelle Ossa
+Clayton Henry@clayton state university
+Nick Norwood@columbus state university
+Laurene Owens@university of georgia
+Joseph McCallus@louisiana state university
+Marrian Fletcher@university of rio grande
+Jim Fletcher@university of georgia
+Rachel Williams@university of georgia
+Gail Powell@chicago
+Janice Rholetter@brooklyn
+Robert Cummings@university of georgia
+John Summerfield@university of georgia
+Stephen Levin@university of georgia
+Susan Hrach@university of washington
+Gretchen Nevins@university of ottawa
+Cynthia Laney@south university
+Josh Eyler@university of georgia
+Carmen Skaggs@university of georgia
+Anna Flournoy@ohio university
+Patrick Jackson@university of northern colorado
+Aaron Sanders@university of utah
+Jonathan Lewis@florida state university
+Katherine Gray@iowa state university
+Noah Roderick@illinois state university
+Courtney George@louisiana state university
+Cayce Horn@university of southern california
+Lorna Ivey@faulkner university
+Judith Livingston@louisiana state university
+Sundi Roseholt@indiana state university
+Frieman Elaine@university of alabama
+Ashley Wolstein@national university
+Latasha Warner@university of pittsburgh
+David Matchen@kent state university
+Russell Norris@college of charleston
+Nancy Blair@university of pittsburgh
+Leslie Haines@clemson university
+Barbara Hunt@columbus state university
+Crystal Woods@marquette university
+Sarah Atwood@university of pittsburgh
+Tyrone Jones@wayne state university
+Jim Owen@north carolina state university
+Noreen Lape@temple university
+Cathy Fussell@university of georgia
+Carla Bryant@mississippi state university

@@ -1,7 +1,3 @@
-John Paul
-Tricia White
-Lee Orchard
-Alan Ernstein
-Andy White
-Alan Stalmah
-Ann Kessler
+John Paul@valparaiso university
+Andy White@valparaiso university
+Ann Kessler@valparaiso university
