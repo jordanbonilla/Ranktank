@@ -1,14 +1,14 @@
-Charles Tucker
-Kevin Kautenburger
-John Laporte
-Barbara Stanczak
-Richard Fiorelli
-Sean Shomes
-Edward Covert
-Carla Blackman
-Mari Hulik
-Anthony Zart
-William Leddy
-Jimmy Kuehnle
-Haishan Deng
-Larry O'neal
+Charles Tucker@kent state university
+Kevin Kautenburger@montana
+John Laporte@montana
+Barbara Stanczak@california institute of technology
+Richard Fiorelli@montana
+Sean Shomes@montana
+Edward Covert@UNKNWON
+Carla Blackman@UNKNWON
+Mari Hulik@montana
+Anthony Zart@cse
+William Leddy@california state university
+Jimmy Kuehnle@case western reserve university
+Haishan Deng@UNKNWON
+Larry O'neal@UNKNWON

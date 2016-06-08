@@ -1,11 +1,11 @@
-Trino Leon
-Raymond Shovlain
-Randy Thom
-John Simmons
-Liquan Wang
-John Collis
-Imtiaz Mazumder
-Greg Geistkemper
-James Van Speybroeck
-Patrick O'Leary
-Gregory Bereskin
+Trino Leon@st. thomas aquinas college
+Raymond Shovlain@UNKNWON
+Randy Thom@UNKNWON
+John Simmons@ambrose university
+Liquan Wang@university of iowa
+John Collis@university of iowa
+Imtiaz Mazumder@UNKNWON
+Greg Geistkemper@liu
+James Van Speybroeck@ambrose university
+Patrick O'Leary@ambrose university
+Gregory Bereskin@ambrose university

@@ -1,34 +1,34 @@
-Kipp Lornell
-Ben Fritz
-Barbro Dahlman
-Alice Mikolajewski
-Karin Orenstein
-Millicent Scarlett
-Paul Edgar
-David Sciannella
-Ronit Seter
-Robert Baker
-Doug Boyce
-Alejandro Lucini
-Frank Conlon
-Stephen Wellman
-John Albertson
-Nancia D'Alimonte
-Amy Reiff
-Gisele Becker
-Berta Rojas
-Victor Vicente
-Steve Hilmy
-Nathan Lincoln-Decusatis
-Kathleen Smith
-Christopher Lornell
-Mary MacKlem
-Eugene Montague
-Brian Rice
-Lars Helgert
-Herman Burney
-Tricia Lepofsky
-Jessica Krash
-Karen Ahlquist
-Laura Youens
-Tzvetan Konstantinov
+Kipp Lornell@university of north carolina at chapel hill
+Ben Fritz@mason
+Barbro Dahlman@UNKNWON
+Alice Mikolajewski@UNKNWON
+Karin Orenstein@UNKNWON
+Millicent Scarlett@UNKNWON
+Paul Edgar@brown university
+David Sciannella@UNKNWON
+Ronit Seter@UNKNWON
+Robert Baker@UNKNWON
+Doug Boyce@university of oregon
+Alejandro Lucini@UNKNWON
+Frank Conlon@UNKNWON
+Stephen Wellman@UNKNWON
+John Albertson@UNKNWON
+Nancia D'Alimonte@gw
+Amy Reiff@wayne state university
+Gisele Becker@UNKNWON
+Berta Rojas@UNKNWON
+Victor Vicente@UNKNWON
+Steve Hilmy@UNKNWON
+Nathan Lincoln-Decusatis@UNKNWON
+Kathleen Smith@UNKNWON
+Christopher Lornell@university of north carolina at chapel hill
+Mary MacKlem@gw
+Eugene Montague@university of massachusetts
+Brian Rice@louisiana state university
+Lars Helgert@george washington university
+Herman Burney@UNKNWON
+Tricia Lepofsky@UNKNWON
+Jessica Krash@harvard medical school
+Karen Ahlquist@university of michigan
+Laura Youens@UNKNWON
+Tzvetan Konstantinov@george washington university

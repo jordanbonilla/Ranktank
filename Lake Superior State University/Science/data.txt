@@ -1,27 +1,27 @@
-Randall Mullin
-Roger Land
-John Lenters
-Richard Back
-Barb Keller
-David Szlag
-Dennis Merkel
-Lew Brown
-Greg Zimmerman
-Deb Stai
-Nancy Kirkpatrick
-R. Marshall Werner
-Paul Kelso
-Stephen Hanson
-Thomas Allan
-David Myton
-Barbara Evans
-Michael Doyle
-Alexei Iretski
-Terry Heyns
-Alexandre Litvinov
-Roger Blanchard
-Chris Kirk
-Ashley Moerke
-Josh Lallaman
-James Schaefer
-Rex Ainslie
+Randall Mullin@university of wyoming
+Roger Land@sam houston state university
+John Lenters@UNKNWON
+Richard Back@utah state university
+Barb Keller@montana
+David Szlag@UNKNWON
+Dennis Merkel@michigan state university
+Lew Brown@UNKNWON
+Greg Zimmerman@colorado state university
+Deb Stai@UNKNWON
+Nancy Kirkpatrick@UNKNWON
+R. Marshall Werner@university of maryland
+Paul Kelso@UNKNWON
+Stephen Hanson@michigan technological university
+Thomas Allan@university of maine
+David Myton@portland state university
+Barbara Evans@university of kansas
+Michael Doyle@UNKNWON
+Alexei Iretski@UNKNWON
+Terry Heyns@sam houston state university
+Alexandre Litvinov@university of kansas
+Roger Blanchard@minot state university
+Chris Kirk@idaho state university
+Ashley Moerke@university of notre dame
+Josh Lallaman@UNKNWON
+James Schaefer@university of toledo
+Rex Ainslie@osu

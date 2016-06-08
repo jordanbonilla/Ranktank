@@ -1,49 +1,49 @@
-Philip Wirtz
-Susan White
-Ed Marits
-Richard Donnelly
-Mary Granger
-William Taylor
-Andrea Young
-Dennis Kois
-Jeffrey Lenn
-Subhashish Dasgupta
-Kwak Young Hoon
-James Bailey
-Jerald Feinstein
-George Hrivnak
-Susan Duffy
-Homayoun Khamooshi
-Bing Sheng Teng
-Michelle Westermann-Behaylo
-Charles Toftoy
-Thomas Sanders
-Zhu
-Stuart Umpleby
-Jon Raelin
-Kathy Korman Frey
-Srinivas Prasad
-Ernest Forman
-Sally Fowler
-Frank Anbari
-Sunjay Jain
-Jaclyn M Jensen
-Maliha Haddad
-Jennifer Paris
-Daniel Wendt
-Mehmet Altug
-Eun-Hee Kim
-Jorge Rivera
-Mike Stouder
-Bartholomew Timm
-Sheetal Singg
-Doug Guthrie
-Meredith Burnett
-Ayman El Tarabishy
-Edward Cherian
-George Solomon
-Vikas Sahasrabudhe
-Vikas Jain
-Elias Carayannis
-Patrick McHugh
-Dennis W. Johnson
+Philip Wirtz@george washington university
+Susan White@duke university
+Ed Marits@UNKNWON
+Richard Donnelly@UNKNWON
+Mary Granger@university of cincinnati
+William Taylor@UNKNWON
+Andrea Young@rice
+Dennis Kois@UNKNWON
+Jeffrey Lenn@yale university
+Subhashish Dasgupta@UNKNWON
+Kwak Young Hoon@berkeley
+James Bailey@george washington university
+Jerald Feinstein@george washington university
+George Hrivnak@UNKNWON
+Susan Duffy@babson college
+Homayoun Khamooshi@lancaster university
+Bing Sheng Teng@UNKNWON
+Michelle Westermann-Behaylo@UNKNWON
+Charles Toftoy@baylor university
+Thomas Sanders@UNKNWON
+Zhu@gw
+Stuart Umpleby@university of illinois at urbana-champaign
+Jon Raelin@UNKNWON
+Kathy Korman Frey@UNKNWON
+Srinivas Prasad@UNKNWON
+Ernest Forman@drexel university
+Sally Fowler@wellesley college
+Frank Anbari@UNKNWON
+Sunjay Jain@rensselaer polytechnic institute
+Jaclyn M Jensen@UNKNWON
+Maliha Haddad@UNKNWON
+Jennifer Paris@james madison university
+Daniel Wendt@gw
+Mehmet Altug@university of florida
+Eun-Hee Kim@university of michigan
+Jorge Rivera@duke university
+Mike Stouder@gwu
+Bartholomew Timm@UNKNWON
+Sheetal Singg@university of maryland
+Doug Guthrie@new york university stern school of business
+Meredith Burnett@UNKNWON
+Ayman El Tarabishy@george washington university
+Edward Cherian@UNKNWON
+George Solomon@UNKNWON
+Vikas Sahasrabudhe@university of maryland
+Vikas Jain@gw
+Elias Carayannis@rensselaer polytechnic institute
+Patrick McHugh@washington state university
+Dennis W. Johnson@george washington university

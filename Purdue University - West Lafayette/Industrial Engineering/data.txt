@@ -1,35 +1,35 @@
-Bruce Schmeiser
-Jean-Philippe Richard
-Kari Clase
-Yuehwern Yih
-C. Richard Liu
-Shimon Nof
-Sujin Kim
-Wootae Jeong
-Mark Lehto
-Ali Diabat
-Vincent Duffy
-Gavriel Salvendi
-Leyla Ozsen
-Steven Landry
-Ji Soo YI
-Nelson Uhan
-Gary Cheng
-Pilsung Choe
-Mihailo Stojnic
-Sukgon Kim
-Juan Wachs
-Seokcheon Lee
-Jose Tanchoco
-Agostino Capponi
-Andrew Liu
-Susan Hunter
-Ramses Martinez
-Harshwardhan Aggarwal
-Patrick Brunese
-Denny Yu
-Roshanak Nateghi
-Joaquin Goni
-Mario Ventresca
-Sara McComb
-Bobby Vaziri
+Bruce Schmeiser@UNKNWON
+Jean-Philippe Richard@UNKNWON
+Kari Clase@cabrini college
+Yuehwern Yih@liu
+C. Richard Liu@liu
+Shimon Nof@UNKNWON
+Sujin Kim@UNKNWON
+Wootae Jeong@UNKNWON
+Mark Lehto@UNKNWON
+Ali Diabat@UNKNWON
+Vincent Duffy@UNKNWON
+Gavriel Salvendi@berkeley
+Leyla Ozsen@naval postgraduate school
+Steven Landry@UNKNWON
+Ji Soo YI@lafayette
+Nelson Uhan@mit
+Gary Cheng@columbia university
+Pilsung Choe@lafayette
+Mihailo Stojnic@california institute of technology
+Sukgon Kim@lafayette
+Juan Wachs@UNKNWON
+Seokcheon Lee@national university
+Jose Tanchoco@UNKNWON
+Agostino Capponi@columbia university
+Andrew Liu@liu
+Susan Hunter@UNKNWON
+Ramses Martinez@UNKNWON
+Harshwardhan Aggarwal@UNKNWON
+Patrick Brunese@UNKNWON
+Denny Yu@lafayette
+Roshanak Nateghi@kansas state university
+Joaquin Goni@lafayette
+Mario Ventresca@UNKNWON
+Sara McComb@lafayette
+Bobby Vaziri@liu

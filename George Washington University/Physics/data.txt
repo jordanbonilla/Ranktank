@@ -1,34 +1,34 @@
-Frank Lee
-Joe Rosen
-Chen Zeng
-Alena Opper
-Nawal Benmouna
-Gerard Garino
-Carol O'Donnell
-Gary White
-Yordanka Ilieva
-Weiqun Peng
-Helmut Haberzettl
-Jasper Nijdam
-Jasper Njidam
-Anna Micherdzinska
-Mike Lujan
-Xiangyun Qiu
-Gary-Wayne Pennington
-Anthony Moscati
-Hina Ayub
-Bethany Kung
-Ron Workman
-Illa Moskowitz
-Glen MacLachlan
-Evangeline Downie
-Raluca Teodorescu
-Andrei Afanasev
-Cornelius Bennhold
-Willaim Briscoe
-Barry L. Berman
-Jerald Feldman
-Mark Reeves
-Igor Strakovsky
-John Balbach
-William Parke
+Frank Lee@ohio university
+Joe Rosen@UNKNWON
+Chen Zeng@UNKNWON
+Alena Opper@university of pennsylvania
+Nawal Benmouna@UNKNWON
+Gerard Garino@gsa
+Carol O'Donnell@UNKNWON
+Gary White@gw
+Yordanka Ilieva@UNKNWON
+Weiqun Peng@UNKNWON
+Helmut Haberzettl@UNKNWON
+Jasper Nijdam@gw
+Jasper Njidam@gw
+Anna Micherdzinska@university of maryland
+Mike Lujan@baylor university
+Xiangyun Qiu@UNKNWON
+Gary-Wayne Pennington@UNKNWON
+Anthony Moscati@eastern michigan university
+Hina Ayub@UNKNWON
+Bethany Kung@yale university
+Ron Workman@UNKNWON
+Illa Moskowitz@UNKNWON
+Glen MacLachlan@george washington university
+Evangeline Downie@UNKNWON
+Raluca Teodorescu@gw
+Andrei Afanasev@national university
+Cornelius Bennhold@gw
+Willaim Briscoe@UNKNWON
+Barry L. Berman@gw
+Jerald Feldman@university of washington
+Mark Reeves@gw
+Igor Strakovsky@gw
+John Balbach@george washington university
+William Parke@UNKNWON

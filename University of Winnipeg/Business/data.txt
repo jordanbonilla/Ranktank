@@ -1,53 +1,53 @@
-John Melnyk
-Angela Davis
-Sat Singh
-Sontwa Sinkala
-Robin Church
-Grace O'Farrell
-Patricia Walker
-Alok Dua
-Glen Mazur
-Karen Keppler
-Ardith Plant
-Drew Evans
-Stephan Chapman
-Maggie Liu
-Ivy Kyei-Poku
-Dheeraj Sharma
-Jing Chen
-Brian Rodger
-Glen Melnyk
-Janet Charron
-Fabrizio Dimuro
-Marcel Joaquin
-Debbie Mortimer
-Karen Harlos
-Gabriel Chung
-David Duval
-David Kernaghan
-Victor Cui
-Darryl Hammond
-Jessie Xiao
-Allen Grant
-Brian Wood
-Bruno Silvestre
-Kim Hunter
-Michael Breward
-Katherine Breward
-Farhan Islam
-Junwook Yoo
-Jose Cid
-Melanda Guenther
-Trina Chamberlain
-Nicholas Borodenko
-Claudia Sanchez Bajo
-Masud Khawaja
-Sharron Lin
-Alexandra McMullen
-peter moreira
-Mehdi Akhgari
-Kamel Fantazy
-Marty Donkervoort
-Paula Havixbeck
-Rosalie Harms
-Keith Tomasson
+John Melnyk@university of manitoba
+Angela Davis@university of arizona
+Sat Singh@UNKNWON
+Sontwa Sinkala@UNKNWON
+Robin Church@UNKNWON
+Grace O'Farrell@university of manitoba
+Patricia Walker@northwestern university
+Alok Dua@UNKNWON
+Glen Mazur@UNKNWON
+Karen Keppler@UNKNWON
+Ardith Plant@UNKNWON
+Drew Evans@UNKNWON
+Stephan Chapman@UNKNWON
+Maggie Liu@liu
+Ivy Kyei-Poku@university of winnipeg
+Dheeraj Sharma@rollins college
+Jing Chen@UNKNWON
+Brian Rodger@university of manitoba
+Glen Melnyk@university of winnipeg
+Janet Charron@UNKNWON
+Fabrizio Dimuro@university of winnipeg
+Marcel Joaquin@university of manitoba
+Debbie Mortimer@national university
+Karen Harlos@university of winnipeg
+Gabriel Chung@UNKNWON
+David Duval@university of manitoba
+David Kernaghan@algoma
+Victor Cui@university of winnipeg
+Darryl Hammond@UNKNWON
+Jessie Xiao@university of manitoba
+Allen Grant@UNKNWON
+Brian Wood@harvard university
+Bruno Silvestre@rio
+Kim Hunter@university of winnipeg
+Michael Breward@mcmaster university
+Katherine Breward@university of winnipeg
+Farhan Islam@UNKNWON
+Junwook Yoo@UNKNWON
+Jose Cid@UNKNWON
+Melanda Guenther@UNKNWON
+Trina Chamberlain@UNKNWON
+Nicholas Borodenko@UNKNWON
+Claudia Sanchez Bajo@UNKNWON
+Masud Khawaja@university of manitoba
+Sharron Lin@virginia commonwealth university
+Alexandra McMullen@victoria university
+peter moreira@UNKNWON
+Mehdi Akhgari@UNKNWON
+Kamel Fantazy@UNKNWON
+Marty Donkervoort@university of manitoba
+Paula Havixbeck@university of guelph
+Rosalie Harms@UNKNWON
+Keith Tomasson@UNKNWON

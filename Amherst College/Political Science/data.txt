@@ -1,13 +1,13 @@
-Pavel Machala
-Hadley Arkes
-Kristin Bumiller
-Uday Mehta
-Andrew Poe
-Jonathan Obert
-Kerry Ratigan
-Javier Corrales
-Sayres Rudy
-Ronald Tiersky
-Thomas Dumm
-William Taubman
-Amrita Basu
+Pavel Machala@UNKNWON
+Hadley Arkes@university of chicago
+Kristin Bumiller@UNKNWON
+Uday Mehta@princeton university
+Andrew Poe@UNKNWON
+Jonathan Obert@UNKNWON
+Kerry Ratigan@UNKNWON
+Javier Corrales@harvard university
+Sayres Rudy@harvard business school
+Ronald Tiersky@UNKNWON
+Thomas Dumm@amherst college
+William Taubman@UNKNWON
+Amrita Basu@columbia university

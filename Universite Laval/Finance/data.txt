@@ -1,11 +1,11 @@
-Christian Boutet
-Marie-Claude Beaulieu
-Carole Martel
-Guillaume Pichard
-Isabelle Larouche
-Claire Bilodeau
-Ghislain Leveille
-Patrick Deloye
-Richard Luger
-Jean-François Guimond
-Denis Moffet
+Christian Boutet@UNKNWON
+Marie-Claude Beaulieu@UNKNWON
+Carole Martel@ul
+Guillaume Pichard@UNKNWON
+Isabelle Larouche@UNKNWON
+Claire Bilodeau@mit
+Ghislain Leveille@mcgill university
+Patrick Deloye@UNKNWON
+Richard Luger@universite laval
+Jean-François Guimond@UNKNWON
+Denis Moffet@UNKNWON

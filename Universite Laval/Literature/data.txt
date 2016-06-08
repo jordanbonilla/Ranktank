@@ -1,35 +1,35 @@
-Aurélien Boivin
-Chantal Théry
-Jean-Marcel Paquette
-Jean-Philippe Marcoux
-Lise Martin
-Jean-Noel Pontbriand
-Anne Fonteneau
-Marie-Andrée Beaudet
-Denise Cliche
-Maximilien Laroche
-Anne-Marie Fortier
-Chantal Savoie
-René Audet
-Richard Saint-Gelais
-Thierry Bissonnette
-Nelson Charest
-Craig Baker
-Clarisse Dehont
-Marie Fradette
-Marie-Helene Larochelle
-Ahmed Sdiri
-Katell Collin-Thébaudeau
-Justin Bisanswa
-Severine Clerc-Girard
-Andree Mercier
-Sarah Barclay
-Eric Van Der Schueren
-Sabrina Vervacke
-Anne Caumartin
-Benoit Doyon-Gosselin
-Bruce Gilchrist
-Guillaume Pinson
-Alban Baudou
-Jean-Claude Simard
-Pierre Dolbec
+Aurélien Boivin@UNKNWON
+Chantal Théry@UNKNWON
+Jean-Marcel Paquette@universite laval
+Jean-Philippe Marcoux@university of southern california
+Lise Martin@UNKNWON
+Jean-Noel Pontbriand@UNKNWON
+Anne Fonteneau@UNKNWON
+Marie-Andrée Beaudet@UNKNWON
+Denise Cliche@UNKNWON
+Maximilien Laroche@UNKNWON
+Anne-Marie Fortier@UNKNWON
+Chantal Savoie@UNKNWON
+René Audet@svenska
+Richard Saint-Gelais@UNKNWON
+Thierry Bissonnette@UNKNWON
+Nelson Charest@UNKNWON
+Craig Baker@universite laval
+Clarisse Dehont@UNKNWON
+Marie Fradette@UNKNWON
+Marie-Helene Larochelle@UNKNWON
+Ahmed Sdiri@universite laval
+Katell Collin-Thébaudeau@UNKNWON
+Justin Bisanswa@universite laval
+Severine Clerc-Girard@UNKNWON
+Andree Mercier@universite de montreal
+Sarah Barclay@universite laval
+Eric Van Der Schueren@universite laval
+Sabrina Vervacke@university of calgary
+Anne Caumartin@universite laval
+Benoit Doyon-Gosselin@UNKNWON
+Bruce Gilchrist@universite laval
+Guillaume Pinson@UNKNWON
+Alban Baudou@UNKNWON
+Jean-Claude Simard@UNKNWON
+Pierre Dolbec@UNKNWON

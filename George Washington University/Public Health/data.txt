@@ -1,65 +1,65 @@
-James Cawley
-Robert Hirsch
-Daniel Hoffman
-Josef Reum
-Muhiuddin Haider
-Taylor Burke
-Brad Moore
-Joel Teitelbaum
-Gerald Stokes
-John Dudte
-Mark Edberg
-Victor Barbiero
-Geoff Shapiro
-Constance Battle
-Traci Embrack
-David Goldsmith
-Heather Hoffman
-Lou McDonald
-Kurt Darr
-Rebecca Katz
-Keith Monosky
-Theodore Rosen
-Jim Sherry
-Kimberly Mills
-Sarah Orndorff
-Robert Burke
-Jennifer Leonard
-Gerald Bass
-Thomas Jazwiecki
-John Borrazzo
-Anne Peterson
-E. Blaine Parrish
-Amita Vyas
-Steven Eastaugh
-Richard Riegelman
-Christine Ferguson
-Dale Lupu
-Brian Biles
-Patricia MacTaggart
-Phillip Aspden
-Fred Van Eenennaam
-Bianca Frogner
-Sheila McGinnis
-Brenda Gleason
-Kimberly Gamble-Payne
-Ronald Waldman
-Irene Kuo
-Martelle Esposito
-Scott Schroth
-Elizabeth Andrade
-Margaret Ulfers
-Naji Younes
-Angela Esquivel
-Stephanie David
-Amanda Buckley
-Joan Claros
-Monica Ruiz
-Sabrina  McCormick
-Kim Robien
-John  Davies-Cole
-Mina Simhai
-Eliot Sorel
-Richard Skolnik
-Dante Verme
-Sarah Wilensky
+James Cawley@gw
+Robert Hirsch@UNKNWON
+Daniel Hoffman@gw
+Josef Reum@gw
+Muhiuddin Haider@UNKNWON
+Taylor Burke@johns hopkins university
+Brad Moore@UNKNWON
+Joel Teitelbaum@george washington university
+Gerald Stokes@george washington university
+John Dudte@james madison university
+Mark Edberg@university of virginia
+Victor Barbiero@boston university
+Geoff Shapiro@UNKNWON
+Constance Battle@gw
+Traci Embrack@UNKNWON
+David Goldsmith@university of north carolina at chapel hill
+Heather Hoffman@UNKNWON
+Lou McDonald@UNKNWON
+Kurt Darr@UNKNWON
+Rebecca Katz@george washington university
+Keith Monosky@UNKNWON
+Theodore Rosen@UNKNWON
+Jim Sherry@UNKNWON
+Kimberly Mills@gw
+Sarah Orndorff@johns hopkins university
+Robert Burke@rice
+Jennifer Leonard@james madison university
+Gerald Bass@UNKNWON
+Thomas Jazwiecki@UNKNWON
+John Borrazzo@gw
+Anne Peterson@UNKNWON
+E. Blaine Parrish@UNKNWON
+Amita Vyas@gw
+Steven Eastaugh@UNKNWON
+Richard Riegelman@UNKNWON
+Christine Ferguson@UNKNWON
+Dale Lupu@george washington university
+Brian Biles@gw
+Patricia MacTaggart@UNKNWON
+Phillip Aspden@george washington university
+Fred Van Eenennaam@UNKNWON
+Bianca Frogner@johns hopkins university
+Sheila McGinnis@UNKNWON
+Brenda Gleason@UNKNWON
+Kimberly Gamble-Payne@UNKNWON
+Ronald Waldman@gw
+Irene Kuo@gw
+Martelle Esposito@UNKNWON
+Scott Schroth@UNKNWON
+Elizabeth Andrade@gw
+Margaret Ulfers@university of chicago
+Naji Younes@UNKNWON
+Angela Esquivel@UNKNWON
+Stephanie David@UNKNWON
+Amanda Buckley@UNKNWON
+Joan Claros@gw
+Monica Ruiz@george washington university
+Sabrina  McCormick@gw
+Kim Robien@gw
+John  Davies-Cole@gw
+Mina Simhai@UNKNWON
+Eliot Sorel@UNKNWON
+Richard Skolnik@mason
+Dante Verme@UNKNWON
+Sarah Wilensky@UNKNWON

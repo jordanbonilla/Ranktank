@@ -1,26 +1,26 @@
-Remco Zegers
-Megan Knapp
-Gerd Kortemeyer
-Lisa Lapidus
-Carl Schmidt
-Hendrik Schatz
-Chien-Peng Yuan
-Marc Doleans
-Edwin Loh
-Jon Pumplin
-Richard Hallstein
-Tibor Nagy
-Pawel Danielowicz
-Chi Wei Lai
-Martin Berz
-William Lynch
-Donahue Megan
-Alexander Levchenko
-Carl Bromberg
-David Tomanek
-Saul Beceiro Novo
-Ulrike Hager
-Zachary Matheson
-Joey Huston
-Alex Brown
-Heiko Hergert
+Remco Zegers@UNKNWON
+Megan Knapp@UNKNWON
+Gerd Kortemeyer@lbc
+Lisa Lapidus@harvard university
+Carl Schmidt@harvard university
+Hendrik Schatz@university of notre dame
+Chien-Peng Yuan@university of michigan
+Marc Doleans@university of vermont
+Edwin Loh@ccd
+Jon Pumplin@university of michigan
+Richard Hallstein@UNKNWON
+Tibor Nagy@UNKNWON
+Pawel Danielowicz@UNKNWON
+Chi Wei Lai@berkeley
+Martin Berz@UNKNWON
+William Lynch@university of washington
+Donahue Megan@UNKNWON
+Alexander Levchenko@national university
+Carl Bromberg@university of rochester
+David Tomanek@UNKNWON
+Saul Beceiro Novo@the university of western ontario
+Ulrike Hager@UNKNWON
+Zachary Matheson@university of guelph
+Joey Huston@university of rochester
+Alex Brown@UNKNWON
+Heiko Hergert@tu

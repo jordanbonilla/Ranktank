@@ -1,58 +1,28 @@
-Jerzy Kizka
-Dimiter Alexandrov
-Sai Vanapalli
-Krishnamoorthy Natarajan
-Laurie Garred
-Sultan Siddiqui
-David Cooper
-Alan Gilbert
-Lionel Catalan
-Inderjit Nirdosh
-Meilan Liu
-Umed Panu
-Tony Gillies
-Wa Gao
-Baoqiang Liao
-Nasir Uddin
-Mohsen Ferchichi
-Abdallah Shami
-Bruce Kjartanson
-Hassan Naser
-Hao Bai
-Juan Pernia
-Julian Cheng
-Wilson Wang
-Kevin Merkley
-Bill Butuk
-Basil Ismail
-Edward Janssens
-Ali Manzak
-Ehsan Atoofian
-George McKay
-Myint BO
-Richard Khoury
-Guosheng WU
-Rachid Benlamri
-Pedram Fatehi
-Sudip Rakshit
-Eltayeb Mohamedelhassan
-Siamak Elyasi
-Sam Salem
-Henri Saliba
-Amir Azimi
-Francine Kotovich
-Jian Deng
-Ayan Sadhu
-Greg Toombs
-Murari  Roy
-Salama Ikki
-Kefu Liu
-Carlos Christoffersen
-Birbal Singh
-Xiaoping Liu
-Timo Tikka
-Zhiwei Mao
-Yanglin Gong
-Sabah Mansour
-Abdelhamid Tayebi
-Warren Paju
+Krishnamoorthy Natarajan@university of new brunswick
+Sultan Siddiqui@lakehead university
+Lionel Catalan@university of waterloo
+Meilan Liu@western university
+Wa Gao@university of alberta
+Baoqiang Liao@university of new brunswick
+Nasir Uddin@memorial university of newfoundland
+Bruce Kjartanson@university of manitoba
+Hassan Naser@university of toronto
+Hao Bai@university of manitoba
+Juan Pernia@university of south florida
+Julian Cheng@university of alberta
+Wilson Wang@northeastern university
+Basil Ismail@mcmaster university
+Ehsan Atoofian@university of victoria
+Richard Khoury@university of waterloo
+Rachid Benlamri@university of manchester
+Pedram Fatehi@cbc
+Siamak Elyasi@university of british columbia
+Henri Saliba@university of ottawa
+Amir Azimi@university of alberta
+Jian Deng@south university
+Ayan Sadhu@university of waterloo
+Kefu Liu@south university
+Birbal Singh@university of alberta
+Xiaoping Liu@liu
+Timo Tikka@lakehead university
+Yanglin Gong@university of waterloo

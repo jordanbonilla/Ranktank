@@ -1,24 +1,24 @@
-Michael Chier
-Russell Meier
-Gerald Thomas
-Brian Petted
-Robert Strangeway
-Jen Riffer
-Jovan Jevtic
-Jay Wierer
-Richard Kelnhofer
-James Blaha
-Sheila Ross
-Cory Prust
-Bharathwaj Muthuswamy
-Steven Williams
-Edward Chandler
-Michael Wenzel
-Christopher Merkl
-Luke Weber
-Kerry Widder
-Steven Holland
-Aaron Suminski
-Joshua Carl
-Hue Tran
-John Gassert
+Michael Chier@milwaukee school of engineering
+Russell Meier@UNKNWON
+Gerald Thomas@UNKNWON
+Brian Petted@milwaukee school of engineering
+Robert Strangeway@medical college of wisconsin
+Jen Riffer@milwaukee school of engineering
+Jovan Jevtic@UNKNWON
+Jay Wierer@university of wisconsin - madison
+Richard Kelnhofer@msoe
+James Blaha@milwaukee school of engineering
+Sheila Ross@milwaukee school of engineering
+Cory Prust@UNKNWON
+Bharathwaj Muthuswamy@msoe
+Steven Williams@idaho state university
+Edward Chandler@michigan state university
+Michael Wenzel@UNKNWON
+Christopher Merkl@milwaukee school of engineering
+Luke Weber@UNKNWON
+Kerry Widder@msoe
+Steven Holland@msoe
+Aaron Suminski@milwaukee school of engineering
+Joshua Carl@UNKNWON
+Hue Tran@msoe
+John Gassert@UNKNWON

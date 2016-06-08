@@ -1,72 +1,72 @@
-Nadler
-Michael Rathke
-Fred Dyer
-Susan Hill
-Snider
-Hausinger
-Root-Bernstein
-Jack Baldwin
-Tom Adams
-Blinn
-Capriotti
-Patrick Muzzall
-Jim Zablotny
-Taylor Johnston
-Warren Beck
-David Hyndman
-Wulff
-Gary Westfall
-Linwood Clemens
-Kay Holekamp
-Mark Whalon
-John Merrill
-Jim Geiger
-Steven Spees
-Jim Smith
-Beers
-Daniel Stump
-Todd Tarrant
-David Johnson
-N. Deocampo
-Deb Dotterer
-Cheryl Sisk
-Yair Shachar-Hill
-Horace Smith
-Mark Voit
-Barbara Sears
-Camie Heleski
-Brian Maurer
-Ajdin Kljajic
-Robert Stein
-William Wedemeyer
-Greg Swain
-Maxine Davis
-George Bird
-John Biernbaum
-Alan Jones
-Duncan Sibley
-Adele Denison
-George Garrity
-Jean Tsao
-Peter Cobbett
-William M. Hartmann
-Barbara Lundrigan
-Paul Bartlett
-Colleen Hegg
-David Smitly
-Chris Wrede
-Osvaldo Hernandez
-Dennis Young
-Nathan Moore
-Jubin Cheruvelil
-Thomas Harp
-Beth Haas
-Patricia Soranno
-Zeynep Ustunol
-Robert Montgomery
-Matthew Rowe
-Tyrone  Rooney
-Andrea Crosby
-Kevin Haudek
-Kelly Millenbah
-Gabe Ording
+Nadler@michigan state university
+Michael Rathke@UNKNWON
+Fred Dyer@UNKNWON
+Susan Hill@UNKNWON
+Snider@michigan state university
+Hausinger@UNKNWON
+Root-Bernstein@UNKNWON
+Jack Baldwin@UNKNWON
+Tom Adams@UNKNWON
+Blinn@UNKNWON
+Capriotti@UNKNWON
+Patrick Muzzall@UNKNWON
+Jim Zablotny@michigan state university
+Taylor Johnston@UNKNWON
+Warren Beck@yale university
+David Hyndman@UNKNWON
+Wulff@cornell university
+Gary Westfall@university of texas at austin
+Linwood Clemens@UNKNWON
+Kay Holekamp@UNKNWON
+Mark Whalon@university of vermont
+John Merrill@harvard university
+Jim Geiger@UNKNWON
+Steven Spees@university of southern california
+Jim Smith@macalester college
+Beers@harvard university
+Daniel Stump@UNKNWON
+Todd Tarrant@michigan state university
+David Johnson@UNKNWON
+N. Deocampo@UNKNWON
+Deb Dotterer@UNKNWON
+Cheryl Sisk@UNKNWON
+Yair Shachar-Hill@michigan state university
+Horace Smith@yale university
+Mark Voit@UNKNWON
+Barbara Sears@michigan state university
+Camie Heleski@michigan state university
+Brian Maurer@michigan state university
+Ajdin Kljajic@UNKNWON
+Robert Stein@university of michigan
+William Wedemeyer@university of washington
+Greg Swain@UNKNWON
+Maxine Davis@lbc
+George Bird@cornell university
+John Biernbaum@UNKNWON
+Alan Jones@university of michigan
+Duncan Sibley@UNKNWON
+Adele Denison@UNKNWON
+George Garrity@UNKNWON
+Jean Tsao@UNKNWON
+Peter Cobbett@UNKNWON
+William M. Hartmann@wayne state university
+Barbara Lundrigan@michigan state university
+Paul Bartlett@UNKNWON
+Colleen Hegg@UNKNWON
+David Smitly@north carolina state university
+Chris Wrede@sfu
+Osvaldo Hernandez@michigan state university
+Dennis Young@university of michigan
+Nathan Moore@UNKNWON
+Jubin Cheruvelil@rice
+Thomas Harp@UNKNWON
+Beth Haas@UNKNWON
+Patricia Soranno@michigan state university
+Zeynep Ustunol@UNKNWON
+Robert Montgomery@UNKNWON
+Matthew Rowe@UNKNWON
+Tyrone  Rooney@pennsylvania state university
+Andrea Crosby@michigan state university
+Kevin Haudek@michigan state university
+Kelly Millenbah@michigan state university
+Gabe Ording@UNKNWON

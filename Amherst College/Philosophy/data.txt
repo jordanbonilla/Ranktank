@@ -1,7 +1,7 @@
-Alexander George
-Thomas Smith
-Daniel Koltonski
-Nishi Shah
-Jonathan Vogel
-Joseph Moore
-Thomas Kearns
+Alexander George@harvard university
+Thomas Smith@boston university
+Daniel Koltonski@cornell university
+Nishi Shah@amherst college
+Jonathan Vogel@university of massachusetts
+Joseph Moore@amherst college
+Thomas Kearns@UNKNWON

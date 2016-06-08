@@ -1,43 +1,43 @@
-Lawrence Martin
-Charles Ballard
-Amsler
-Susan Linz
-Norman Obst
-John McCallie
-Carl Liedholm
-Mordechai Kreinin
-Byron Brown
-Jeffery Wooldridge
-A. De Brauw
-F. Owen Irvine
-Jonas Zoninsein
-Luis Araujo
-Steven Woodbury
-Mike Conlin
-Deborah Foster
-Emma Iglesias
-Kiwon Kang
-Zhu Chun
-Gabriel Lepori
-Paul Menchick
-Steve Haider
-Thomas Jeitschko
-YU Sun
-Arijit Mukherjee
-Satish Joshi
-Peter Schmidt
-Stacy Dickert-Conlin
-Jack Meyer
-Leah Lakdawala
-Patricia Wilson
-John Godeeris
-Hanzhe Zhang
-christine  amsler
-Oren Ziv
-Zachary Macomb
-Zachary Macomber
-Walter Melnik
-Fei Jia
-Robert Martin
-Ronald Fisher
-Anthony Creane
+Lawrence Martin@university of michigan
+Charles Ballard@michigan state university
+Amsler@UNKNWON
+Susan Linz@UNKNWON
+Norman Obst@UNKNWON
+John McCallie@university of north carolina at chapel hill
+Carl Liedholm@UNKNWON
+Mordechai Kreinin@UNKNWON
+Byron Brown@UNKNWON
+Jeffery Wooldridge@berkeley
+A. De Brauw@michigan state university
+F. Owen Irvine@baruch college
+Jonas Zoninsein@UNKNWON
+Luis Araujo@UNKNWON
+Steven Woodbury@UNKNWON
+Mike Conlin@UNKNWON
+Deborah Foster@UNKNWON
+Emma Iglesias@cardiff university
+Kiwon Kang@UNKNWON
+Zhu Chun@michigan state university
+Gabriel Lepori@UNKNWON
+Paul Menchick@university of chicago
+Steve Haider@michigan state university
+Thomas Jeitschko@university of virginia
+YU Sun@UNKNWON
+Arijit Mukherjee@UNKNWON
+Satish Joshi@carnegie mellon university
+Peter Schmidt@UNKNWON
+Stacy Dickert-Conlin@UNKNWON
+Jack Meyer@UNKNWON
+Leah Lakdawala@university college london
+Patricia Wilson@university of alabama
+John Godeeris@UNKNWON
+Hanzhe Zhang@university of chicago
+christine  amsler@UNKNWON
+Oren Ziv@shu
+Zachary Macomb@university of guelph
+Zachary Macomber@university of guelph
+Walter Melnik@michigan state university
+Fei Jia@michigan state university
+Robert Martin@UNKNWON
+Ronald Fisher@UNKNWON
+Anthony Creane@university of virginia

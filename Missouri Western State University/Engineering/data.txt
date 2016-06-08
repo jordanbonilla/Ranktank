@@ -1,10 +1,10 @@
-Jin-Lee Kim
-Keith Stutterheim
-George Yang
-Long Qiao
-Samir El-Omari
-Aaron Stutterheim
-William Burnich
-Mohamed Abdel-Raheem
-Krishna Kisi
-Mark Johnson
+Jin-Lee Kim@university of florida
+Keith Stutterheim@UNKNWON
+George Yang@UNKNWON
+Long Qiao@UNKNWON
+Samir El-Omari@concordia university
+Aaron Stutterheim@bentley university
+William Burnich@UNKNWON
+Mohamed Abdel-Raheem@UNKNWON
+Krishna Kisi@UNKNWON
+Mark Johnson@UNKNWON

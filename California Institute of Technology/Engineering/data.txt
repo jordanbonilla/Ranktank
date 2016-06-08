@@ -1,20 +1,20 @@
-Paul Dimotakis
-Paul Wennberg
-Tapio Schneider
-Amnon Yariv
-John Dabiri
-Richard Murray
-Yu-Chong Tai
-P.P. Vaidyanathan
-Changhuei Yang
-Babak Hassibi
-Axel Scherer
-Dmitrios Antsos
-Julia Kornfield
-Azita Emami
-Bobby Shirani
-Howard Wolowitz
-Zhen-Gang Wang
-Chris Brennen
-Melany Hunt
-Ali Hajimiri
+Paul Dimotakis@california institute of technology
+Paul Wennberg@UNKNWON
+Tapio Schneider@princeton university
+Amnon Yariv@UNKNWON
+John Dabiri@UNKNWON
+Richard Murray@UNKNWON
+Yu-Chong Tai@UNKNWON
+P.P. Vaidyanathan@UNKNWON
+Changhuei Yang@UNKNWON
+Babak Hassibi@UNKNWON
+Axel Scherer@UNKNWON
+Dmitrios Antsos@UNKNWON
+Julia Kornfield@UNKNWON
+Azita Emami@stanford university
+Bobby Shirani@UNKNWON
+Howard Wolowitz@UNKNWON
+Zhen-Gang Wang@UNKNWON
+Chris Brennen@california institute of technology
+Melany Hunt@UNKNWON
+Ali Hajimiri@stanford university

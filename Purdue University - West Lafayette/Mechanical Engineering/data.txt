@@ -1,45 +1,45 @@
-Karthik Ramani
-Katherine Peterson
-Mark French
-Cagri Savran
-Marisol Kuslowski
-Issam Mudawar
-Xianfan Xu
-Steven Frankel
-Farshid Sadeghi
-Arvind Raman
-Masaru Rao
-Thomas Siegmund
-Steve Son
-Sungwon Kim
-Loren Crook
-Nicole Key
-Bin Yao
-Anil Bajaj
-Eckhard Groll
-Shirley Dyke
-John Abraham
-John Sutherland
-Celienid Lopez-Rivera
-Jeffrey Rhoads
-Robert Lucht
-Hukam Mongia
-Nan Bai
-Justin Siepel
-Jay Gore
-Sung-Min Kim
-Craig Bradshaw
-Xiulin Ruan
-Tatiana Goris
-Girish Joglekar
-Soham Ghosh
-Ilias Bilionis
-James Hylton
-Shaver Gregory
-Yousof Azizi
-Tahira Reid
-Amy Marconnet
-Neera Jain
-Marisol Koslowski
-James Gibert
-Andres Arrieta
+Karthik Ramani@UNKNWON
+Katherine Peterson@UNKNWON
+Mark French@university of dayton
+Cagri Savran@mit
+Marisol Kuslowski@california institute of technology
+Issam Mudawar@mit
+Xianfan Xu@UNKNWON
+Steven Frankel@UNKNWON
+Farshid Sadeghi@north carolina state university
+Arvind Raman@berkeley
+Masaru Rao@UNKNWON
+Thomas Siegmund@UNKNWON
+Steve Son@UNKNWON
+Sungwon Kim@UNKNWON
+Loren Crook@UNKNWON
+Nicole Key@UNKNWON
+Bin Yao@berkeley
+Anil Bajaj@lafayette
+Eckhard Groll@lafayette
+Shirley Dyke@UNKNWON
+John Abraham@UNKNWON
+John Sutherland@UNKNWON
+Celienid Lopez-Rivera@lafayette
+Jeffrey Rhoads@lafayette
+Robert Lucht@american institute
+Hukam Mongia@university of massachusetts
+Nan Bai@UNKNWON
+Justin Siepel@liu
+Jay Gore@university of michigan
+Sung-Min Kim@national university
+Craig Bradshaw@UNKNWON
+Xiulin Ruan@university of michigan
+Tatiana Goris@lafayette
+Girish Joglekar@washington state university
+Soham Ghosh@harvard university
+Ilias Bilionis@lafayette
+James Hylton@tulsa
+Shaver Gregory@UNKNWON
+Yousof Azizi@UNKNWON
+Tahira Reid@UNKNWON
+Amy Marconnet@UNKNWON
+Neera Jain@university of illinois at urbana-champaign
+Marisol Koslowski@california institute of technology
+James Gibert@UNKNWON
+Andres Arrieta@university of bristol

@@ -1,42 +1,42 @@
-Everett Corum
-Nancy Wack
-Heidi Lockwood
-Roger Osterholm
-Richard Goetz
-Paul Neuberger
-Dallas Malhiwsky
-Cathy Silverman
-David Premo
-Peter Nemes
-Thomas Berns
-Marc McGrath
-Rachel Chrisian
-Chris Deeter
-Steven Schneider
-Christopher Cicere
-Leslie Weatherly
-Alan Burch
-Julia Williams
-Jane Smith
-Donna Wade
-Louis Yako
-John Ezell
-Sabrina Jimenez
-Jenny Staley
-Thomas Messer
-Nancy Heath
-Anna Sitzman
-Valerie Watts
-Latanya Hughes
-Victoria Fontana
-Valeria Glass
-Marco Bravo
-Nancy Fultz
-Sheila  Rapa
-Joseph  Spedaliere
-Asila Sayedi
-Lauren Fisher
-Alexander Kaufman
-Pamela Pine
-Gary Smith
-Anne Edwards
+Everett Corum@UNKNWON
+Nancy Wack@UNKNWON
+Heidi Lockwood@UNKNWON
+Roger Osterholm@carnegie mellon university
+Richard Goetz@UNKNWON
+Paul Neuberger@UNKNWON
+Dallas Malhiwsky@UNKNWON
+Cathy Silverman@university of idaho
+David Premo@UNKNWON
+Peter Nemes@university of virginia
+Thomas Berns@university of chicago
+Marc McGrath@university of southern indiana
+Rachel Chrisian@university of southern indiana
+Chris Deeter@university of hartford
+Steven Schneider@UNKNWON
+Christopher Cicere@UNKNWON
+Leslie Weatherly@capella university
+Alan Burch@UNKNWON
+Julia Williams@UNKNWON
+Jane Smith@UNKNWON
+Donna Wade@university of southern indiana
+Louis Yako@UNKNWON
+John Ezell@UNKNWON
+Sabrina Jimenez@UNKNWON
+Jenny Staley@UNKNWON
+Thomas Messer@university of southern indiana
+Nancy Heath@amu
+Anna Sitzman@UNKNWON
+Valerie Watts@UNKNWON
+Latanya Hughes@UNKNWON
+Victoria Fontana@UNKNWON
+Valeria Glass@UNKNWON
+Marco Bravo@UNKNWON
+Nancy Fultz@UNKNWON
+Sheila  Rapa@UNKNWON
+Joseph  Spedaliere@amu
+Asila Sayedi@UNKNWON
+Lauren Fisher@university of southern indiana
+Alexander Kaufman@UNKNWON
+Pamela Pine@UNKNWON
+Gary Smith@UNKNWON
+Anne Edwards@UNKNWON

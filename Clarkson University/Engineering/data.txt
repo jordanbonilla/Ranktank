@@ -1,91 +1,91 @@
-Der-Tau Chin
-Jie Black
-William Wilcox
-Robert Meyer
-James Svoboda
-Amy Zander
-Abul Khondker
-Haley Shen
-Sandra Harris
-Daniel Valentine
-Steven Yurgartis
-John Moosbrugger
-Fred Carlson
-Jack Koplowitz
-Susan Conry
-Ross Taylor
-Norbert Ackermann
-Feng Bor Lin
-Paul McGrath
-Aman Behal
-Don Rasmussen
-Robert Schilling
-Edward Sazonov
-Dan Rissacher
-Ruth Baltus
-Rahgu Rengaswamy
-Jubum Kim
-Feng Hua
-Pragasen Pillary
-Timothy Fanelli
-Hung Tao Shen
-John Dempsey
-Richard McCluskey
-Charles Robinson
-Shane Rogers
-Sulapha Peethamparan
-Pier Marzocca
-Sitaraman Krishnan
-Poojitha Yappa
-Jeremiah Remus
-Stephanie Schuckers
-Laurel Kuxhaus
-Melissa Richards
-Saravanan Suppiah Singaram
-Douglas Bohl
-Kenneth Wilmert
-Marissa Lacoursiere
-Paul Dudden
-Xinli Jia
-Philip Yuya
-Stefan Grimberg
-Lifeng Wang
-Betash Tavakoli
-Kevin Fite
-Daqing Hou
-Ajit Achuthan
-Christopher Bellona
-John Hrynuk
-James Gibert
-Weiming  Wu
-Byron Erath
-Joel Canino
-Tyler Smith
-Melike Erol-Kantarci
-Natalie Kurgan
-Marilyn  Freeman
-Sean Banerjee
-Chen Liu
-Levon Minnetyan
-Kathleen Issen
-James Carroll
-Cetin Cetinkaya
-Tom Holsen
-Ian Suni
-Jim Kane
-Ming Cheng
-Poojitha Yapa
-Dmitry Garagash
-Spencer Thew
-Ahmadi Goodarz
-Daryush Aidun
-Suresh Dhaniyala
-Brian Helenbrook
-Ratneshwar Jha
-Ronald Lafleur
-Sung P Lin
-David Morrison
-Kenneth Visser
-Thomas Ortmeyer
-Alireza Ziarani
-Ayman Ababneh
+Der-Tau Chin@tufts university
+Jie Black@UNKNWON
+William Wilcox@university of southern california
+Robert Meyer@rice
+James Svoboda@UNKNWON
+Amy Zander@clarkson university
+Abul Khondker@rice
+Haley Shen@clarkson university
+Sandra Harris@massachusetts institute of technology
+Daniel Valentine@clarkson university
+Steven Yurgartis@UNKNWON
+John Moosbrugger@georgia institute of technology
+Fred Carlson@UNKNWON
+Jack Koplowitz@clarkson university
+Susan Conry@UNKNWON
+Ross Taylor@university of manchester
+Norbert Ackermann@UNKNWON
+Feng Bor Lin@university of pittsburgh
+Paul McGrath@clarkson university
+Aman Behal@university of central florida
+Don Rasmussen@UNKNWON
+Robert Schilling@UNKNWON
+Edward Sazonov@UNKNWON
+Dan Rissacher@UNKNWON
+Ruth Baltus@UNKNWON
+Rahgu Rengaswamy@UNKNWON
+Jubum Kim@UNKNWON
+Feng Hua@UNKNWON
+Pragasen Pillary@UNKNWON
+Timothy Fanelli@UNKNWON
+Hung Tao Shen@university of iowa
+John Dempsey@clarkson university
+Richard McCluskey@clarkson university
+Charles Robinson@clarkson university
+Shane Rogers@UNKNWON
+Sulapha Peethamparan@UNKNWON
+Pier Marzocca@UNKNWON
+Sitaraman Krishnan@clarkson university
+Poojitha Yappa@clarkson university
+Jeremiah Remus@UNKNWON
+Stephanie Schuckers@UNKNWON
+Laurel Kuxhaus@UNKNWON
+Melissa Richards@UNKNWON
+Saravanan Suppiah Singaram@UNKNWON
+Douglas Bohl@michigan state university
+Kenneth Wilmert@trine university
+Marissa Lacoursiere@UNKNWON
+Paul Dudden@UNKNWON
+Xinli Jia@clarkson university
+Philip Yuya@UNKNWON
+Stefan Grimberg@UNKNWON
+Lifeng Wang@clarkson university
+Betash Tavakoli@clarkson university
+Kevin Fite@vanderbilt university
+Daqing Hou@UNKNWON
+Ajit Achuthan@UNKNWON
+Christopher Bellona@colorado school of mines
+John Hrynuk@UNKNWON
+James Gibert@UNKNWON
+Weiming  Wu@UNKNWON
+Byron Erath@UNKNWON
+Joel Canino@UNKNWON
+Tyler Smith@montana
+Melike Erol-Kantarci@clarkson university
+Natalie Kurgan@UNKNWON
+Marilyn  Freeman@university of texas at austin
+Sean Banerjee@west virginia university
+Chen Liu@UNKNWON
+Levon Minnetyan@duke university
+Kathleen Issen@UNKNWON
+James Carroll@georgia institute of technology
+Cetin Cetinkaya@UNKNWON
+Tom Holsen@berkeley
+Ian Suni@UNKNWON
+Jim Kane@university of connecticut
+Ming Cheng@polytechnic university
+Poojitha Yapa@clarkson university
+Dmitry Garagash@rice
+Spencer Thew@clarkson university
+Ahmadi Goodarz@UNKNWON
+Daryush Aidun@syracuse university
+Suresh Dhaniyala@university of delaware
+Brian Helenbrook@university of notre dame
+Ratneshwar Jha@UNKNWON
+Ronald Lafleur@UNKNWON
+Sung P Lin@university of michigan
+David Morrison@UNKNWON
+Kenneth Visser@university of notre dame
+Thomas Ortmeyer@UNKNWON
+Alireza Ziarani@university of toronto
+Ayman Ababneh@UNKNWON

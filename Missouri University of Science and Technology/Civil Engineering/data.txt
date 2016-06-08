@@ -1,14 +1,14 @@
-David Richardson
-Thomas Petry
-Ashraf Ayoub
-Nathan Newman
-Abdeldjalil Bel
-Ghulam Bham
-Daniel Abbott
-Mehmet Ulker
-Gerardo Aguilar Ramos
-Nicolas Libre
-Audai Theinat
-Mary Koen
-Lesley Sneed
-Richard Stephenson
+David Richardson@berkeley
+Thomas Petry@UNKNWON
+Ashraf Ayoub@UNKNWON
+Nathan Newman@UNKNWON
+Abdeldjalil Bel@UNKNWON
+Ghulam Bham@missouri university of science and technology
+Daniel Abbott@missouri university of science and technology
+Mehmet Ulker@UNKNWON
+Gerardo Aguilar Ramos@missouri university of science and technology
+Nicolas Libre@UNKNWON
+Audai Theinat@UNKNWON
+Mary Koen@UNKNWON
+Lesley Sneed@berkeley
+Richard Stephenson@university of waterloo

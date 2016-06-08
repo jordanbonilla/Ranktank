@@ -1,25 +1,25 @@
-Brian Hunt
-Eddie Valaitis
-Juan Fernandez
-Erin Huband
-Jamie Miller
-John Jones
-Dan Basinger
-Nicolas Flores Castillo
-Cezar Kongoli
-Matthew Konicki
-Monica Jackson
-Walter Wood
-Philip Okoth
-Inga Maslova
-Emmanuel Addo
-Marie Dashen
-Monica Dashen
-John King
-Shafiqah Alawadhi
-Austin Hart
-Sean Carver
-Maria Pospieszalska
-Devin Greene
-Mark Wellman
-Aleka Kapatou
+Brian Hunt@george washington university
+Eddie Valaitis@UNKNWON
+Juan Fernandez@UNKNWON
+Erin Huband@rice
+Jamie Miller@bastyr university
+John Jones@carroll
+Dan Basinger@mason
+Nicolas Flores Castillo@UNKNWON
+Cezar Kongoli@UNKNWON
+Matthew Konicki@berkeley
+Monica Jackson@university of maryland
+Walter Wood@UNKNWON
+Philip Okoth@university of massachusetts
+Inga Maslova@utah state university
+Emmanuel Addo@university of warwick
+Marie Dashen@UNKNWON
+Monica Dashen@UNKNWON
+John King@UNKNWON
+Shafiqah Alawadhi@university of warwick
+Austin Hart@university of texas at austin
+Sean Carver@cornell university
+Maria Pospieszalska@university of massachusetts
+Devin Greene@american university
+Mark Wellman@UNKNWON
+Aleka Kapatou@university of georgia

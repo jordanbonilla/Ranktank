@@ -1,21 +1,21 @@
-David Baumann
-Mathew Carroll
-Paul Duesing
-Keith Schwiderson
-Wendy He
-Kevin Schmaltz
-Morrie Walworth
-Nael Barakat
-Moayad Alrawi
-Jim Depravasad
-Andrew Jones
-Wael Mokhtar
-Jeff King
-Muhammad Janjua
-Mansoor Janjua
-Jaskirat Sodhi
-Paul Weber
-David Leach
-Zakaria Mahmud
-Abhiman Hande
-Taskin Padir
+David Baumann@university of wisconsin - madison
+Mathew Carroll@dartmouth
+Paul Duesing@UNKNWON
+Keith Schwiderson@sci
+Wendy He@UNKNWON
+Kevin Schmaltz@UNKNWON
+Morrie Walworth@lake superior state university
+Nael Barakat@UNKNWON
+Moayad Alrawi@university of kansas
+Jim Depravasad@university of toledo
+Andrew Jones@university of texas at austin
+Wael Mokhtar@lake superior state university
+Jeff King@UNKNWON
+Muhammad Janjua@university of michigan
+Mansoor Janjua@city college of new york
+Jaskirat Sodhi@njit
+Paul Weber@michigan technological university
+David Leach@UNKNWON
+Zakaria Mahmud@university of alabama
+Abhiman Hande@UNKNWON
+Taskin Padir@UNKNWON

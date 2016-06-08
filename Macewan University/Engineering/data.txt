@@ -1,4 +1,4 @@
-Ken Fyfe
-Jeff Davis
-Tamran Lengyel
-Shelley Lorimer
+Ken Fyfe@UNKNWON
+Jeff Davis@university of alberta
+Tamran Lengyel@university of alberta
+Shelley Lorimer@university of alberta

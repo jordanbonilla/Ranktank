@@ -1,38 +1,38 @@
-Arif Ghafoor
-Steve Pekarek
-Oleg Wasynczuk
-Richard Barnett
-Michael Zoltowski
-Kaushik Roy
-Chih-Chun Wang
-Charlie Hu
-Daniel Elliot
-William Chappell
-Mary Comer
-David Love
-Thomas Talavege
-Andrew Weiner
-Scott Sudhoff
-Dan Jiao
-Muhammad Alam
-Zhihong Chen
-Milind Kulkarni
-Angela Rainwater
-Helen McNally
-Vladimir Shalaev
-Dionysios Aliprantis
-Stanislaw Zak
-Sean Scott
-Mark Lunstrom
-Xiaojun Lin
-Eric  Furgason
-Wesley Allen
-Mark Bell
-Byunghoo Jung
-Pratik Kashyap
-Pavan Koundinya
-Yong Chen
-Borja Peleato-Inarrea
-Ali El Gamal
-Zubin Jacob
-Amy Reibman
+Arif Ghafoor@UNKNWON
+Steve Pekarek@UNKNWON
+Oleg Wasynczuk@UNKNWON
+Richard Barnett@drexel university
+Michael Zoltowski@polytechnic university
+Kaushik Roy@UNKNWON
+Chih-Chun Wang@UNKNWON
+Charlie Hu@lafayette
+Daniel Elliot@lafayette
+William Chappell@johns hopkins university
+Mary Comer@UNKNWON
+David Love@UNKNWON
+Thomas Talavege@UNKNWON
+Andrew Weiner@UNKNWON
+Scott Sudhoff@UNKNWON
+Dan Jiao@lafayette
+Muhammad Alam@lafayette
+Zhihong Chen@lafayette
+Milind Kulkarni@cornell university
+Angela Rainwater@UNKNWON
+Helen McNally@UNKNWON
+Vladimir Shalaev@UNKNWON
+Dionysios Aliprantis@UNKNWON
+Stanislaw Zak@colorado state university
+Sean Scott@UNKNWON
+Mark Lunstrom@lafayette
+Xiaojun Lin@lafayette
+Eric  Furgason@UNKNWON
+Wesley Allen@lafayette
+Mark Bell@UNKNWON
+Byunghoo Jung@UNKNWON
+Pratik Kashyap@UNKNWON
+Pavan Koundinya@UNKNWON
+Yong Chen@mit
+Borja Peleato-Inarrea@stanford university
+Ali El Gamal@UNKNWON
+Zubin Jacob@university of alberta
+Amy Reibman@duke university

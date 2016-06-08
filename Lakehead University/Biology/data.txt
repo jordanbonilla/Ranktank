@@ -1,15 +1,15 @@
-Jan Hughes
-Stephen Hecnar
-Joe Carney
-David Law
-Leonard Hutchison
-Wensheng Qin
-Amarjit Chahal
-Yang Yu
-Gerardo Reyes
-Mike Rennie
-Peter Lee
-David Chapman
-Lynn Ruxton
-Kam Leung
-Laura Siegwart
+Jan Hughes@ryerson university
+Stephen Hecnar@university of windsor
+Joe Carney@UNKNWON
+David Law@liu
+Leonard Hutchison@UNKNWON
+Wensheng Qin@UNKNWON
+Amarjit Chahal@UNKNWON
+Yang Yu@university of british columbia
+Gerardo Reyes@dalhousie university
+Mike Rennie@trent university
+Peter Lee@university of manitoba
+David Chapman@osgoode hall law school
+Lynn Ruxton@UNKNWON
+Kam Leung@oregon state university
+Laura Siegwart@UNKNWON

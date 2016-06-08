@@ -1,36 +1,36 @@
-Ortrud Oellermann
-Terry Visentin
-Václav Linek
-James Currie
-Bob Bector
-Donald Grant
-Alex Basilevsky
-Jeff Babb
-Hatem Howlader
-Roger Kingsley
-John Ginsburg
-Ricard Baumgartner
-Seyed Moghadas
-Brian Corbett
-Andrew Bendor-Samuel
-Aynslie Hinds
-Robert McLeod
-Hiep Tram
-Maryna Shulyakova
-Morton Nielson
-Melody Ghahramani
-Michael Lukie
-Shonda Gosselin
-Stephanie Phillips
-Sohail Khan
-Charlene PA
-Md Shakhawat Hossain
-Xuan LI
-Wilfred Aberdeen
-Narad Rampersad
-Wanchen Lee
-Bryan Penfound
-Larry Tanchuk
-Rebecca Danos
-Anna Stokke
-Ross Stokke
+Ortrud Oellermann@simon fraser university
+Terry Visentin@simon fraser university
+Václav Linek@simon fraser university
+James Currie@simon fraser university
+Bob Bector@simon fraser university
+Donald Grant@UNKNWON
+Alex Basilevsky@UNKNWON
+Jeff Babb@simon fraser university
+Hatem Howlader@simon fraser university
+Roger Kingsley@university of saskatchewan
+John Ginsburg@university of toronto
+Ricard Baumgartner@UNKNWON
+Seyed Moghadas@UNKNWON
+Brian Corbett@UNKNWON
+Andrew Bendor-Samuel@northern arizona university
+Aynslie Hinds@university of manitoba
+Robert McLeod@simon fraser university
+Hiep Tram@UNKNWON
+Maryna Shulyakova@UNKNWON
+Morton Nielson@university of massachusetts
+Melody Ghahramani@UNKNWON
+Michael Lukie@university of alberta
+Shonda Gosselin@university of ottawa
+Stephanie Phillips@UNKNWON
+Sohail Khan@simon fraser university
+Charlene PA@university of winnipeg
+Md Shakhawat Hossain@simon fraser university
+Xuan LI@university of minnesota duluth
+Wilfred Aberdeen@UNKNWON
+Narad Rampersad@simon fraser university
+Wanchen Lee@UNKNWON
+Bryan Penfound@simon fraser university
+Larry Tanchuk@university of manitoba
+Rebecca Danos@um
+Anna Stokke@university of alberta
+Ross Stokke@simon fraser university

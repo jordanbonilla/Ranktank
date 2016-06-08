@@ -1,12 +1,12 @@
-Richard Goldsby
-Patrick Williamson
-Micheal Hood
-Amy Springer
-Ethan Graf
-Josef Trapani
-William Zimmerman
-David Ratner
-Jill Miller
-Ethan Clotfelter
-Stephen George
-Dominic Poccia
+Richard Goldsby@amherst college
+Patrick Williamson@amherst college
+Micheal Hood@UNKNWON
+Amy Springer@mount holyoke college
+Ethan Graf@UNKNWON
+Josef Trapani@UNKNWON
+William Zimmerman@california institute of technology
+David Ratner@harvard university
+Jill Miller@colorado college
+Ethan Clotfelter@university of arizona
+Stephen George@amherst college
+Dominic Poccia@UNKNWON

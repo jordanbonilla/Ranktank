@@ -1,77 +1,77 @@
-Robert Jernigan
-Jeffrey Hakim
-Ali Enayat
-Bashair Dweik
-Hossein Modarres-Hakimi
-Virginia Stallings
-Narayan Dakhal
-Steve Casey
-Behzad Jalali
-Samir Safi
-Joseph Clements
-Ilhan Izmirli
-Joycelyn Wilson
-Robert Richter
-Jun Lu
-Mary Gray
-Franklin Gavilanez
-Joshua Lansky
-Franny Van Dyke
-Michael Keynes
-Elsa Naser
-Michael Strand
-Francois Tuamokumo
-Steve Wheatley
-Elizabeth (betty) Malloy
-Olusade Ajayi
-Megan Emilio
-Sacha Forgoston
-Jeffery Adler
-Seung Choi
-Kent Miller
-James Dickens
-Chris Mitchell
-Ugur Tuncay Alparslan
-Wisam Samarah
-Evan Wong
-Jane Hartsfield
-Ronald Mitchell
-John Skukalek
-Pawel Lasiecki
-W. Douglas Maurer
-Kebede Feda
-Lawrence King
-Mike Limarzi
-Erin Koch
-William Basinger
-Michelle Burke
-Donna Dietz
-Adam Knapp
-Vanessa Little
-Avraham Bourla
-Laura Bernhofen
-Michael Robinson
-Kevin Duke
-Kenneth Ward
-Dara Gold
-Bhamini Nayar
-Labed Mokatrin
-Rafiq Hijazi
-Grayzna Badowski
-Matthew Pascal
-Hossein Fateh
-Neil Perkins
-Nedaa Timraz
-Richard Brown
-I Lok Chang
-Dan Kalman
-Larry Liu
-Marice Dorsey
-Madan Pathak
-T. Hoy Booker
-Whiting Wicker
-Artur Elezi
-James Anderson
-John Nolan
-Waild Sharabati
-Lisa Schaefer
+Robert Jernigan@UNKNWON
+Jeffrey Hakim@university of chicago
+Ali Enayat@iowa state university
+Bashair Dweik@UNKNWON
+Hossein Modarres-Hakimi@UNKNWON
+Virginia Stallings@ncu
+Narayan Dakhal@UNKNWON
+Steve Casey@university of maryland
+Behzad Jalali@UNKNWON
+Samir Safi@princeton university
+Joseph Clements@UNKNWON
+Ilhan Izmirli@mason
+Joycelyn Wilson@UNKNWON
+Robert Richter@UNKNWON
+Jun Lu@UNKNWON
+Mary Gray@university of kansas
+Franklin Gavilanez@university of maryland
+Joshua Lansky@harvard university
+Franny Van Dyke@university of chicago
+Michael Keynes@UNKNWON
+Elsa Naser@UNKNWON
+Michael Strand@american university
+Francois Tuamokumo@UNKNWON
+Steve Wheatley@UNKNWON
+Elizabeth (betty) Malloy@UNKNWON
+Olusade Ajayi@UNKNWON
+Megan Emilio@UNKNWON
+Sacha Forgoston@UNKNWON
+Jeffery Adler@university of chicago
+Seung Choi@UNKNWON
+Kent Miller@UNKNWON
+James Dickens@university of massachusetts
+Chris Mitchell@university of massachusetts
+Ugur Tuncay Alparslan@UNKNWON
+Wisam Samarah@berkeley
+Evan Wong@UNKNWON
+Jane Hartsfield@UNKNWON
+Ronald Mitchell@university of massachusetts
+John Skukalek@university of oregon
+Pawel Lasiecki@UNKNWON
+W. Douglas Maurer@UNKNWON
+Kebede Feda@UNKNWON
+Lawrence King@university of chicago
+Mike Limarzi@UNKNWON
+Erin Koch@UNKNWON
+William Basinger@american university
+Michelle Burke@university of massachusetts
+Donna Dietz@UNKNWON
+Adam Knapp@UNKNWON
+Vanessa Little@american university
+Avraham Bourla@university of massachusetts
+Laura Bernhofen@ulm
+Michael Robinson@cornell university
+Kevin Duke@UNKNWON
+Kenneth Ward@oklahoma state university
+Dara Gold@university of massachusetts
+Bhamini Nayar@UNKNWON
+Labed Mokatrin@UNKNWON
+Rafiq Hijazi@UNKNWON
+Grayzna Badowski@UNKNWON
+Matthew Pascal@UNKNWON
+Hossein Fateh@virginia commonwealth university
+Neil Perkins@UNKNWON
+Nedaa Timraz@UNKNWON
+Richard Brown@UNKNWON
+I Lok Chang@wesleyan university
+Dan Kalman@harvey mudd college
+Larry Liu@UNKNWON
+Marice Dorsey@UNKNWON
+Madan Pathak@university of chicago
+T. Hoy Booker@UNKNWON
+Whiting Wicker@american university
+Artur Elezi@UNKNWON
+James Anderson@UNKNWON
+John Nolan@university of virginia
+Waild Sharabati@UNKNWON
+Lisa Schaefer@UNKNWON

@@ -1,31 +1,31 @@
-Clermont Dupuis
-Ruddy Lelouche
-Nadia Tawby
-Ming Duc Bui
-Abderrahim Alikacem
-Laurence Capus
-Nicole Tourigny
-Nadir Belkither
-Hans Bherer
-Marc Philippe Parent
-Guy Mineau
-Nafaa Jabeur
-Mahjoub Langar
-Jean-Francois Morin
-Jean-Marie Beaulieu
-Benoit Potvin
-Frédérick Lussier
-Mario Marchand
-Patrice Di Marcantonio
-Paul-Victor Pare
-Bernard Moulin
-Danny Dube
-Ronald Beaubrun
-Luc Lamontagne
-Claude-Guy Quimper
-Mohamed Mejri
-William Fortin
-Hirotoshi Takeda
-Bechir Ktari
-Jules Desharnais
-Thierry Eude
+Clermont Dupuis@UNKNWON
+Ruddy Lelouche@universite laval
+Nadia Tawby@UNKNWON
+Ming Duc Bui@universite laval
+Abderrahim Alikacem@UNKNWON
+Laurence Capus@UNKNWON
+Nicole Tourigny@UNKNWON
+Nadir Belkither@UNKNWON
+Hans Bherer@UNKNWON
+Marc Philippe Parent@UNKNWON
+Guy Mineau@universite laval
+Nafaa Jabeur@UNKNWON
+Mahjoub Langar@UNKNWON
+Jean-Francois Morin@UNKNWON
+Jean-Marie Beaulieu@university of california berkeley
+Benoit Potvin@qc
+Frédérick Lussier@irsc
+Mario Marchand@university of bristol
+Patrice Di Marcantonio@university of ottawa
+Paul-Victor Pare@universite laval
+Bernard Moulin@UNKNWON
+Danny Dube@UNKNWON
+Ronald Beaubrun@qc
+Luc Lamontagne@robert gordon university
+Claude-Guy Quimper@university of waterloo
+Mohamed Mejri@UNKNWON
+William Fortin@universite du quebec a montreal
+Hirotoshi Takeda@UNKNWON
+Bechir Ktari@UNKNWON
+Jules Desharnais@UNKNWON
+Thierry Eude@UNKNWON

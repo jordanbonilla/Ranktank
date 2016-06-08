@@ -1,10 +1,10 @@
-Brian Frink
-Rea Mingeva
-David Morano
-Les Laidlaw
-Hope Cook
-Todd Shanafelt
-Liza Domeier
-Liz Miller
-LU Mulder
-Mika Laidlaw
+Brian Frink@minnesota state university
+Rea Mingeva@UNKNWON
+David Morano@minnesota state university
+Les Laidlaw@UNKNWON
+Hope Cook@university of st. andrews
+Todd Shanafelt@minnesota state university
+Liza Domeier@minnesota state university
+Liz Miller@minnesota state university
+LU Mulder@iowa state university
+Mika Laidlaw@minnesota state university

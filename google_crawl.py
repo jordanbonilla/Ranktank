@@ -17,8 +17,11 @@ UNI_NAMES = {}
 MAX_WORDS_PER_UNI = -1
 VERBOSE = False
 
+parents = None
+all_pseudos = None
+unis_visited = {}
 
-
+from threading import Thread
 
 from functools import wraps
 import errno
@@ -45,13 +48,6 @@ def timeout(seconds=10, error_message=os.strerror(errno.ETIME)):
         return wraps(func)(wrapper)
 
     return decorator
-
-
-
-
-
-
-
 
 
 def populate_uni_names():
@@ -210,7 +206,8 @@ def parse_institution_name(line, phd_word):
 
 	pre = -1
 	post = -1
-	for i in range(index_of_phd_term, 0, -1):
+	ub = min(len(line) - 1, index_of_phd_term)
+	for i in range(ub, 0, -1):
 		char = line[i]
 		if (char == ',') or (char == '.'):
 			pre = i + 1
@@ -223,6 +220,7 @@ def parse_institution_name(line, phd_word):
 
 	if(pre is not -1 and post is not -1):
 		line = line[pre:post]
+		#print pre, post
 	if VERBOSE is True:
 		print line
 	indicies_of_universities = []
@@ -380,13 +378,15 @@ def get_phd(line, school):
 	# 	return institute
 
 
-if __name__ == "__main__":
-	curfile = None
+def begin(thread_num, schools_to_handle):
+	print "im in", thread_num, len(schools_to_handle)
+	global parents
+	global all_pseudos
+	global unis_visited
 	parents = readDict("pseudonyms.txt")
 	all_pseudos = parents.keys()
 	file = None
-	unis_visited = {}
-	for name in os.listdir("."):
+	for name in schools_to_handle:
 		if name in unis_visited or name == ".git" or name == "":
 			continue
 		else:
@@ -406,7 +406,7 @@ if __name__ == "__main__":
 				for line in a:
 					start_time = time.time()
 					division = line.split('@')
-					if("@UNKNWON" in line or line == "\n" or line == "" or line == "@\n"):
+					if(line == "\n" or line == "" or line == "@\n"):
 						continue
 					if len(division) is 1:
 						line = line.replace('\n', "")
@@ -415,17 +415,20 @@ if __name__ == "__main__":
 						#line = line 
 						# REDO WORK (if invalid pseudonym)
 						if division[1].replace("\n", "") not in all_pseudos:
-							print "name of school that is no longer in all_pseudos:", division[1]
-							line = division[0]
-							line = line.replace('\n', "")
-							line+="@"+str(get_phd(line, name))
+							if "UNKNWON" not in division[1].replace("\n", ""):
+								print "name of school that is no longer in all_pseudos:", division[1]
+								line = division[0]
+								line = line.replace('\n', "")
+								line+="@"+str(get_phd(line, name))
+							else:
+								line = line.replace("\n", "")
 						else: # Valid pseudonym. dont redo anything
 							line = line.replace('\n', "")
 					else:
 						print "len(Div) > 2? WTF"
 						quit()
 					if(division[0] is not ""):
-						print name, division, line, time.time() - start_time
+						print thread_num, name, division, line, time.time() - start_time
 						new_data += line + '\n'
 				file.seek(0)
 				file.truncate()
@@ -433,8 +436,25 @@ if __name__ == "__main__":
 				file.close()
 			os.chdir("../")
 
-
-
+from math import ceil
+if __name__ == "__main__":
+	num_threads = 2
+	a = os.listdir(".")
+	a = sorted(a)
+	length = len(a)
+	print length
+	stride = ceil(length / num_threads)
+	num_processed = 0
+	for i in range(num_threads):
+		ub = int(min(length, num_processed + stride))
+		pid = os.fork()
+		if pid is 0:
+			begin(i,a[num_processed:ub])
+			break
+		num_processed = ub
+	while True:
+		time.sleep(100)
+		continue
 	#rip_text_from_url("http://www.eas.caltech.edu/people/3336/profile")
 
 

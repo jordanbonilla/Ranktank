@@ -1,15 +1,15 @@
-Hai-Sheng Wu
-Russell Palma
-Louis Schwartzkopf
-Robert Herickhoff
-Igor Kogoutiouk
-Igor Kagoutik
-Mark Pickar
-Andrew Roberts
-Ying-Xing Lin
-Ofelia Traistaru
-Analia Dall'Asen
-Jorge Mendez
-Youwen Xu
-Ramesh Misra
-Tom Brown
+Hai-Sheng Wu@iowa state university
+Russell Palma@rice
+Louis Schwartzkopf@berkeley
+Robert Herickhoff@vanderbilt university
+Igor Kogoutiouk@minnesota state university
+Igor Kagoutik@minnesota state university
+Mark Pickar@minnesota state university
+Andrew Roberts@minnesota state university
+Ying-Xing Lin@UNKNWON
+Ofelia Traistaru@minnesota state university
+Analia Dall'Asen@minnesota state university
+Jorge Mendez@minnesota state university
+Youwen Xu@iowa state university
+Ramesh Misra@UNKNWON
+Tom Brown@montana

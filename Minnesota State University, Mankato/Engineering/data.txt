@@ -1,22 +1,22 @@
-Douglas Eckert
-Bruce Jones
-W. James Wilde
-Patrick Tebbe
-Charles Johnson
-Saeed Moaveni
-Vance Browne
-Pete Kjeer
-Ann Goebel
-Harry Peterson
-Julio Mandojana
-Rajiv Kapadia
-Dennis Harvey
-Muhamed Khaliq
-Vojin Nikolic
-Jin Park
-Terry Hause
-Michael Dannenberg
-Jerzy Fiszdon
-Gary Mead
-R.A. Nair
-Karen Chou
+Douglas Eckert@oklahoma state university
+Bruce Jones@UNKNWON
+W. James Wilde@university of texas at austin
+Patrick Tebbe@university of missouri - columbia
+Charles Johnson@iowa state university
+Saeed Moaveni@colorado state university
+Vance Browne@university of maryland
+Pete Kjeer@winona state university
+Ann Goebel@UNKNWON
+Harry Peterson@UNKNWON
+Julio Mandojana@university of washington
+Rajiv Kapadia@university of washington
+Dennis Harvey@minnesota state university
+Muhamed Khaliq@university of washington
+Vojin Nikolic@air force institute of technology
+Jin Park@georgia institute of technology
+Terry Hause@western michigan university
+Michael Dannenberg@minnesota state university
+Jerzy Fiszdon@UNKNWON
+Gary Mead@university of maryland
+R.A. Nair@UNKNWON
+Karen Chou@university of michigan

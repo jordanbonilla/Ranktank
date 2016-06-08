@@ -1,8 +1,8 @@
-T Savarese
-B Gillespie
-R Levine
-J Ruvalcaba
-K Scott
-B Kearney
-Richardson
-Andre Andersen
+T Savarese@UNKNWON
+B Gillespie@UNKNWON
+R Levine@UNKNWON
+J Ruvalcaba@san diego state university
+K Scott@UNKNWON
+B Kearney@UNKNWON
+Richardson@UNKNWON
+Andre Andersen@UNKNWON

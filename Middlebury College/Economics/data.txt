@@ -1,12 +1,12 @@
-Peter Matthews
-Paul Sommers
-Jon Isham
-William Pyle
-David Horlacher
-Marie May
-Caitlin Myres
-D Colander
-Steve Pecsok
-Casey Rothschild
-Jeff Carpenter
-Robert Prasch
+Peter Matthews@yale
+Paul Sommers@UNKNWON
+Jon Isham@johns hopkins university
+William Pyle@duke university
+David Horlacher@susquehanna university
+Marie May@UNKNWON
+Caitlin Myres@tufts university
+D Colander@middlebury college
+Steve Pecsok@UNKNWON
+Casey Rothschild@massachusetts institute of technology
+Jeff Carpenter@university of massachusetts
+Robert Prasch@university of denver

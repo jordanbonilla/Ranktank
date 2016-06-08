@@ -1,43 +1,43 @@
-Yvan MacIel
-Sylvain Goudreau
-Marc Parizeau
-Dominic Grenier
-Diego Mantovani
-Ganguly Udaya
-Paul Lacasse
-Alain De Champlain
-Alain Cardou
-Assiya Kettani
-Andre Desbien
-Corina-Daniela Oancea
-Brian Morse
-Mustapha Nourelfath
-Guy Gendron
-Martine Lord
-Faïçal Larachi
-Claude Bazin
-Robert Jean-Loup
-Ahmad Chacouche
-Leslie Rusch
-Louis Gosselin
-Etienne Gregoire
-Luca Sorelli
-Daniel Dupuis
-Marc Jolin
-Alexandre Drouin
-Ahmed El Refai
-Houshang Alamdari
-Stanislaw Taracewic
-Christian Gagne
-Manuel Rodriguez
-Steve Julien
-Yves St-Amant
-Adolfo Foriero
-Daoud Ait-Kadi
-Serge Kaliaguine
-Benoit Lévesue
-Corina Oncea
-Driss Kettani
-Lepierre François
-Guy Dumas
-Julien Dupuy
+Yvan MacIel@UNKNWON
+Sylvain Goudreau@UNKNWON
+Marc Parizeau@UNKNWON
+Dominic Grenier@UNKNWON
+Diego Mantovani@UNKNWON
+Ganguly Udaya@universite laval
+Paul Lacasse@UNKNWON
+Alain De Champlain@UNKNWON
+Alain Cardou@UNKNWON
+Assiya Kettani@UNKNWON
+Andre Desbien@UNKNWON
+Corina-Daniela Oancea@ul
+Brian Morse@UNKNWON
+Mustapha Nourelfath@UNKNWON
+Guy Gendron@virginia tech
+Martine Lord@mcgill university
+Faïçal Larachi@UNKNWON
+Claude Bazin@UNKNWON
+Robert Jean-Loup@massachusetts institute of technology
+Ahmad Chacouche@UNKNWON
+Leslie Rusch@princeton university
+Louis Gosselin@mcmaster university
+Etienne Gregoire@universite laval
+Luca Sorelli@UNKNWON
+Daniel Dupuis@UNKNWON
+Marc Jolin@mcgill university
+Alexandre Drouin@UNKNWON
+Ahmed El Refai@university of waterloo
+Houshang Alamdari@UNKNWON
+Stanislaw Taracewic@UNKNWON
+Christian Gagne@national university
+Manuel Rodriguez@UNKNWON
+Steve Julien@UNKNWON
+Yves St-Amant@universite laval
+Adolfo Foriero@UNKNWON
+Daoud Ait-Kadi@UNKNWON
+Serge Kaliaguine@UNKNWON
+Benoit Lévesue@UNKNWON
+Corina Oncea@UNKNWON
+Driss Kettani@UNKNWON
+Lepierre François@UNKNWON
+Guy Dumas@california institute of technology
+Julien Dupuy@ul

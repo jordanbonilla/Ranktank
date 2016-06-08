@@ -4,7 +4,7 @@ Robert Hicks@drexel university
 Li Sheng@drexel university
 Kurt Loveland@drexel university
 Harold Gilman@cornell university
-Ron Perline@pennsylvania
+Ron Perline@drexel university
 Herman Gollwitzer@drexel university
 Jeanne Steuber@baylor college of medicine
 Douglas McLeod@drexel university
@@ -20,7 +20,7 @@ Jack Vogel@drexel university
 Yixin Guo@drexel university
 William O'Connor@california university
 Abed Elhashash@temple university
-William J. Keith@pennsylvania
+William J. Keith@UNKNWON
 Avinash Dalal@drexel university
 Justin Smith@drexel university
 Martha Nelson@osu

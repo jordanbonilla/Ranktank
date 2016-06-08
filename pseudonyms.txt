@@ -488,8 +488,6 @@ Center For Worker Education@Center For Worker Education
 UChicago@University of Chicago
 Metro Business College@Metro Business College
 Tabor College@Tabor College
-LIT@Lamar Institute of Technology
-LIU@Long Island University
 UMES@University of Maryland - Eastern Shore
 University of Waterloo@University of Waterloo
 Ivy Tech Community College: Richmond@Ivy Tech Community College: Richmond
@@ -1751,7 +1749,6 @@ International Business College@International Business College
 OIP@Ohio Institute of Photography and Technology
 ITT Technical Institute - Dayton@ITT Technical Institute - Dayton
 Boston Conservatory@Boston Conservatory
-Jackson@Jackson State University
 Vance-Granville Community College@Vance-Granville Community College
 Union County College@Union County College
 Linn-Benton Community College@Linn-Benton Community College
@@ -1948,7 +1945,6 @@ Oregon Institute of Technology@Oregon Institute of Technology
 Weatherford College@Weatherford College
 ITT Technical Institute - Tulsa@ITT Technical Institute - Tulsa
 Geneva College@Geneva College
-Fort@International Business College
 New Mexico Highlands University@New Mexico Highlands University
 Atlanta Technical College@Atlanta Technical College
 St. Martin's College@St. Martin's College
@@ -3564,7 +3560,6 @@ Drew University@Drew University
 Salmon P. Chase College of Law@Salmon P. Chase College of Law
 Montcalm Community College@Montcalm Community College
 CDI College Toronto@CDI College Toronto
-AULA@Antioch University: Los Angeles
 Quinsigamond Community College@Quinsigamond Community College
 FRC@Feather River College
 Ontario Dental Education Institute@Ontario Dental Education Institute
@@ -4572,12 +4567,10 @@ Ryokan College@Ryokan College
 University of Maryland School of Medicine@University of Maryland School of Medicine
 Warner Pacific College@Warner Pacific College
 Arkansas State University@Arkansas State University
-GC@Galveston College
 Gardner-Webb University@Gardner-Webb University
 ITT Technical Institute: Little Rock@ITT Technical Institute: Little Rock
 Southwest Institute of Technology@Southwest Institute of Technology
 Delaware Valley University@Delaware Valley University
-Windsor@Assumption University
 BRTC@Black River Technical College
 Independence University -- CCHS@Independence University -- CCHS
 The Art Institute of California - Los Angeles@The Art Institute of California - Los Angeles
@@ -4781,7 +4774,6 @@ University of Phoenix - Salt Lake@University of Phoenix - Salt Lake
 California State University - East Bay@California State University - East Bay
 Claremont School Of Theology@Claremont School Of Theology
 Jam Vocal School@Jam Vocal School
-Pennsylvania@Wilson College
 UHart@University of Hartford
 Cabrini College@Cabrini College
 DeSales University@DeSales University

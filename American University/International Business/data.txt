@@ -1,14 +1,14 @@
-Shyam Chidamber
-Vladimir Kvint
-Shaista Khilji
-Anna Helm
-Frank Dubois
-Ghiyath Nakshbendi
-Masoud Kavoossi
-Tomasz Mroczkowski
-Ayman Omar
-Stephen Claeys
-Anne Ferrante
-Sarah Mady
-Kashef Majid
-Jay Ghosh
+Shyam Chidamber@massachusetts institute of technology
+Vladimir Kvint@university of bridgeport
+Shaista Khilji@university of cambridge
+Anna Helm@syracuse university
+Frank Dubois@university of south carolina
+Ghiyath Nakshbendi@UNKNWON
+Masoud Kavoossi@howard university
+Tomasz Mroczkowski@UNKNWON
+Ayman Omar@UNKNWON
+Stephen Claeys@university of oregon
+Anne Ferrante@UNKNWON
+Sarah Mady@old dominion university
+Kashef Majid@UNKNWON
+Jay Ghosh@UNKNWON

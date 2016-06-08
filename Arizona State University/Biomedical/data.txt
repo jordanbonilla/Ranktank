@@ -1,30 +1,30 @@
-Lokesh Joshi
-Jerry Coursen
-Michael Caplan
-William Phillips
-Eric Guilbeau
-Antonio Garcia
-Peter Steinmetz
-Leonidas Iasemidis
-Volkan Bilgin
-Jiping He
-David Frakes
-James Abbas
-Jeffrey Labelle
-Jeffrey Kleim
-Sarah Stabenfeldt
-Kevin Bennett
-Bharat Annaldas
-Mark Spano
-Vikram Kodibagkar
-Alan Nelson
-Casey Ankeny
-Xiao Wang
-Jianming Liyang
-Mehdi Nikkhah
-Michael van Auker
-Barbara Smith
-Li Liu
-Bradley Greger
-Jitendran Muthuswamy
-Claire Honeycutt
+Lokesh Joshi@cornell university
+Jerry Coursen@UNKNWON
+Michael Caplan@asu
+William Phillips@thunderbird school of global management
+Eric Guilbeau@asu
+Antonio Garcia@asu
+Peter Steinmetz@johns hopkins university
+Leonidas Iasemidis@arizona state university
+Volkan Bilgin@UNKNWON
+Jiping He@UNKNWON
+David Frakes@asu
+James Abbas@asu
+Jeffrey Labelle@asu
+Jeffrey Kleim@asu
+Sarah Stabenfeldt@asu
+Kevin Bennett@medical college of wisconsin
+Bharat Annaldas@UNKNWON
+Mark Spano@asu
+Vikram Kodibagkar@asu
+Alan Nelson@asu
+Casey Ankeny@asu
+Xiao Wang@asu
+Jianming Liyang@university of toronto
+Mehdi Nikkhah@asu
+Michael van Auker@asu
+Barbara Smith@asu
+Li Liu@UNKNWON
+Bradley Greger@asu
+Jitendran Muthuswamy@asu
+Claire Honeycutt@asu

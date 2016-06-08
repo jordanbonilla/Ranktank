@@ -1,10 +1,10 @@
-Mark Johnson
-Ted Anderson
-Danny Miller
-John Irwin
-Chunming Gao
-Xinli Wang
-Todd Arney
-Linda Wanless
-Weican Vincent Xiao
-Sunil Mehendale
+Mark Johnson@university of michigan
+Ted Anderson@harvard medical school
+Danny Miller@harvard medical school
+John Irwin@harvard medical school
+Chunming Gao@michigan technological university
+Xinli Wang@michigan technological university
+Todd Arney@UNKNWON
+Linda Wanless@capella university
+Weican Vincent Xiao@colorado school of mines
+Sunil Mehendale@michigan technological university

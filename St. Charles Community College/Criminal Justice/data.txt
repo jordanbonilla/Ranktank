@@ -1,17 +1,17 @@
-John Davis
-Book Wayne
-Thomas Tucker
-Kline
-Wayne Book
-Dave Van Mierlo
-Tracey Hayes
-Joan Koechig
-S. Christiansen
-Tim Braun
-Jim Moffitt
-Alan Stahl
-Chad Fisk
-Lawrence White
-Kurt Woodfin
-Dorothy Kenoyer
-Doug Ziegemeier
+John Davis@UNKNWON
+Book Wayne@wayne state university
+Thomas Tucker@UNKNWON
+Kline@sci
+Wayne Book@UNKNWON
+Dave Van Mierlo@UNKNWON
+Tracey Hayes@UNKNWON
+Joan Koechig@UNKNWON
+S. Christiansen@UNKNWON
+Tim Braun@UNKNWON
+Jim Moffitt@johns hopkins university
+Alan Stahl@indiana state university
+Chad Fisk@UNKNWON
+Lawrence White@marquette university
+Kurt Woodfin@UNKNWON
+Dorothy Kenoyer@tulane university
+Doug Ziegemeier@UNKNWON

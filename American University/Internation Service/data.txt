@@ -1,42 +1,42 @@
-Adbul Bangura
-Randolph Persaud
-Mustapha Pasha
-Akbar Ahmed
-Mohammed Abu-Nimer
-Mireya Solis
-Marius Deeb
-Eric Novotny
-Narendran Kumarakulasingsam
-Christos Kyrou
-Steven Pierce
-Robert Pastor
-Douglas Garthoff
-Miguel Carter
-James Lee
-David Bachner
-David Stemper
-Karen Froslid-Jones
-Hamid Mowlana
-Patrick Ukata
-Chuck Call
-Gordon Appleby
-Chris Housenick
-John Picarelli
-Chris Rudolph
-Anca Pusca
-Yvonne Seng
-Arturo Porzecanski
-Deborah Brautigam
-Jenab Tutunji
-Adel Farag Iskandar
-Barry Rubin
-Maia Hollward
-Manuel Suarez-Mier
-Benjamin Jensen
-Elizabeth Cohn
-Peter Weinberger
-Rebecca Johnson
-Kiran Pervez
-Michele Egan
-Jungho Yoo
-Phillip Brenner
+Adbul Bangura@american university
+Randolph Persaud@UNKNWON
+Mustapha Pasha@university of aberdeen
+Akbar Ahmed@bss
+Mohammed Abu-Nimer@mason
+Mireya Solis@brandeis university
+Marius Deeb@UNKNWON
+Eric Novotny@UNKNWON
+Narendran Kumarakulasingsam@american university
+Christos Kyrou@UNKNWON
+Steven Pierce@new york university
+Robert Pastor@UNKNWON
+Douglas Garthoff@UNKNWON
+Miguel Carter@rio
+James Lee@UNKNWON
+David Bachner@UNKNWON
+David Stemper@american university
+Karen Froslid-Jones@UNKNWON
+Hamid Mowlana@northwestern university
+Patrick Ukata@roosevelt university
+Chuck Call@princeton university
+Gordon Appleby@stanford university
+Chris Housenick@UNKNWON
+John Picarelli@UNKNWON
+Chris Rudolph@UNKNWON
+Anca Pusca@UNKNWON
+Yvonne Seng@UNKNWON
+Arturo Porzecanski@whittier college
+Deborah Brautigam@UNKNWON
+Jenab Tutunji@UNKNWON
+Adel Farag Iskandar@university of kentucky
+Barry Rubin@georgetown university
+Maia Hollward@UNKNWON
+Manuel Suarez-Mier@UNKNWON
+Benjamin Jensen@UNKNWON
+Elizabeth Cohn@american university
+Peter Weinberger@UNKNWON
+Rebecca Johnson@UNKNWON
+Kiran Pervez@american university
+Michele Egan@university of warwick
+Jungho Yoo@UNKNWON
+Phillip Brenner@johns hopkins university

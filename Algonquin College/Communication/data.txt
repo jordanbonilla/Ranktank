@@ -1,18 +1,18 @@
-Michael Hayes
-Iain Barrie
-Don Crockford
-Peter Larock
-Michel Barrette
-Gord Grant
-Ric Seabrooke
-Randy Dash
-Mike Irvin
-Lea Gagne
-Stan Newton
-Jeff Green
-Sheryl Gillespie
-Amy Simoneau
-David Bray
-Doug Hoover
-Ron Cormack
-Steve MacMurray
+Michael Hayes@university of victoria
+Iain Barrie@UNKNWON
+Don Crockford@UNKNWON
+Peter Larock@UNKNWON
+Michel Barrette@UNKNWON
+Gord Grant@UNKNWON
+Ric Seabrooke@university of alberta
+Randy Dash@UNKNWON
+Mike Irvin@UNKNWON
+Lea Gagne@UNKNWON
+Stan Newton@UNKNWON
+Jeff Green@UNKNWON
+Sheryl Gillespie@UNKNWON
+Amy Simoneau@UNKNWON
+David Bray@carleton university
+Doug Hoover@university of iowa
+Ron Cormack@UNKNWON
+Steve MacMurray@university of ottawa

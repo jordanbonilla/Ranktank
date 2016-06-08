@@ -1,22 +1,22 @@
-Leonard Nissim
-Paidoussis
-Ebrahim Tamari
-G. Welz
-Nickolas Kintos
-Siva Sankar
-B Bhowmick
-David Swinarski
-Marlon Seaton
-Vincent DeCola
-Rita Pires
-Anna Pires
-Ana Pires
-Sajjad Lakzian
-Armand Brumer
-Theresa Girardi
-Janusz Golec
-William Hastings
-Robert Lewis
-Frederick Marotto
-Julia Mueller
-F. Pannizzo
+Leonard Nissim@boston university
+Paidoussis@UNKNWON
+Ebrahim Tamari@cornell university
+G. Welz@UNKNWON
+Nickolas Kintos@UNKNWON
+Siva Sankar@UNKNWON
+B Bhowmick@UNKNWON
+David Swinarski@columbia university
+Marlon Seaton@harvard university
+Vincent DeCola@UNKNWON
+Rita Pires@mit
+Anna Pires@mit
+Ana Pires@mit
+Sajjad Lakzian@boston university
+Armand Brumer@boston university
+Theresa Girardi@UNKNWON
+Janusz Golec@boston university
+William Hastings@boston university
+Robert Lewis@boston university
+Frederick Marotto@boston university
+Julia Mueller@boston university
+F. Pannizzo@UNKNWON

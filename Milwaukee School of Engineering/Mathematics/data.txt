@@ -1,23 +1,23 @@
-Ron Jorgensen
-Robert Schilleman
-Ed Griggs
-Karl David
-Peter Kuhfittig
-Gina Moran
-Kseniya Fuhrman
-Lisa Hugdahl
-Chunping Xie
-Patricia Berg
-Jill Bolanowski
-Lesya Chorna
-Anthony Van Groningen
-Jennifer Knapkiewicz
-Patrick Watson
-Stephen Augustine
-Usha Raut
-Tahereh Rastegarzare
-Yu Hin (Gary) Au
-Jacob Pichelmeyer
-Sherry Scott
-Bruce O'Neill
-Yvonne Yaz
+Ron Jorgensen@milwaukee school of engineering
+Robert Schilleman@milwaukee school of engineering
+Ed Griggs@UNKNWON
+Karl David@milwaukee school of engineering
+Peter Kuhfittig@UNKNWON
+Gina Moran@UNKNWON
+Kseniya Fuhrman@milwaukee school of engineering
+Lisa Hugdahl@milwaukee school of engineering
+Chunping Xie@UNKNWON
+Patricia Berg@UNKNWON
+Jill Bolanowski@milwaukee school of engineering
+Lesya Chorna@UNKNWON
+Anthony Van Groningen@UNKNWON
+Jennifer Knapkiewicz@northern arizona university
+Patrick Watson@milwaukee school of engineering
+Stephen Augustine@UNKNWON
+Usha Raut@UNKNWON
+Tahereh Rastegarzare@university of arizona
+Yu Hin (Gary) Au@university of waterloo
+Jacob Pichelmeyer@milwaukee school of engineering
+Sherry Scott@UNKNWON
+Bruce O'Neill@UNKNWON
+Yvonne Yaz@oregon institute of technology

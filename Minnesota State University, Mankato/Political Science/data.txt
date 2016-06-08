@@ -1,23 +1,23 @@
-Joe Kunkel
-Jacqueline Vieceli
-Tomas Inglot
-Carloyn Shrewsbury
-Eiji Kawabata
-Gary Zellmer
-Timothy Hayes
-Scott Granberg-Rademacker
-Michael Miller
-Hans Holland
-Carole Cole
-Kevin Parsneau
-Michelle Sampson
-Joseph Kunkel
-Laurie Woodward
-Thomas Maertens
-Patricia Nelson
-Avra Johnson
-Fred Slocum
-Scott Shrewsbury
-Abdalla Battah
-James Andresen
-Doran Hunter
+Joe Kunkel@american university
+Jacqueline Vieceli@minnesota state university
+Tomas Inglot@university of wisconsin - madison
+Carloyn Shrewsbury@usd
+Eiji Kawabata@american university
+Gary Zellmer@minnesota state university
+Timothy Hayes@minnesota state university
+Scott Granberg-Rademacker@minnesota state university
+Michael Miller@ball state university
+Hans Holland@winona state university
+Carole Cole@minnesota state university
+Kevin Parsneau@minnesota state university
+Michelle Sampson@minnesota state university
+Joseph Kunkel@american university
+Laurie Woodward@UNKNWON
+Thomas Maertens@UNKNWON
+Patricia Nelson@american university
+Avra Johnson@minnesota state university
+Fred Slocum@university of iowa
+Scott Shrewsbury@UNKNWON
+Abdalla Battah@american university
+James Andresen@university of texas at austin
+Doran Hunter@university of washington

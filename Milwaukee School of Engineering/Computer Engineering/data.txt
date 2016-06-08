@@ -1,13 +1,13 @@
-Eric Durant
-Walter Schilling
-DR Uphoff
-Brad Becker
-Andrew Wozniewicz
-Mark Krueger
-Robert Hasker
-Andrzej Lewandowski
-Josiah Yoder
-Carol Tumey
-Bradely  Dennis
-Adam Livingston
-Bao Ung
+Eric Durant@milwaukee school of engineering
+Walter Schilling@university of toledo
+DR Uphoff@milwaukee school of engineering
+Brad Becker@UNKNWON
+Andrew Wozniewicz@milwaukee school of engineering
+Mark Krueger@UNKNWON
+Robert Hasker@UNKNWON
+Andrzej Lewandowski@UNKNWON
+Josiah Yoder@university of illinois at urbana-champaign
+Carol Tumey@UNKNWON
+Bradely  Dennis@auburn university
+Adam Livingston@milwaukee school of engineering
+Bao Ung@milwaukee school of engineering

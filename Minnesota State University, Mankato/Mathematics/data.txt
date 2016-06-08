@@ -1,96 +1,96 @@
-Bruce Mericle
-Dan Singer
-Francis Hannick
-Namyong Lee
-Ernest Boyd
-Charles Waters
-Mary Wiest
-William Lee
-Kil Lee
-Maureen Fenrick
-Diann Olson
-Mezbahur Rahman
-Clyde Eklund
-Mark Zuiker
-Don Kroczak
-Matt Strom
-Cheri Mahon
-Larry Pearson
-Paul Bay
-Kris Regas
-Laura Buch
-Pataranut Rujirawat
-Michael Haskins
-Jason Smith
-Eryn Stehr
-Christopher Danielson
-Deepak Sanjel
-Brian Martensen
-Kumiko Suzuki
-In-Jae Kim
-Jim Snyder
-Janett Van Veldhuizen
-Santi Spadaro
-Richard Hillestad
-Jonathan Harper
-Hongxia Yin
-Keelp Sen
-Janet Van Velduheizen
-Mary Guy
-Yea-Ling Tsao
-Herath Harshani
-Kim Kaufeld
-Duane Maas
-Ioannis Souldatos
-Sharon Crowley
-Chia Tung
-Jenna Greenwell
-Binod Shrestha
-Matthew Preime
-Wendy Hoffman
-Khoa Dinh
-Mamfe Osafo
-Matthew Priem
-Daniel Ghebresilassie
-Jonathan Thompson
-Amanda Kriesel
-Duane Mass
-Patrick O'Connor
-Aaron Bader
-Zachary Meyer
-Lindsay Claussen
-Jeffrey Ford
-Stephen Blatti
-Tot Lul
-Daniel Rach
-James Thorne
-Paul Nelson
-Sarah Deboer
-Ashley Smith
-Brandon Rowekamp
-Jordan Tait
-Faysal Satter
-Nghiep Huynh
-Jimmy Broomfield
-Efua Ephrim
-Soo Shin
-Hyekyung Min
-Soo Yeon Shin
-Kyle Zachrich
-Oluwafunminiyi Awe
-Gregory Schumacher
-Sergey Arsentyev
-Wook Kim
-Ke Zhu
-Brandan Heinze
-Sarah Lanand
-Chai Chi Tung
-Shawn Berry
-Pavel Kitsul
-Tony Nelson
-Bob Bohland
-Erik Sweet
-Gary Rockswold
-Mary Lee
-Rick Powers
-Daniel Hermann
+Bruce Mericle@university of wisconsin - oshkosh
+Dan Singer@UNKNWON
+Francis Hannick@rice
+Namyong Lee@rice
+Ernest Boyd@minnesota state university
+Charles Waters@UNKNWON
+Mary Wiest@rice
+William Lee@midwestern state university
+Kil Lee@UNKNWON
+Maureen Fenrick@university of toledo
+Diann Olson@UNKNWON
+Mezbahur Rahman@university of washington
+Clyde Eklund@UNKNWON
+Mark Zuiker@UNKNWON
+Don Kroczak@minnesota state university
+Matt Strom@rice
+Cheri Mahon@UNKNWON
+Larry Pearson@marquette university
+Paul Bay@UNKNWON
+Kris Regas@UNKNWON
+Laura Buch@UNKNWON
+Pataranut Rujirawat@UNKNWON
+Michael Haskins@UNKNWON
+Jason Smith@minnesota state university
+Eryn Stehr@michigan state university
+Christopher Danielson@minnesota state university
+Deepak Sanjel@UNKNWON
+Brian Martensen@UNKNWON
+Kumiko Suzuki@UNKNWON
+In-Jae Kim@minnesota state university
+Jim Snyder@university of texas at austin
+Janett Van Veldhuizen@UNKNWON
+Santi Spadaro@UNKNWON
+Richard Hillestad@minnesota state university
+Jonathan Harper@rice
+Hongxia Yin@minnesota state university
+Keelp Sen@iowa state university
+Janet Van Velduheizen@UNKNWON
+Mary Guy@UNKNWON
+Yea-Ling Tsao@university of northern colorado
+Herath Harshani@UNKNWON
+Kim Kaufeld@minnesota state university
+Duane Maas@pennsylvania state university
+Ioannis Souldatos@UNKNWON
+Sharon Crowley@UNKNWON
+Chia Tung@rice
+Jenna Greenwell@UNKNWON
+Binod Shrestha@UNKNWON
+Matthew Preime@minnesota state university
+Wendy Hoffman@UNKNWON
+Khoa Dinh@UNKNWON
+Mamfe Osafo@UNKNWON
+Matthew Priem@UNKNWON
+Daniel Ghebresilassie@UNKNWON
+Jonathan Thompson@minnesota state university
+Amanda Kriesel@UNKNWON
+Duane Mass@pennsylvania state university
+Patrick O'Connor@university of missouri - columbia
+Aaron Bader@columbia university
+Zachary Meyer@UNKNWON
+Lindsay Claussen@UNKNWON
+Jeffrey Ford@berkeley college
+Stephen Blatti@UNKNWON
+Tot Lul@UNKNWON
+Daniel Rach@UNKNWON
+James Thorne@northern illinois university
+Paul Nelson@UNKNWON
+Sarah Deboer@UNKNWON
+Ashley Smith@minnesota state university
+Brandon Rowekamp@UNKNWON
+Jordan Tait@minnesota state university
+Faysal Satter@university of massachusetts
+Nghiep Huynh@university of chicago
+Jimmy Broomfield@university of texas at austin
+Efua Ephrim@minnesota state university
+Soo Shin@minnesota state university
+Hyekyung Min@UNKNWON
+Soo Yeon Shin@minnesota state university
+Kyle Zachrich@UNKNWON
+Oluwafunminiyi Awe@UNKNWON
+Gregory Schumacher@university of south florida
+Sergey Arsentyev@UNKNWON
+Wook Kim@minnesota state university
+Ke Zhu@stanford university
+Brandan Heinze@university of st. andrews
+Sarah Lanand@minnesota state university
+Chai Chi Tung@rice
+Shawn Berry@UNKNWON
+Pavel Kitsul@rice
+Tony Nelson@university of missouri - columbia
+Bob Bohland@UNKNWON
+Erik Sweet@UNKNWON
+Gary Rockswold@st. olaf college
+Mary Lee@minnesota state university
+Rick Powers@minnesota state university
+Daniel Hermann@minnesota state university

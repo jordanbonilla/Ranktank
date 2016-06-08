@@ -1,33 +1,33 @@
-Altan Burhanettin
-Mahesh Gupta
-Craig Freidrich
-Jeffrey Naber
-Jason Blough
-Adam Loukus
-Amitabh Narain
-Abhijit Mukherjee
-V. C. Komaravolu
-Ossama Abdelkhalik
-Scott Wagner
-Scott Miers
-Fernando Ponta
-Chang Choi
-BO Chen
-Desheng Meng
-Reza Yassar
-Seong-Young Lee
-Jim Declerck
-Ranjeeth Naik
-MO Rastgaar
-Nina Mahmoudian
-Paul Susante
-Aneet Narendranath
-Jaclyn Johnson
-L. Brad King
-Fei Long
-Rachael McFarland
-Andrew Barnard
-Jeremy Worm
-Mahdi Shahbakhti
-Antonio Gauchia
-Radheshyam Tewari
+Altan Burhanettin@UNKNWON
+Mahesh Gupta@UNKNWON
+Craig Freidrich@louisiana tech university
+Jeffrey Naber@michigan technological university
+Jason Blough@university of cincinnati
+Adam Loukus@UNKNWON
+Amitabh Narain@UNKNWON
+Abhijit Mukherjee@UNKNWON
+V. C. Komaravolu@UNKNWON
+Ossama Abdelkhalik@UNKNWON
+Scott Wagner@michigan technological university
+Scott Miers@michigan technological university
+Fernando Ponta@university of illinois at urbana-champaign
+Chang Choi@michigan technological university
+BO Chen@michigan technological university
+Desheng Meng@michigan technological university
+Reza Yassar@washington state university
+Seong-Young Lee@pennsylvania state university
+Jim Declerck@michigan technological university
+Ranjeeth Naik@UNKNWON
+MO Rastgaar@virginia tech
+Nina Mahmoudian@virginia tech
+Paul Susante@colorado school of mines
+Aneet Narendranath@michigan technological university
+Jaclyn Johnson@illinois wesleyan university
+L. Brad King@university of michigan
+Fei Long@michigan technological university
+Rachael McFarland@michigan technological university
+Andrew Barnard@UNKNWON
+Jeremy Worm@michigan technological university
+Mahdi Shahbakhti@university of alberta
+Antonio Gauchia@UNKNWON
+Radheshyam Tewari@michigan technological university
