@@ -172,7 +172,11 @@ def sort_results(raw_output, subject, outdegrees, norm_bool):
 		name = parts[0]
 		numeric = float(parts[1])
 		if norm_bool is 1:
-			od = outdegrees[name]
+			try:
+				od = outdegrees[name]
+			except:
+				od = -1
+				print name
 			if od is 0:
 				numeric = -1
 			else:
@@ -197,7 +201,7 @@ if __name__ == "__main__":
 	else:
 		norm_bool = int(sys.argv[2])
 		base_dir = os.getcwd()
-		subjects = ["English", "Philosophy", "Liberal", "Psychology", "Econ", "Business", "History", "Bio", "Chem", "Physics", "Math", "Computer", "Mechanical", "Electrical", "Engineering", ""]
+		subjects = ["Mech","English", "Philosophy", "Liberal", "Psychology", "Econ", "Business", "History", "Bio", "Chem", "Physics", "Math", "Computer", "Mechanical", "Electrical", "Engineering", ""]
 		for s in subjects:
 			path_to_dirty_results = sys.argv[1]
 			outdegrees = clean_results(path_to_dirty_results, s)
