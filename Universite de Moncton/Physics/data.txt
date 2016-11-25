@@ -8,3 +8,6 @@ Marc Collette
 Peter Breau
 Stéphane Laulan
 Pierre Losier
+Denis McIntyre
+Deny Hamel
+Maxime Boudreau
